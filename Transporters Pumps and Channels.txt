@@ -1,0 +1,365 @@
+Welcome back.
+So today's going to be our third
+lecture in this course. And we wanna talk about
+the division between the cell and its extracellular environment. As I said in the very first lecture,
+every cell has a membrane around it, and that membrane forms a hydrophobic barrier. And that prevents ions or
+any charged molecules from moving from the extracellular space
+into the interior of the cell. So that exit and entrance of
+these hydrophilic molecules, or these charged molecules,
+is gonna be regulated by the cell. And so, today, we wanna talk about
+the kinds of proteins that are used to regulate the exit and entrance of
+hydrophilic materials from ourselves. So the learning objectives then are one, we're going to describe how solutes
+are moving across the cell membranes. Two, we want to explain how charge,
+size, and their solubility will affect the solute
+movement across the membranes. Three, we wanna contrast how the
+transporters, pumps, and channels work. So, these are the proteins that are going
+to mediate the movement of hydrophilic materials, that is charged materials,
+across the membrane. And lastly, we wanna describe
+how the ion channels are gated. That is the regulation of
+movement across these channels. So the first thing is that you
+have to remember that the cells have a hydrophobic barrier, and
+this barrier is a bi-layer of lipid. So, this lipid then,
+this bi-layer of lipid, allows hydrophobic materials to come
+across, but not the charged entities. But our physiology, the process,
+the physiological processes are controlled by a lot of signals that are coming
+from the extracellular space. And it has to come into the cells or they have to change the property
+of the cell in some manner. And the kinds of physiological processes
+that are controlled are one, growth, two, are metabolic processes. We have to be able to move fuel
+across the membranes, for instance. So glucose has to be
+able to enter into cells. And then thirdly, we're going to use some
+of this movement across membranes to signal information from the environment
+back into the body to the integration center, which is our brain, and
+then back out to the effectors. So, in order to be able to
+govern the nervous system, we have to be able to
+convert chemical information, which is coming in from the environment,
+into an ion, and this ion then travels. The ion flow is going to then take
+the information to the brain, where it can recognize the information,
+and then send out, also by ion flow, to the effectors to
+something like glands or to the muscle. The other reason that we're
+interested in this topic is that this is really the basis of many diseases. When we have defective transporters
+such as in cystic fibrosis, then materials are not positioned
+correctly across the membrane. For instance in cystic fibrosis, the chloride is not moving
+across the membrane correctly. And because the chloride ion
+is not moving correctly, water is not moving correctly
+across these membranes. Consequently, the mucus, which is secreted
+by the lung as a protective barrier, becomes very, very thick and viscous. There's a difficulty then for transporting
+gases across this mucus layer so that the oxygen then
+can get into the blood. The other one is that we can
+have defective channels, and we'll talk about what
+channels are in a minute. But, in these cases, then,
+the channels can be allowing calcium, or sodium, or potassium to be
+moving across the membranes. In the long QT syndrome of the heart, we find that some of these
+channels are defective. And that, then, changes the way
+the heart is able to have its beat. And because the beat is prolonged, then what happens is that
+the heart can go into arrhythmia. The other thing that we should notice is
+that these channels, and the pumps, and the transporters often are the target
+sites for our drug therapies. So for instance,
+when you have hypertension, somebody has a blood pressure that's very
+high, they maybe treated with a diuretics. The diuretic inhibits the ability
+of a sodium transporter to move sodium across membranes. Therefore, water cannot follow sodium. What happens then is that the sodium and
+water are peed out from the body. So, we increase the amount of
+urine production from the body. By doing so,
+you decrease the volume of the ECF, and by decreasing volume of the ECF,
+you decrease blood pressure. We also have drugs that can be
+be used to treat stomach ulcers. So in stomach ulcers, you have an erosion of the epithelial
+cells that line the stomach. And under these conditions,
+the acid is the causative agent. By blocking the ability to make acid in
+the stomach, then the ulcer can heal. So, these are called
+Proton Pump Inhibitors. And when we talk about the stomach and
+its activity, the physiological role of the stomach and its ability to make acid in the GI tract,
+that is the gastrointestinal tract, then we'll be talking about
+these proton pump inhibitors. All right, so let's look at the very simplest way of
+moving materials across a plasma membrane. And that's what is diagrammed here. So, if you can imagine that we have
+a plasma membrane which is here, and that this plasma membrane, then again,
+is going to be our bi-layer of lipids, our hydrophobic barrier,
+and we have the ICF, which is the yellow component, and
+outside of that we have our ECF. So we have this orange material
+which is sitting in the ECF, and the membrane is able to allow this
+material to cross the membrane. So this material is permeable to
+the membrane, so the material then can enter into the ICF, and it will enter by
+going down as concentration gradient. So it has high concentration of
+the orange material in the ECF. And so the dominant movement of
+the material is toward the interior of the cell because the cell has very
+low concentrations of material. This is by what's called diffusion. And that this is simply
+a random movement of particles going across
+this permeable membrane. Because the plasma membrane is
+a bi-layer of lipids, any molecule that is soluble in hydrophobic materials,
+that is soluble in lipids, such as urea, can easily pass
+across the plasma membrane. So, the orange material can be urea. So as the urea then enters into the cell, we also have a very small flow of
+the urea back towards the ECF. But this is a very small flow because
+we have a very high concentration of the urea in the ECF and
+a very low concentration in the ICF. The flux, which is gonna be the random
+movement of this material across the surface per unit time,
+is gonna be determined by the gradient. So the net flux is determined by
+the gradient, and we go from a high concentration to a low concentration,
+and this is called Simple Diffusion. Now simple diffusion can also
+occur between two cells. For instance in the cardiac myocyte, we have a small junction which is
+called a gap junction or a nexus. And this structure is a little pore that's
+between the two cells, two adjacent cells. If we have a high concentration of
+calcium in the first cardiac myocyte, this calcium can diffuse through
+the gap junction to the second cell. Which is shown here, and again, the diffusion is down
+the concentration gradient. So, the gap junctions, then,
+are allowing the diffusion of ions, and notably calcium,
+from one cell to the other cell. And this occurs through all
+the cardiac myocytes of the heart that are contractile, so these cells
+are all connected to one another so that, when they contract, they have
+a wave of calcium that goes across cross all the cells and
+they all contract synchronously. So the characteristics, then, of the
+simple diffusion, is that a molecule is going to move from a high to low
+concentration, that it requires no energy expenditure, and third that it will
+continue until the equilibrium is reached. That is, we will have an equal
+concentration of materials on either side of the membrane. Fourth, it occurs rapidly
+over short distances but very very slowly over long distances. So we can move materials from the
+vasculature across the interstitial space, which is pretty narrow, and
+into the cells by diffusion. But it would take way too much
+time to move materials from the GI tract all the way to the lung,
+or to the brain, by diffusion. So we have to have the cardiovascular
+system, which has a pump, and moves material by bulk flow. Five, the simple diffusion is directly
+related to temperature, so if I increase temperature, the system will go faster, if
+I decrease temperature, the system slows. And six, it's inversely related
+to the size of the molecule. So if the molecule is very large,
+then it's gonna be very slow diffusion for that molecule. If the molecule is very small like an ion, say a sodium ion, then the diffusion
+path can be quite rapid. Seven, the diffusion will be dependent on
+the total surface area that's available. A large surface area you'll have
+a lot of diffusion, a very small surface area has very little material
+that can cross at that particular point. It's also dependant on the thickness
+of the membrane that it's going across. This is going to be very important when
+we talk about the respiratory tract. If the membrane between the air space and
+the vasculature thickens because we have water in that
+area or we have some kind of fibrosis, so we have connective tissue in that area,
+the diffusion path for gases will be lengthened and then the diffusion of the
+gas across that region will be impaired. And we'll talk about that some more when
+we talk about the respiratory tract. So that's the simple diffusion, and
+that works for hydrophobic molecules. But molecules that
+are not soluble in lipid, that is molecules that are hydrophylic,
+they are polar molecules, they are charged molecules, they cannot move across
+the plasma membrane by simple diffusion. Instead, some of them are using what are called transporters, and transporters
+are integral membrane proteins, so they're actually stuck into
+the center of the membranes. So if we look at this membrane, we have
+our bi-layer of lipids, and that's here. So this is our membrane. The bilayer of lipids
+has a molecule that's actually embedded within the bilayers. When they're embedded in the bilayer,
+they're called integral membrane proteins. This particular integral membrane protein
+can be open to, in this case, the ECF, or the extra cellular fluid space. But it can change its conformation, and
+then opens to the intracellular fluid space, and it does so by simply flipping
+back and forth across the membrane. So, a particular example of this
+would be the the glut transporter, that is the glucose transporter or
+the gluts. This is a family of transporters
+that can move glucose into cells, and all cells have glut transporters. The glucose can enter into our carrier, this transporter, and
+as it enters into the transporter from the extracellular space,
+then there's a conformational switch, and now the glucose is released
+into the interior of the cell. This particular transporter can
+move in both directions, and so the net flux, or the net flow of
+the material across the membrane, is dependent upon
+the concentration of the material. So if the material has a high
+concentration in the ECF, then we will have a net movement
+of the glucose into the cell, but the glucose that's within the cell can
+also enter into the transporter and move back across the membrane. So it is a system which simply is active
+depending upon the diffusion gradient. So, this is called facilitated
+diffusion because we're using an integral membrane protein to
+move the solute across the membrane. And there's a couple of things about the facilitated diffusion
+that we should think about. One is, is that they're specific, these transporters are specific for
+a given solute. So the glucose transporter
+transports glucose, but it does not transport an amino acid,
+or a peptide, or something like that. The second thing is, is that there's a finite number of these
+on the membrane surface so that we can, under certain circumstances
+saturate all of these transporters. And at that point, we can't get any
+further transfer of material across the membrane, that is, our net flux
+across the membrane becomes constant. And that's what we can see
+here on this next diagram. So, here I've diagrammed the flux
+versus the solute concentration. So, let's say this was our glucose,
+the glucose in the ECF, and that the solute concentration is
+increasing as we go in this direction. The Flux, of course, is our transport
+rate across the membrane itself. And if we look at this simple diffusion,
+the simple diffusion would be for urea, for instance. Then as we increase the urea
+along the x-axis, so if we increase urea along here,
+the solute concentration of urea, then the urea is moving in a linear
+fashion, and that it never asymptotes. But if we look at the facilitated
+diffusion for the glucose, then what we see is that glucose will
+saturate all of the receptors, or all of their transporters at this point. So that at that point, any concentration
+of glucose beyond that does not cause an increase in the transfer rate,
+or in the flux across the membrane. Now some of these transporters are able
+to take more than one solute at a time. For instance we can have a transporter
+that will move glucose and sodium together, and these occur
+within the gastrointestinal tract, they also occur within the renal tubules. This sodium glucose transporter
+is a co-transporter, it's taking two solutes across
+the membrane at the same time. And again, it will load on one side of the
+membrane, undergo a conformational change, and then release the material on
+the other side of the membrane. And here again,
+is our hydrophobic bi-layer. If the molecules, the sodium and
+the glucose in this case, are moving in the same direction, they're going from the ECF into the ICF,
+then it is called a symporter. They're moving in the same direction. And importantly, this only works
+if both the sodium is present and the glucose is present, so we have to
+have both solutes present in order for this transporter to work. But we do have in some
+instances the antiporters, and the antiporters are again, we could find
+these in the gastrointestinal track, and within the renal system,
+within the renal tubules. And here we are moving both a sodium,
+in this case, a sodium and a proton, but they're moving in the opposite directions. So this transporter, as it's moving
+a sodium into the cell is moving any proton out of the cell,
+and into the ECF. And because they are going in the opposite
+directions, this is called an antiporter. Again, there is specificity
+with these transporters. They're only are binding
+the specific solutes, and both solutes have to be present for
+the transporters to work. And again, there is a finite number
+of these on the cell surfaces. And therefore,
+the transfer of the material from one side of the membrane to the other,
+can be saturated. Now we do have instances, where there is actually a pore
+made across the plasma membranes. So again, we have our hydrophobic barrier,
+which is our bi-layer of lipid. And these are integral membrane proteins
+which are inserted within the membrane. But when they are open, there is an aqueous pore that goes
+all the way across the membrane. An example of one of
+these is the aquaporine. Aquaporine is a pore which is used for
+moving of water across the membrane. And in almost all cells
+aquaporines are present, and so water will almost immediately reach
+equilibrium across a plasma membrane. But under some circumstances,
+we have channels where the pore is gated. That is it's closed, and
+there's a regulated opening of the pore. And this regulated opening of
+the pore is called gating. In both cases, when the pore is open, then the movement of the particle across
+the channel will be by diffusion. And we will be moving from high
+concentration to low concentration. So in the case of the aquaporine,
+we could have water, which is higher in
+concentration in the ECF. And the water then will move to the ICF,
+at a very rapid rate. So, how then are these channels gated? The channels can be gated by
+three different mechanisms. The first is a ligand gating. This simply is a chemical which will
+bind to the channel itself, and the channel will be in a closed position. And when this ligand binds to the channel,
+it will cause the channel to open. An example of this is
+the acetylcholine receptor. This is a neurotransmitter for the
+parasympathetic system, nervous system. This acetylcholine binds to a nicotinic
+receptor, on the skeletal muscle. So this nicotinic receptor on
+the skeletal muscle is a channel, it is a sodium channel. And when the acetylcholine binds to
+the channel, the channel opens, and sodium can enter into the cells. It enters into the skeletal muscle. And we'll talk about what happens after
+the sodium enters into the skeletal muscle, when we deal
+with the skeletal muscle. This channel will only allow sodium to
+cross, and the channel will only open when there is acetylcholine present, and
+that can bind to the receptor itself. In the second type of channel,
+these channels are opening to voltage, and we've not really talked about how
+there is a charge difference, a charge gradient across
+the plasma membranes. We said that there is a chemical
+gradient across the plasma membrane, so that sodium is high on
+the outside of the cell. And very small on the inside,
+a small concentration on the inside. The potassium is very high on
+the inside of the cells, and has a very small concentration
+on the outside of the cells. So that's a chemical gradient across
+the plasma membranes of all the cells. But there is in fact a voltage gradient, that is a charge gradient
+across the membranes as well. And this charge gradient is due in part
+to the negatively charged proteins, that are inside the cells. So the inside of the cell is
+more negative, than the outside. So the ECF is more positive,
+relative to the inside of the cell. When the voltage that is the charge
+across this membrane changes, and it can change in certain cell types,
+such as neurons or muscle. Then if it reaches a specific
+difference in voltage across the membrane, it can open channels. And one of the channels that will open
+is a voltage-gated calcium channel. The voltage-gated calcium channels
+are present in cardiac muscle. And then at a certain change of
+voltage across the membranes, these channels will open. And then at a certain voltage,
+these channels will again close. And we'll talk about these some more, when we talk about the cardiovascular
+system and the heart. And the last kinds of gating we see,
+is mechanical gating. A mechanical gating is
+found in the smooth muscle. So in the smooth muscle, we have
+a situation were the smooth muscle has around the artery may have a tone, a tonic contraction,
+which is a basal contractual state. If more blood is delivered to that vessel,
+then the walls are stretched. And when the walls are stretched to open
+these mechanically gated channels, and calcium can enter, and the calcium
+causes the smooth muscles to contract. And the cells will then go back to
+their original contracted state. So that the vessel diameter then,
+will go back to its original basal state. And again, we'll talk about this more when
+we talk about the cardiovascular system. So, those are our channels. So with the transporters and
+the channels then, the movement of materials
+across the membrane, once the opening is present, then
+the movement is going to be by diffusion. But with pumps we are moving materials not
+from a high to a low concentration, but in the opposite direction. And that's what's shown here. So with pumps we're going to have a high
+concentration of material on one side of the membrane, and
+let's say that is calcium in the ECF, so these little green dots are calcium. And in the space we have calcium, and
+it's in a very small amount of calcium. Our pumps are enzymes, and they're enzymes
+which will cleave, usually an ATP. So they cleave an ATP molecule, which
+is an energy molecule within the cell. By cleaving an ATP, they will undergo
+a different confirmation, and that allows the molecule to cross the
+membrane, and that's what's shown here. So we bind ATP to an inactive pump,
+the calcium ATPase, and we bind calcium to the calcium
+ATPase on the inside of the cell. It undergoes a confirmational change, and when it does so, the calcium is
+extruded to the extracellular space. So removing calcium then from a low
+concentration, to a high concentration. Exactly the opposite of what we
+saw with the simple diffusion and facilitative diffusion. And this requires energy. There are many really important pumps,
+within the cells of the body. One of course, we've already talked
+about is the sodium-potassium ATPase. This is a pump that maintains the volume
+of all the cells, and it allows us to keep a steady state of sodium and
+potassium across the plasma membrane. We also have the Calcium ATP-ases,
+which I just talked about, and these are present in muscle cells. So we're going to move
+calcium across membranes, moving calcium very quickly from the
+inside of a cardiac myocyte for instance, in order to be able to relax the cell, and
+to then be ready for the next contraction. We also use these pumps in other areas
+such as the stomach where we make acid. So in order to make acid, you extrude
+a proton into the lumen of the stomach, and you do so
+by using a proton potassium ATPase, and we'll talk about that when we talk
+about the stomach and the GI tract. So there's one last concept
+that we need to talk about, and this is a little difficult for
+students to understand sometimes. There are areas of the body
+where we wanna move materials all the way across the cell, not just going into the cell, but
+across the cell and into the bloodstream. And we're starting with the lumen,
+such as the gastrointestinal tract. You just ate your Big Mac, and we now have glucose sitting in the lumen
+of the gastrointestinal tract, and we wanna move it across the epithelium
+into the blood on the other side, and then deliver that to the liver,
+and to the cells of the body. And we do that not by
+a primary active transport, which we just talked about, which is
+just a simple pump moving it across, but we use two different entities, and the two
+entities are working in coordination, so this is called a secondary
+active transport. So the secondary active
+transport requires a ATPase pump on one surface of the cell,
+usually on the basal surface of the cell, that's the side that's
+facing the bloodstream. And then on the lumen, or
+the apical surface of the cell, we have a co-transporter, and
+that's what's shown here. So, this happens to be the sodium
+glucose co-transporter that we talked about already, and
+in the gastrointestinal tract, it's known as the SGLT, or
+the Salt Glucose Transporter. Both glucose and sodium will bind to
+this transporter, it's a co-transporter, and it's sim porter, and so the sodium and
+the glucose enter into the cells. And when they enter into the cells, the
+glucose then is at the high concentration and it will diffuse across the cell and
+leave the cell at the basal surface through a simple transporter which is
+by facilitated transport for glucose. So this is just simply
+a glucose transporter, so glucose then exits the cell,
+and enters into the blood. Sodium on the other hand,
+moves across the cell and then the sodium is pumped out of the cell
+actively by the sodium potassium ATPase, which moves three sodiums out for
+every two potassiums that enter. And this pump requires and ATP, so
+it's an enzyme which cleaves ATP, so that the energy is moving the sodium then from
+the interior of the cell, to the outside. And we know that that's moving the sodium
+against its concentration gradient. The glucose, in a sense, gets a free ride. The glucose is using the sodium gradient,
+and the sodium gradient is maintained by the sodium potassium ATPase,
+which is on the opposite side of the cell. So we have a transporter,
+a co-transporter, which is linked to a active
+transport of one of the solutes. And that sets up the gradient where
+the other solute then is able to just essentially piggy back or get a free
+ride as it goes across the cells. And we'll talk about this trans-cellular
+transport in much more detail when we talk about the gastrointestinal
+tract in the renal tubules. Okay, so one of our general concepts. So, the first is is that the movement
+of a solute across the lipid bilayer, the cell membranes, is dependents on its
+size, its charge and its solubility. The second is that the net flux or movement of the solute will be
+determined by its gradient. And third, that a permeable solute
+crosses the membrane by simple diffusion. This is a slow type of a movement
+across the membrane, and it is a more general type of movement. So that's soluble and
+lipid can move across this. So this would be some of the steroid
+hormones, it could be urea. These are molecules which are able to
+cross the membranes without having a specific transporter, and they will always move down
+their concentration gradient. And they will move down the concentration
+gradient until they reach an equilibrium, so that you will have an equal
+distribution of the materials on either side of the membrane. Fourth, we have non-permeable solutes, will cross the membrane
+by facilitated diffusion. This is going to be fast,
+it uses transporters. These are those integral
+membrane proteins, and the process again requires a gradient,
+it's saturable, and it's specific, and
+that's because it's using a transporter. So this is a much more targeted
+type of movement of materials across the membranes and into the cells. Five, primary active transport moves a
+solute against its concentration gradient. This mechanism requires ATP, so we have to cleave ATP in order to be able
+to move this material across the membrane. Again, it will show specificity, the
+sodium potassium ATPase moves sodium and potassium in an anti manner, but that it will move protons out of
+the cells if it's a proton ATPase. But if it's a proton ATPase,
+it will not be moving sodium and potassium across the membrane. And again, these things will be saturable,
+we'll have a finite number of these pumps that are gonna be on
+the plasma membrane surfaces. And six, secondary active transport couples the
+activity of a co-transporter with a pump. So, under this condition,
+we will have the active extrusion of one of the solutes that's coming
+in with that co-transporter. And this is the mechanism that's used for
+transcellular transports of solutes across the gastrointestinal tract, epithelium,
+and across the renal tubule epithelium. So, we're moving from a luminal surface all the way across the epithelium
+to get into the blood space. Okay, so
+the next time we come in here then, we're going to consider how we move
+water across the plasma membranes. So see you then.
