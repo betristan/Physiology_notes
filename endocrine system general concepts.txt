@@ -1,0 +1,344 @@
+So welcome back. So today we want to talk
+about the endocrine system. And we only wanna talk about it in
+general concepts or general terms. And then when we actually go through
+the endocrine system a little later in the course, we're gonna look at
+very specific endocrine glands. But today we're gonna
+look over the entire, sort of an overview of the entire system. So the first things we wanna talk about is to contrast the endocrine
+reflex loop with local control. And then secondly,
+we want to characterize hormonal classes. And this is gonna be classified
+according to their chemical nature. Third, we wanna explain the role
+of the carrier proteins in the cases where we have
+a hydrophobic molecule and it has to be delivered through the blood
+through an aqueous system to the tissues. Four, we wanna explain the differences
+among the receptor types for the different classes of these hormones. And then we wanna explain
+the differences in their stimuli. And then lastly,
+explain differences in their regulation. Okay, so there's quite a bit of
+things to go over, so let's start. So the first thing is that this
+is one of the major homeostatic control systems of the body. The other one, of course,
+is the nervous system. But you have also local control systems. And the local controls systems are
+occurring at the target cells themselves. And target cells are the cells
+that have receptors, that is, a protein that can recognize
+a specific chemical. And we said in the homeostasis lectures
+that we have a situation where a chemical can be secreted
+from the first cell and it works on its neighboring cell, and
+that chemical is called a paracrine. But we can also have the cell secreting
+a chemical that works on itself, and that's then called an autocrine. But these are not
+considered to be hormones. They are secreted into the interstitial
+space, and they work locally. The homeostatic controls that we're
+talking about when we're talking about the endocrine system is that we
+have a cell that's going to secrete it's chemical into the blood. And then the blood is going to
+deliver it to the target cells. Those are the cells that have receptors
+for the hormone or for that chemical. All of the cells of the body will
+be bathed by these hormones. They're all gonna see the hormone. But unless they have a receptor for
+the hormone, they can't recognize the hormone and
+will not respond to the hormone. The second thing that we have to
+remember about this system is that these chemicals are being
+secreted into the blood. And the blood is effectively three and
+a half liters of plasma, so you have three and half liters of fluid. And the chemical then is going to be
+diluted into this very large volume. Because of that, the chemicals will be
+at very, very, very low concentrations. And because they're at low concentrations,
+picomolar or nanomolar range concentrations,
+they have to have very, very high affinity receptors
+sitting on their cell surfaces. So the target cell has
+a high affinity receptor. And the chemical,
+the hormone in the blood, the concentration of the hormone is
+going to be very low or very dilute. So we have very low concentration or
+very dilute signals. This is in contrast to the nervous system, which is our other major
+communication system of the body. In here, the nerve is going to secrete
+its chemical into a very tiny space, which is called the synapse. And that's almost butting
+up against its target cell. So it's a very, very small space. And so the amount of neurotransmitter
+being released will be in very high concentration at the target
+cell's receptors. So the target cell receptors
+then will have low affinity. They have low affinity. It means that the binding of
+neurotransmitter to that receptor is very rapid, but it'll come off very
+quickly from that receptor. So we have in the nervous system then, we have a high concentration
+of the neurotransmitter. And the receptor on the target cell is
+going to have a low affinity receptor. The other thing we need to remember
+about the endocrine system is that these are ductless glands. So the secretions from these
+hormones is going to go straight into the capillary beds that
+are profusing all of these cells. There are no ducts that are taking the
+material, then, away from the gland and depositing it at a distance. The second thing is that the endocrine
+glands are going to regulate many of the homeostatic
+missions of the body. So they're going to regulate the sodium
+and water balance, the calcium balance, energy balance, processes that
+cope with stress, growth and development, and processes that
+are associated with reproduction. And as we go through the course, we're
+going to talk about each of the endocrine systems that are, in fact, mediating each
+of these different homeostatic functions. That other thing about the endocrine
+system is that the concentration of the hormone is critical. If we have too high of a concentration,
+then we have too much of a stimulus, we have too great of a stimulus. We can down-regulate the receptors so that the receptors then on
+the target cells are not available. On the other hand,
+if we have too low of a concentration, not enough of the receptors
+are activated on the target cells, and we don't get a big enough
+biological response. So the concentration of
+the hormone in the blood, you wanna have it at what's
+called a u concentration. And this is where it is at
+the normal concentration, where we will get an adequate
+response from the receptor. The rate of the production of the hormone
+is gonna be our most regulated aspect. And it is going to be regulated by both
+positive and negative feedback loops. The other thing about the hormone
+system is that the hormones are delivered by the blood. And because they're delivered by the
+blood, it is a very, very slow delivery. With the nervous system, the nerve is
+butting right up against its target cell, so the response is immediate. It's within seconds. But with the hormonal system,
+the response can be minutes to hours. So it's a much,
+much slower type of a response. The other thing about it is that
+the delivery of these hormones can be dependent on mass action because some
+of these hormones are bound to carriers. So, if the hormone is bound to its
+carrier, which is what's shown here, then that hormone can come off from
+the carrier and become a free agent. So, it's free within the bloodstream. And then it's able to
+bind to its receptor, which is going to be on the cell or
+within the cell. In the case of the hormones
+that are bound to carriers, these are usually steroid hormones. These are usually lipid soluble hormones. And so they have to be bound to
+a carrier in order to be able to move through the blood stream. So they're bound to a protein carrier, and this protein carrier then has to have
+low affinity so that the hormone can be pulled off the carrier to bind
+to the target cell receptor. Cuz we want the hormone to be released
+from the carrier to bind to its receptor, which has high affinity. So the equation then is
+pulled towards the receptor, and this is what's known
+by mass action laws. And then lastly, the concentration of the
+hormone will be governed by its rate of degradation or removal from the body. And it can be degraded either in the liver
+or by the kidney, excreted by the kidney. Okay so we have actually three
+different types of hormones and we can classify them by
+their chemical nature. But first are the peptide or
+protein hormones. These can be anywhere from
+three amino acids or bigger. These hormones are first synthesized
+on ruffin to plastic reticulum as what as known as the preprohormone
+this is an inactive species. And the preprohormone then, this protein, will be further cleaved,
+as it's packaged and moved to the Golgi. And once it's in the Golgi, which is
+another organelle system within the body, then it's cleaved to a prohormone. In some cases,
+the prohormone is active, but in most cases the prohormone
+is also inactive. And in the Golgi, then, these hormones
+will be packaged into secretory vesicles. And the secretory vesicles,
+then with the stored hormone inside, the hormone is now cleaved one more
+time to form the active species. So the pro hormone then is cleaved
+to give us the active hormone and that's occurring within
+the secretory vesicles. In these cells that
+are secreting the peptide or protein hormones, the secretory
+vesicles packaged with the hormone these secretory vesicles can
+sit in the cytoplasm for long periods of time and they'll sit
+there until there's a secretagogue, that is a signal that comes to the cell
+and tells the cell to secrete it. The cell then will have an increase in
+calcium, in the intercellular calcium, or an increase in cyclic AMP. And either of those signals, will cause, then, the secretion of these
+hormones from the cells. But these hormones are pre-packaged. And because they're pre-packaged,
+they can be released as needed. So they're synthesize, and
+they're waiting for the signal. To be secreted. The other thing about these
+is that they are proteins, and so once they're into the blood
+they have a very short half life. So we have a short half lives. They do not require a carrier because
+they are soluble within the plasma, and they are synthesized and stored. An example of one of these
+hormones would be insulin. So insulin for instance,
+is made as a preprohormone. Insulin is packaged,
+is then cleaved as it moves from the rough endoplasmic reticulum to the Golgi,
+and there it's packaged into vesicles. And then once it moves into the vesicle,
+the insulin then becomes cleaved. The cleavage section from the insulin
+molecule is called a c peptide. And it turns out that the c peptide
+also has biological activity, and the two are going to be present in
+equal molar ratio within the vesicle. When the insulin is secreted the c
+peptide is also released into the blood. The second type of hormones
+are the hormones that are derivative of cholesterol and these hormones
+are called steroid hormones. They are made by the adrenal glands,
+by the gonads, and by the placenta of
+the pregnant female. These steroid hormones
+are not soluble in plasma. They are lipid soluble, so they have to be transported in
+the blood on carrier proteins. These hormones have to be
+synthesized on demand. They can not be stored within membrane
+bound vesicles within the cytoplasm. Because they're able to go past
+the little membrane vesicles. They're soluble and lipid. So when you need any of these hormones
+then, they have to be synthesized. Once they're synthesized then
+they have to be secreted. So these hormones take
+a little bit more time for them to increase in tighter or
+increasing amount within the blood. The other thing is that they have to
+be transported on carrier proteins. So they are bound to the carrier protein,
+the carrier protein is made in the liver, they're bound to the carrier protein and
+then delivered to the tissues. Then pulled off from the carrier protein
+and then used within the tissues. Many times, these steroid hormones are converted to a more active
+species within the target tissues and we'll talk about that when we
+get to the specific instances. For instance, the testosterone,
+which is made in male. This is the male sex hormone. The testosterone can be converted
+to a much more higher active form, which is dihydrotestosterone,
+which is DHT. Testosterone can also be
+converted from the male hormone, can be converted to estrogen
+within the tissue as well. So testosterone can be
+converted by an enzyme, either to DHT, or to estrogen,
+depending upon the target tissue. The last of these hormones is
+the amino acid derivatives and what's shown here
+are derivatives of tyrosine. So we have epinephrine as
+one of these hormones. It's made in the adrenal gland. The epinephrine is soluble in plasma and has a very short half-life
+of seconds to minutes. The epinephrine will bind
+to the same receptors that, the adrenergic receptors that
+the neuroepinephrine binds to. So it's sort of a backup system for
+the sympathetic nervous system. Tyrosine derivatives can also be
+made into thyroxine or into T3. Thyroxine, which is shown here,
+is the thyroid hormone. These are insoluble in plasma. They are transported via
+carriers to their target tissues. And they have a very long half life,
+because they are bound to the carrier. Their half lives are on
+the order of hours to days. And in fact, these hormones have a half
+life, T4 has a half life of seven days. Interestingly enough, these hormones
+are converted in the target tissue. So, T4, which is what's shown here, cuz
+it has four iodine residues on it, can be converted to T3, which is the other active
+species, by removing one of the iodines. So let's talk a little bit
+about the transport carriers. The transport carriers as I said, extend
+the life of the hormone in the blood and that the thyroid hormones is several days,
+the steroid hormones, testosterone and estrogen is on the order
+of 60 to 90 minutes. They also importantly, they sequester
+the hormone from its target cell. As long as the hormone is on the carrier
+and is bound to the carrier, it's not able to enter and
+to engage into the receptor. So, the only hormone
+that's actually active of these is going to be the free hormone,
+and the free hormone is going to be very, very small concentrations
+within the blood. Because it's not very
+soluble within the blood. So, it's being released from the carrier
+just locally at the tissue, and that will be the carrier, that will be the hormone
+that's able to bind to its' receptor. The total concentration of the hormone is
+going to reflect the free plus the bound. So as you look at the total
+concentration then by saying antibody you will see what's bound
+as well as what's free. But it's only the free
+that's going to be active. So why is this important? You could have an instance where you
+have an individual who is put on birth control pills. So she's taking estrogen. And as she's taking estrogen,
+estrogen causes a secretion of a hormone,
+of a carrier from the liver. For the thyroid hormone. So her total amounts of thyroid hormone
+which is circulating within the blood, can rise. This hormone is then bound to this
+new carrier, to this extra carrier, and even though you have a large amount
+of material that's bound to the carrier it's the free hormone that's
+the important amount. So the person could have normal
+amounts of free hormone, but very high amounts of hormone bound to
+a carrier, and be perfectly normal. And we'll talk about this some more
+when we talk about the thyroid gland. Now these different classes of hormones
+also differ in their receptor types. So the hormones which
+are soluble in plasma, they're the ones that are hydrophilic
+material, so peptide derivatives. They bind to receptors which
+are present on the cell's surface, and that's what's shown here. And there are essentially three different
+types of receptors that they can bind to. These receptors are integral
+membrane protein, so they're inserted within
+the plasma membrane. The first is one where you have
+a tyrosine kinase linked situation, and this is the receptor for growth hormone. What this means is that the hormone,
+when the hormone binds to this receptor, that an enzyme, which is tyrosine kinase, kinase means it puts a phosphate group on
+something, is recruited to the receptor. And then that second messenger signaling
+then starts a cascade of events which changes the metabolism of the cell. In the second case which
+is the case of insulin, the insulin binds to its receptor,
+that receptor itself is a tyrosine kinase. So binding the insulin to its receptor
+activates the tyrosine kinase and you now get a phosphorylation cascade where we
+change again the metabolism of the cell. And again, it's a very rapid second
+messenger signaling within the cell. And the last one is
+the G coupled receptors. And the G coupled receptors are using,
+in some cases, adenosine cyclase to cause changes,
+metabolic changes within the cells. And again, we're activating
+second messenger cascades, which will then rapidly change
+the metabolism of the cell and this is the type of receptor
+that we see for glucagon. We also have the steroid hormones and the thyroid hormone, and
+they're both soluble in lipids. And so these two types of hormones
+can cross the plasma membrane and enter directly into
+the interior of the cell. And because they can enter
+into the interior of the cell, their receptors are inside the cells. So these receptors are receptors that
+are going to bind to the DNA, and activate gene transcription. That is they're gonna change
+the type of messenger RNA, and proteins that are gonna be
+made by this particular cell. They're changing the activity of the DNA. In every case, we can have multiple
+types of receptors on a target cell. For instance,
+the beta cell of the pancreas has receptors on it that
+regulate its activity. And those receptors they can be
+receptors for epinephrine on it. There's also receptors for
+acetylcholine on that same cell. So it's going to the net
+effect of these receptors and whether they're activated and
+how active they are, will be determine what the outcome
+is from that given cell. The other thing is you should remember
+are that there are large numbers of these receptors on the cell surface, there's not
+just one receptor on the cell surface, but many, many, many copies of
+receptors on the cell surface. And also many copies of
+the transcription factors, that is the nuclear receptors
+which are within these cells. First, binding the steroid hormones or
+for binding the thyroid hormones. The target cell sensitivity
+is depends on its receptor. So, the affinity of the receptors,
+as we said, has to be high affinity for these hormones because we have very
+low concentrations of the hormone. Secondly, the receptor number, the target
+cells that have very high numbers of receptors on its cell surface for
+a given hormone, are very, very sensitive to that particular hormone. And then third, competition. Competition is that some of these hormones
+are very similar in structure, and they can bind to the receptors. So for instance,
+the mineral corticoid receptor can cortisol combined to it and
+aldosterone combined to it. And to prevent cortisol from binding
+to the that mineral corticoid receptor then the cell has a protective mechanism
+for inactivating the cortisol. And lastly, saturation and again this is
+when all the receptors that are present on the cell's surface
+are bound by the hormone. All the receptors are occupied. So we'd have maximal activity at that time
+or maximal response from the target cell. So it's sort of difficult
+to think about this. This is all abstract and I'm giving you sort of laundry
+lists of things to remember. And they're the type of things where it's
+difficult to think about, because we're not talking about a particular hormone or
+a particular activity. So let's go through and look at these
+different kinds of stimuli that can activate the hormones or
+the endocrine systems, and the first of these would be that we
+have neuron that's going to become targeted by a stimulus, and so this neuron
+then is going to secrete a hormone, and it's called a neuroendocrine cell. This neuron can sense the concentration
+of sodium that's within the blood. And by sensing the concentration of
+sodium, as sodium rises within the blood, this particular neuron
+becomes activated and secretes a hormone called
+anti-diuretic hormone. This hormone works on the kidney, and causes the kidney to move water from the
+presumptive urine back into the blood so it dilutes down the amount of
+sodium that's within the blood. So this is called a neural control and
+the neuron is secreting from what's called a posterior pituitary,
+a part of the brain. In the second kind of a situation, we have
+a hormone, which is regulating a hormone, which is regulating a hormone,
+which is regulating a hormone. So, under this conditions are stimulus
+could be that we have low plasma glucose. If we have low plasma glucose
+then the hypothalamus, again, the portion of your brain can
+sense that from the blood, and it will secrete the first hormone which
+is growth hormone releasing hormone. That works on the pituitary
+cell to secrete growth hormone. And the growth hormone then works on
+the liver, which is its target cell, and the liver then, or
+the bone which are its target cells. So here we have one hormone,
+which is controlling another hormone, which is controlling a third. So we have a series of hormones, and
+this is a complex negative feedback loop. And in the last case, we have the stimulus
+directly activates the final gland, and that is, is that if we
+have low blood calcium levels. So we have low blood calcium levels,
+we can activate the parathyroid gland. And the parathyroid gland secretes
+the parathyroid hormone, and the parathyroid hormone works on bone. And this bone then will release calcium. And the calcium then is the negative
+feedback loop which removes our original initiating signal. So this can be very complicated, the other
+illustration I could have given for this last one is the pancreas and
+that is where we are secreting insulin, glucose rises in the blood, insulin is
+secreted from the pancreatic beta cell. This then would be insulin, and
+the insulin works on the target cell which is the muscle or fat to take
+the glucose back up into the body. So we're gonna have very complicated
+systems and we're gonna deal with each of these systems separately
+at a later time in the course. That's how we turn on the system. So how do we turn off the system? We can turn off the system
+both locally and systemically. So we can turn off the system
+locally at the gland itself. This would be through
+receptor desensitization. If we simply remove the receptor for the hormone in the target cell,
+from the cell surface for instance. If it's an insulin receptor, and
+we remove it from the cell's surface, then the target cell which is a skeletal
+muscle, cannot see the insulin, does not bind the insulin,
+and won't respond. The alternative is that you can
+degrade the actual receptor. So you can remove it from the target
+cell surface and degrade it. The type two diabetic is a situation
+where we had receptor desensitization. So the type two diabetes
+is where that individual does not respond correctly to insulin. Insulin is present in the system,
+but the receptor is desensitized. And so,
+you don't get the movement of glucose from the blood into the skeleton
+muscle cells correctly. To hide it, to remove this rise
+in blood glucose due to feeding. The other way of controlling this is
+through the negative feedbacks and that's obviously what we were just talking
+about, where if you have the stimulus, and that was if you had a high
+sodium within the blood and then we move water back by this hormone, anti diuretic hormone, then move water
+back to the kidney to dilute that sodium. Then we remove that initiating signal and that's simply a regular
+negative feedback system. Okay.
+So one of our general concepts then. So the first is that we have peptide
+hormones, and they're soluble in plasma. They bind to cell surface receptors. They're fast-acting and
+they're gonna have short half lives. Secondly, we have thyroid hormones and
+steroid hormones, and these are insoluble in plasma, the act
+by intercellular receptors to change transcription, that is to change the DNA
+expression, or the gene expression. They're slow acting, and
+they're gonna have long half lives. Third, we have binding proteins,
+that are called carriers, that regulate the hormone
+availability to the target cell. They'd regulate the physiologic
+function and the half lives. The carriers extend the half
+lives of these hormones. Fourth, the hormone releases
+under neural control, hormonal control,
+nutrient control, or ion control. So, we can have different types of signals
+which are going to regulate whether or not the hormone is going to be secreted,
+or be synthesized and secreted. Five, signaling is regulated by changing
+the plasma hormone concentration This is, by far, the most common site for
+regulation. But you can also change
+the target cell sensitivity. You can do so by removing the receptors
+from the cell surface, or, you can simply uncouple the receptors so that you
+combine the hormone to the receptor. But, it doesn't activate the second
+messenger signalling within the cell. So, it's effectively turned off,
+so it's a desensitized. By its receptor. Okay, so we will come back and
+look at all of these different points, when we are dealing with the endocrine
+systems themselves, with all the different individual endocrine glands,
+much later in the course, okay. So see you then.
