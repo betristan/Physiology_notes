@@ -1,0 +1,211 @@
+Greetings. 
+So, today we want to talk about how we move water across the plasma membrane. 
+And remember the last time we said that the plasma membrane was a bilayer of 
+lipids, so that it was a hydrophobic barrier around all of the cells of the 
+body. In order to move a molecule that's, 
+that's hydrophobic hydrophilic across this barrier we had to have some the of 
+protein which was a transporter or a pump. 
+In the case of water, water is the hydrophilic molecule, it's a polar 
+molecule and so, water by itself, is very, very, very slow to move across the 
+plasma membrane. But, but water has its very own specific 
+transporter and this specific transporter is called aquaporin. 
+The aquaporin is present in essentially all cells of the body. 
+So, water is able to move across the plasma membrane very rapidly through this 
+through this channel. Because the channel is open at all times, 
+it is not a gated channel. So, the movement of water, because its so 
+important to the understanding the, how we control the volume of cells, has its 
+very own special name and that's called osmosis. 
+And so, today we're going to talk about osmosis. 
+And secondly we want to consider the terms osmolarity and tonicity, which are 
+terms which will govern the movement of water. 
+And then lastly we want to talk about how these effective solutes, this, these are 
+solutes which are not permeable to the, to the plasma membrane. 
+are going to regulate the flu, the size of the fluid compartments of the body. 
+Alright so, the first thing we have to think about, and this is not always 
+intuitive, and that is the concentration of water. 
+Because water is going to be moving by facilitated diffusion, through that 
+aquaporin channel. The aquaporin channel is open at all 
+times so, it is not a gated channel. The concentration of water has, is 
+highest in pure water. And when we add a solute to water, we 
+will then decrease the concentration of the water. 
+So, for instance, if this particular, if this particular vessel is one liter in 
+volume and the vessel over here is one liter in volume, by adding the sodium to 
+the second vessel, this is to this one. Then what happens, is that the 
+concentration of the water is less in, in vessel two than it is in vessel one. 
+And I know you're all sitting there saying well, that's pretty obvious but 
+sometimes it's confusing. So, let's just think about that and try 
+to remember that water, the highest, the highest concentration of water is pure 
+water. Alright so, let's look at it, at why this 
+can be very important. So, if we have two different 
+compartments, so we have two cells. We have cell one and we have cell two, in 
+cell one, we have two sodium ions and in cell two we have four. 
+Now, these have equal compartments so, they're the same size. 
+So, let's say this is one liter in size and this is one liter in size. 
+If we allow these two cells to come together and we have a membrane between 
+them that allows the movement both of the solute and of the water. 
+Then the solute and the water will reach equilibrium. 
+So, the sodium will diffuse from one cell to the other. 
+So, we'll have then an equal number of sodiums in cell one as we have in cell 
+two. And water will also distribute equally 
+between the two so, that the concentration of the sodium will bec, 
+will be equal in both cases. And that's pretty straightforward. 
+Now, notice that we did not change the volume of the two compartments, so 
+they're each one liter in size. But what happens if we take our same two, 
+two cells and we put them together, but now we put a membrane between those 
+cells, which is not permeable to the solute. 
+It is permeable to water so, the sodiums all stay in compartment two. 
+And the, and, the water now that's in compartment one, is able to leave 
+compartment one, and enter into compartment two. 
+To dilute compartment two so, that the concentration in two is equal to the 
+concentration in one. And that's what's shown here. 
+Now notice, that by doing so, we now have changed the volume of compartment two. 
+So, where this used to be compartment one, used to be one liter, now let's say 
+it's 500 milliliters, it's half. And, compartment two is now increased by 
+another half, so it's now one and a half liters. 
+So, the diffusion of water then is, is ,is a facilitated diffusion. 
+The fusion of water requires the aquaporin channels and it will cause the 
+change in the compartment size, when the membrane is impermeable to the solute. 
+And this is a key, key thing to remember. Because this is, if we were talking about 
+cells in your body, the cells in your body are going to respond in exactly the 
+same way. So, that if we have a concentration 
+change in the ECF, such that you eat, you eat a lot of sodium, so that the ECF now 
+has a lot of sodium in it. The water that is within the cells, will 
+leave the cells and move to the ECF. So, that the concentration of the sodium 
+will be the, will, will, will be equalized. 
+The concentrations between the ECF and the ICF will be equal and we'll talk 
+about this in just a second. So, osmosis then is the movement of 
+water, it can fer, it occurs by diffusion only so, we're going from a high 
+concentration of water to a low concentration of water. 
+We use aquaporin channels [UNKNOWN] facilitated diffusion so that, that moves 
+very quickly when we have these aquaporin channels present. 
+And the channels are not gated, the channels are always open so, we have a 
+patent opening between the cells. The highest concentration of water is 
+pure water. So, we want to talk about two separate 
+separate concepts, one is the osmolarity of the solution and the second is the 
+tenacity of the solution. So, when we calculate osmolarity of the 
+solution, we need to calculate how much, how many particles are within the 
+solution, not just the number of moles that are within the solution. 
+Normally when you think of the solution, you think of the molarity of the solution 
+and that's the number of moles per volume and that's what shown here. 
+But the osmolarity, then we also consider the number of particles, okay, so let's, 
+let's think about this. So, we have a solution when we have a one 
+molar solution of sodium chloride and one molar solution of sodium chloride, the 
+sodium and the chloride dissociate into two particles. 
+Those two particles then, means that we will have a 2 OsM solution of NaCl . 
+There's also term called osmolality and in, and in biological systems, we really 
+don't make a very large distinction between osmolality and osmolarity. 
+The difference is that in osmolarity, we're talking about one liter for our 
+volume and in osmolality we're talking about a kilogram of water for our volume. 
+But we will consider, in this course, we're consider them to be essentially 
+equivalent. The other thing that we're going to 
+consider is that in the body the osmolarity of the cell is about 300 mOsM. 
+So, the body is going to be 300 mOsM and, and if I put this this cell into a 
+solution of ECF and the ECF is 300 mOsM, then that solution is isosmotic to the 
+cell. Because it's the same osmolarity as the 
+cell. If I had the ECF is actually 200 mOsM, 
+then it is more dilute than the cell and so, it would then be called hypo osmotic 
+to the cell. And if the solution that I put the cell 
+into is 400, then 400 mOsM then, that's a hyper osmotic solution relative to the 
+cell. Okay so, iso meaning the same or equal, 
+hypo meaning less and hyper meaning more. Now, when we're calculating osmolarity, 
+we calculate all of the molecules that are within the solution. 
+So, so, if I have one molar sodium chloride and I add to that a, a molar of 
+urea. And urea does not dissociate into, more 
+than one particle, then that solution becomes a 3 OsM solution. 
+Sodium Chloride plus urea [INAUDIBLE] makes a 3 [INAUDIBLE] OsM solution. 
+Now, now the difference between osmolarity and tonicity is that with 
+tonicity, we do not count all of the particles that are in the solution, we 
+only count the particles that are non-penetrating. 
+And the, the non-penetrating particles means that they cannot go across the 
+plasma membrane. Remember, urea could go across the plasma 
+membrane. But a non-penetrating particles would be 
+the sodium and the chloride. If I have my red blood cell and I put it 
+into a solution that's 300 mOsM, then the red blood cell is happy, because it iself 
+is 300 mOsM and that's going to be a solution that's isotonic. 
+It's the same tonicity as the cell. If I then dilute the solution that the 
+cell is sitting in, then the, the solution could go down to let's say 200 
+mOsM. And when that happens, the red blood cell 
+which is at 300 will take in water because the, the solution now is 
+hypotonic to the red blood cell. And the water is going to move from a 
+higher concentration, which is outside of the cell, across the membrane and into 
+the red blood cell, and our red blood cell swells. 
+Conversely, if I put our red blood cell into a solution where the solution is now 
+400 mOsM, now this solution is hypertonic to the cell. 
+The cell will shrink, and the water then will move out of the cell and into the, 
+into the, its environment. So, the cell then is going to try to 
+balance the water, is going to try to balance the concentration of the solution 
+that's around the cell. And it does so by by moving across that 
+aquaporin channel. So, the tonicity then, we have to 
+consider the non-penetrating molecules only. 
+So, in a solution where we have a 1 a 1 mOsM solution of NaCl and we add to it a 
+1 mOsM solution of urea, that solution would still be only 1 mOsM because we 
+don't consider the urea. The urea can go across the plasma 
+membrane. Alright, so why am I torturing you with 
+this? This is a really important point several 
+years ago there was some runners who were in the Boston Marathon who had over 
+hydrated and they had over hydrated as they were running their race. 
+And what happened is that they diluted down their ECF, they diluted down the 
+blood, the actual osmolarity of their blood. 
+And by diluting down the osmolarity of their blood, then they had a situation 
+where water started moving into the neurons of the brain and the neurons of 
+the brain started to swell. Three of these runners actually died from 
+this, so this is a really important point, that we need to adjust the amount 
+of, of tonicity, that is the amount of solutes within the ECF. 
+And therefore within the vasculature, such that it's compatible with life. 
+And that, it, when we have very high salt within the ECF, water will move from the 
+cells into the ECF and if we have a very dilute solution in the ECF, then water 
+will go the opposite direction and the cells will swell. 
+So, one of the things that the body is going to want to do, is to always 
+maintain the ECF at about 300 mOsM. So, let's go through this tables, so that 
+you can sort of think about what I'm talking about. 
+So, the first one is, is that we are going to give an IV, that is by needle 
+through, into directly into the, into a vein of an individual and we're going to 
+give them isotonic saline. So, this is going to be 300 mOsM. 
+So, it's 300 mOsM our solution, so the total body water, of course will increase 
+and the effect on the ECF osmolarity is that there's no change. 
+But the ECF volume is going to increase, because we are profusing, we're actually 
+putting some solution into the body. Does the volume of the ICF change, does 
+the volume of the cells change? And the answer is no, there's no change 
+in the volume of the cells. Because the solution was iso isotonic to 
+the cells, there's no loss of water or gain of water by the cells. 
+On the other hand, if we have a situation where we have diarrhea, where we have an 
+isotonic loss, so that we're losing an isotonic fluid from the body, from, from 
+the from the anus. The total body water is going to 
+decrease. Effect on the osmolarity, again, there's 
+no change in the osmolarity because we're losing an isotonic solution from the 
+body. The ECF volume decreases, but again 
+there's no change in ICF volume. Now, in the third case, we take in excess 
+amounts of sodium. You eat a really big bag of potato chips, 
+salty, salty potato chips, and you don't drink any water. 
+And as you're taking in all that salt, the sodium then, is coming into the body. 
+So, the sodium is coming into the body, so the ECF, the osmolarity of the ECF 
+increases, because all of the sodium is going to go into the ECF. 
+The volume of the body is not changing, I did not bring in any fluids, so the body 
+volume, total body water is staying the same. 
+So, under these conditions, what happens to the ECF volume? 
+I've brought a lot of sodium into the ECF volume, so now, the volume in the ECF is 
+going to increase. And the water is going to come from the 
+cells. And so, the water moves from the cells 
+into the ECF, and the cells will shrink. Alright so, you think this and you think 
+about what would happen in the last case, where we would have excess sweating, so 
+there is a hypotonic loss from the body. And figure out how, how the ECF volume 
+and the cell volumes are going to, are going to be effected. 
+Alright so, what's our general concepts? So, the first is we have two fluid 
+compartments of the body. We have the intracellular fluid and we 
+have the extracellular fluid and these are in osmotic balance. 
+The second one, is that the water moves by facilitated diffusion through 
+aquaporin channels across most cell membranes and this process is called 
+osmosis. Third, we have a non-permeable solutes 
+are called effective solutes and these will affect the cellular volumes. 
+If cellular volume is critic, critically dependent on the steady state of the 
+effective solutes in the water across the cell membrane. 
+If I increase the number of effective molecules in the ECF, water will move 
+from the cells to the ECF to try to balance the concentration across the two 
+compartments. Last, is that the cells will shrink in 
+hypertonic ECF conditions and the cells will swell in a hypotonic ECF condition. 
+Alright, so, the next time we meet then, we're going to talk about one more of 
+these general concepts. Things that we're going to see as we go 
+through the, through the rest of the, of the course. 
+And once we go into the gastrointestinal tract, and into the renal system you may 
+want to come back and look over this, this lecture and the lecture on the 
+transporters. All right so see you next time.
