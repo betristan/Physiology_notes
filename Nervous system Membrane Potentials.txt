@@ -1,0 +1,236 @@
+Hello. Welcome to our second session
+about the nervous system. We're gonna talk about
+membrane potentials. So, membrane potentials
+are gonna be changes or differences in the amount of charge on
+either side of the membrane of cells, and in particular,
+we're gonna talk about neurons. And this is gonna be our
+first introduction into the method of communication
+in the nervous system. So, Dr. Dacoy has already talked to you
+about the electrochemical gradient. So, these are going to being chemical
+gradients of electrically charged molecules, and she's told you how the
+sodium potassium ATPase is going to be so important in establishing these gradients,
+and we'll talk more about that later. And the whole point of this, our bodies spend a significant portion
+of their ATP setting up this gradient, and they do it so that they can
+harness it to do different jobs. So, sometimes they use the potential
+energy that's in that gradient to help transport certain
+substances across the membrane. We'll be hearing about that
+in other organ systems. But the other thing it can do is
+use this gradient to allow ions to flow across the membrane and form
+a current that can be used in signaling. And so that's what we're gonna be talking
+about for the next several minutes. So, one thing that you need to remember,
+and you don't need to remember these concentrations
+down here at the bottom of the slide. But what you do need to remember is that
+the sodium potassium ATPase is going to make it so
+that there's a larger concentration of sodium on the outside of the cell
+compared to the inside of the cell. And there's much more potassium
+on the inside of the cell compared to the outside of the cell. And we'll see in a few minutes
+why this is really helpful. We've taken two different
+positive ions and segregated them to two different
+sides of the membrane, basically. And we'll see how that's advantageous. The other thing to keep in
+mind is that in neurons and in many other cells of our body, when
+those cells are at rest, there is what we call a negative membrane potential,
+and that's what's shown right here. And what a negative membrane
+potential refers to is the fact that there are more negative charges inside
+the cell than outside of the cell. And so, we're gonna talk about that
+in much greater detail as well. So, we've established that in
+a normal cell, we're gonna have a lot more sodium on the outside and
+a lot more potassium on the inside. That's what's shown here in a simplified
+system on this slide, where, here, we have a 150 millimolar potassium
+chloride on the inside of the cell and 150 millimolar sodium chloride
+on the outside of the cell. Since these are potassium chloride and
+sodium chloride, and we've got equal numbers of positive and negative
+charges on each side of the membrane, right now, the membrane potential
+equals zero millivolts. There's no charge difference
+between the sides of the membrane. Also, you'll note in this figure that we
+have some ion channels, which are these blue boxes, and there are several things
+to keep in mind about ion channels. One is that they're specific. And so, these happen to be potassium
+channels, which means that they're only going to transport potassium for all
+intents and purposes, that really, sodium is not going to be able to go through
+these channels in any perceivable manner. So they're specific for potassium and
+they're going to be gated. This makes sense. If you spend ATP to segregate sodium and
+potassium and to build this electrochemical gradient, you don't want
+ion channels just sitting there, open and unregulated, and letting ions flow
+down their concentration gradient. You want ion flow to be highly
+regulated if you're gonna put so much energy into building the gradient. And so, these will be gated, and we'll be talking about the different
+modalities that can gate these channels. Then the other thing to keep in mind
+is that when the channels are open, they're bi-directional. Potassium's gonna be able to move in
+either direction across these channels, depending on both the chemical
+gradient that's present and the electrical gradient. So, in step 2, that's what's happening. We are opening a potassium channel. And as we do that,
+we've got no electrical gradient, and we have a very large chemical gradient for
+potassium. And so,
+potassium is going to leave the cell. As soon as one potassium leaves,
+then all of a sudden, we've got a excess of
+negative charge on the inside of the cell versus the outside, and
+we've got a negative membrane potential. Potassium is gonna continue to
+diffuse through the channel, down its concentration gradient. So we're gonna get more and more positive
+charges on the outside of the cell, and more negative membrane potential for
+the cell, until finally, in step three, we've got enough positive
+charges outside of the cell that now the electrical gradient is driving
+some potassium back into the cell. So we've got more potassium leaving, but now some potassium's starting
+to head in towards the cell. In step four,
+we've got the same number of potassiums leaving the cell as we
+have entering the cell. And that's when we have now reached
+the equilibrium potential for potassium. So, we still have a very
+large chemical gradient, even in step four, so
+that the number of potassiums that have left to form this electrical
+gradient is still very small. We still have a very large
+chemical gradient, but we have a large enough electrical gradient
+that it is opposing the chemical gradient. And so, the membrane potential,
+at this state, in step four, is going to be positive, and it's going to be the equilibrium
+potential for potassium. So, what that number is in millivolts,
+it's going to be a negative number. I'm sorry, that's going to be
+a negative membrane potential. And it's going to be based solely
+on what the potassium concentration is on the inside of the cell
+versus the outside of the cell. That's what's gonna determine
+the millivolt number, that's gonna be negative, that is going to be
+the equilibrium potential for potassium. So this is going to be,
+we're gonna look at what this means for the cell in just a moment, but
+you can think of it this way. If we have only potassium channels open,
+and we have a certain concentration of potassium inside
+the cell versus outside the cell, if you just open those potassium channels,
+and those channels only, then the membrane potential will become
+The equilibrium potential for potassium. So here's another way of looking at it
+where we said at rest, our membrane potential is going to be negative,
+which is what's shown right here. And we'll talk about why
+that is in a minute. Now if we look at the case for sodium
+in a normal cell, we said it's gonna have a much higher concentration of
+sodium on the outside of the cell. And that means that if
+we open sodium channels, sodium is going to want to enter
+the cell based on its chemical gradient but also based on its electrical gradient. Because we said at rest we
+have membrane potential. And so that means that if
+we open sodium channels and let sodium keep entering the cell,
+the chemical gradient is going to have sodium come in and the electrical,
+until finally the inside of the cell is so positive that now sodium does
+not want to enter the cell. Because of the electrical gradient,
+it wants to leave. And so, we will get to a spot
+which in a normal cell or in a neuron, is often about a positive
+60 millivolts where there's so many positive charges inside the cell. The sodium still wants to come in because
+it still has a chemical gradient, but it now also wants to leave because
+the inside of the cell is so positive. And so at that point you've reached
+the equilibrium potential for sodium if only sodium channels are open. We can look at the same case for potassium
+which we have a little bit previously where we said it's gonna be more
+concentrated on the inside of the cell which means our chemical gradient is
+trying to get potassium to leave. But because our resting membrane
+potential is negative when we first opened the potassium channels,
+potassium wants to enter the cell. And so that means that if we open potassium channels and let the
+cell come to the equilibrium potential for potassium, that's gonna
+be at a negative membrane potential when we have opposing and equal forces from the chemical and
+electrical gradient. So, basically, what the cell has done is
+it's taken two different positive ions, put them on opposite
+sides of the membrane so that they will have opposite charges for
+their equilibrium potential. We'll see how that is gonna be harnessed
+in order for the cell to signal. So we've now established what
+an equilibrium potential is for a certain ion and that it's going to be
+based on the concentration of the ion. But now we wanna talk about how resting
+membrane potential is established. So, one thing we know is that we need to
+establish the electrochemical gradient, and that the sodium potassium
+ATPase is going to do that. And when it does that, it's going to move
+three sodiums outside of the cell and bring in two potassiums inside the cell. So that's going to establish our gradient,
+but you'll notice that is sending out three positive charges and only
+bringing back in two positive charges. So the sodium potassium ATPase is
+going to establish a little bit of a charge difference, which is going to
+cause a little bit of a negative membrane potential because of that difference in
+numbers of positive ions that it's moving. The other issue is what
+channels are open at rest. So we said if only sodium channels are
+open, then the membrane potential is gonna become the equilibrium potential for
+sodium. If we open only potassium channels,
+then the membrane potential is going to become the equilibrium
+potential for potassium. If we open them up, sodium and
+potassium channels, so that their membrane is permeable
+equally to those two ions, then the membrane potential will reside in
+between the two equilibrium potentials. So it will be proportional to
+whichever ion is most permeable. And if the membrane is equally
+permeable to sodium and potassium, then the membrane potential will reside
+between their equilibrium potentials. In the case of at rest, we have the ATPase pump forming
+the sodium and potassium gradients. But we also have leak channels, which are going to be ion channels that
+are letting some ions through, and they're going to be determining what
+the resting membrane potential is. So that we have a fair number
+of potassium leak channels and fewer sodium leak channels. And so because we have a greater
+permeability of the membrane to potassium, because we have more potassium ions
+leaving through the leak channels then we have sodiums coming in through the sodium
+leak channels, then that means our membrane potential at rest is much closer
+to the equilibrium potential of potassium. Now if we had only
+potassium leak channels, then the resting membrane potential would
+be the equilibrium potential of potassium. But since we have a few sodium
+leak channels operating, then the resting membrane potential
+is just a little bit above the equilibrium potential for potassium. So it's another demonstration of- to
+determine what the membrane potential will be at any certain time, you need to
+know the concentrations of the ions, because those determine
+the equilibrium potentials. And then you need to know
+which ion channels are open, or how permeable the membrane
+is to one ion versus the other. When we talk about membrane
+potential changing, we have certain terms that we use. I'll be using them a lot so
+this figure is to help you with that. When we're at resting membrane potential, we say that the cell is polarized
+because there's a difference in charge across the membrane and
+it happens to be more negative. So, at rest a cell is called polarized. If for instance we open sodium channels so
+that sodium is going to rush in and our membrane potential is going to
+increase and head towards the equilibrium potential for sodium,
+then we say that the cell is depolarizing. It's becoming less polarized. The membrane potential is less negative. If it keeps going in that direction and
+then the membrane potential becomes positive,
+then you can call that an overshoot. If then we close the sodium channels, and
+then open potassium channels, which means that the membrane potential is going to
+head towards the equilibrium potential for potassium, then the membrane
+potential will head toward zero, and then become more negative,
+and that is called repolarizing. Because now,
+the cell is becoming polarized again. If we keep those potassium channels open,
+and then we go more negative than the resting membrane potential and
+closer to the equilibrium potential for potassium, then the cell
+is hyperpolarizing. It's becoming even more polarized. Than it is at rest, even more negative. So I'll be using these terms, so it's good
+to become familiar with them because you will hear them a lot when anyone's talking
+about changes in membrane potential. We're gonna finish up this section talking just a little bit about a type
+of change in membrane potential. So it gets confusing I think because
+we've talked about membrane potential, equilibrium potential. But what we're gonna start
+talking about now are types of changes in membrane potential. And so this type that we're gonna
+spend just this image talking about, are called graded potentials. They're called graded
+because the amount of change in the membrane potential depends
+on the strength of the stimulus. So it can be graded,
+it can be a small change or large change, depending on the strength of the stimulus. I think the easiest thing to think about
+when you're thinking about a graded potential is to imagine that you
+have a ligand-gated ion channel. Meaning that it's gated
+by binding a ligand, which is very often a molecule
+like a neurotransmitter. So let's say we have in this image,
+a sodium channel that's gated by a neurotransmitter, and it's sitting in
+the membrane, and we add to that little spot in the membrane just the little
+small amount of that neurotransmitter. So it's going to diffuse and
+right where we added it, where it's most concentrated, it's going
+to be able to bind to these sodium channels and open them,
+which is going to cause sodium to rush, which is then going to cause a small
+depolarization of the membrane. The membrane potential is going to
+be less negative in that spot, and then as go you farther out from
+that spot in the membrane, the change in the membrane potential
+is going to be be less and less. The ligand,
+the neurotransmitter is diffusing, and so its concentration is less. So it's going to be less likely
+to open sodium channels. And then we have sodium rushing in at
+this spot, they're going to diffuse, and so
+their effect on the membrane potential and increasing it is going to decrease as you
+go farther and farther from that site. So that's what's important to realize
+about these graded potentials, is that they are going to decay
+over space along the membrane, and over time as you've just put a little
+pulse of that neurotransmitter, and everything's diffusing away and
+then these ion channels close. Then as we've already mentioned
+with graded potentials, if you give a greater stimulus,
+then you're gonna have a bigger response. So you're going to add more
+neurotransmitters the second time. It's gonna be a stronger stimulus. It's going to open more of these
+ligand-gated sodium channels, let more sodium in,
+cause a larger increase in the membrane potential and
+affect the membrane farther out. And so that's what we see with this red
+curve, where we have a bigger response. And so we'll see why these properties
+of graded potentials are so important in the nervous system. But in our next session,we'll be talking
+about a different type of change in the membrane potential which you're
+probably familiar with, action potentials. So to sum up this session, we've talked about the equilibrium
+potential of a certain ion, which is when the chemical gradient and the electrical
+gradient are gonna be opposing each other. We talked about how the resting
+membrane potential is established, how we need the sodium potassium ATPase
+to make the gradients of the ions. And that we will have the potassium and
+sodium leak channels that are also gonna be important
+in establishing at what membrane potential our resting
+membrane potential sits. However, if we inactivated
+the sodium ATPase and we just let those leak channels
+happen or if we let those function, then eventually we would dissipate
+the resting membrane potential. It would become zero because we
+would have no more sodium or potassium gradient without
+the sodium potassium ATPase, so it's an extremely important
+molecule in signaling. And then we finished up talking
+about graded potentials, which are going to vary with
+the strength of the stimulus, and they're going to decay over time and
+space along the membrane.

@@ -1,0 +1,151 @@
+Welcome, so today we wanna continue our
+discussion of the Endocrine systems. The general concepts of
+the Endocrine systems. And today we wanna talk about
+two specific things that is the assessment of the system and
+its pathology. The way you classify the pathology. So first we wanna explain
+then the principles and the limitations of how
+we measure the hormones. And this is done in two ways. One is by actually quantitating them and
+secondly asking whether or not they're active. And then secondly we wanna
+to explain classification of these endocrine pathologies. So assessment of functions. So as we said the last time we were in
+here, that if we have too much hormone. That we have a hyper
+secretion of the hormone. We have hormone excess. And the problem with the situation
+is that you can have down regulation of the target cell receptor. So we could desensitize the system. So that it's not recognizing and that it's
+not giving us the biological activity. Or we could have a really
+really strong response. And so we have an over response to the
+amount of hormone that's being available. The second was that we have too
+little concentration of the hormone, we have hypo secretion of the hormone. And this would be hormone insufficiency, where not enough of the receptors
+on the target cells are occupied. And we don't get the biological
+effect that we need, or the biological response that we need. And then we said we could also
+have target cell resistance. And this is a problem where the receptors
+on the target cells are unresponsive. And they could be unresponsive
+because they're uncoupled. So they're still present
+on the cell surface. This is what we see with
+Diabetes Type 2 Individuals often. Or we have the receptors
+actually removed or degraded. So it's not even present
+on the cell surface. And then just right is a normal or
+eu-secretion. And that's where the hormone,
+the endocrine system is working correctly. So we have two assays for
+measuring our hormones. And one of them is called
+competitive binding assay. And remember that the hormones are a very, very small concentrations
+within the blood. So we have to have a very sensitive
+assay to find the amount of hormone, that's within our sample. And to do this we use a specific antibody. So this antibody then
+recognizes the hormone. And we have in our system, in the assay,
+we put in a labelled hormone. So we have a known amount
+of labelled hormone that would bind up all of the antibody
+that's within the system. We mix this with a hormone that's
+from our patient or from the unknown. We don't know the amount of hormone
+that's here, so this is our x amount. We mix this then with the known or
+labeled hormone and our antibody. And then assay for how much of the labeled
+hormone has been brought down. And the unlabeled hormones should compete
+a finite amount of the labeled hormone. And then by subtraction we know
+how much should have come down. By subtraction we can figure out how
+much of the unlabeled hormone we have present in the sample. So this is high sensitivity
+because of the antibody and is high specificity
+because of the antibody. But it doesn't tell you
+if the hormone is active. So when could this give
+us a false reading? So let's say you have an individual who
+presents as if they are a diabetic type I. These individuals have very high
+circulating levels of plasma glucose. Yes, high circulating of plasma glucose,
+but when you assay for the insulin in their bloodstream. You find that insulin is also present. So by this competitive binding assay,
+the insulin is present. So the question is,
+is the insulin they're making functional? So the way you test that, would be that you give this individual
+some insulin that you know is functional. And see whether or not the amount of glucose that;s
+circulating in the plasma, will decrease. If it does, then you know that the insulin
+that the individual is making, is making an insulin that's not reactive. It can not bind to the receptor, or
+it has some problem in its structure. So we have to have a second assay
+then which tells us whether or not our hormone is functional. These are called bioassays. So what I've diagrammed here is a complex negative feedback loop
+of one of the hormones. That we'll talk about
+later on in the course. But this particular hormone is cortisol
+and it's secreted by the adrenal gland. This hormone is secreted in
+response to low plasma glucose. So we have low plasma glucose,
+then the hypothalamus. Which is an area of your brain,
+will secrete a hormone called CRH, or corticotropin. This hormone binds to a second area of
+the brain called the anterior pituitary to secrete ACTH, adrenal cortocotrophine. This hormone works on the adrenal
+cortex to cause secretion of cortisol. So that's our regular stimulation of
+the cortisol from the adrenal gland. Cortisol happens to be
+a steroid hormone so it takes about 30 to 60 minutes before
+cortisol will rise in the blood. And the reason for
+the delay is that cortisol is a steroid derivative so
+it has to be synthesized on demand. And then cortisol is secreted into
+the blood and binds to a carrier and then is delivered to its target tissue. The cortisol will feed
+back in a negative manner. To turn off the secretion from the
+anterior pituitary and the hypothalamus. This is a complex negative feedback loop. That we saw when we were talking about
+homeostatic controls in the first lecture. So what happens if the cortisol that's in
+particular individual is very very high. So we have very high level of cortisol,
+and because we have high level of cortisol. We will actually have very
+high levels of plasma glucose. And the individual is coming
+in to the physician's office. Because of the symptoms that this very
+high cortisol is causing within his body. So, this high cortisol should have
+fed back and turned off ACTH and turned off CRH. But it doesn't seem to be, it's too high. So the question is do we have a tumor
+that's making this cortisol, or do we have too much of this ACTH. Which is pushing the synthesis
+of this cortisol. So is the problem occurring here,
+at the ACTH level, or is the problem occurring here at
+the cortisol level, at the adrenal itself. So to test this axis then,
+we run a suppression test. And this is,
+that we give a drug called dexamethasone, which inhibits the synthesis
+of ACTH by pituitary cells. When we give this drug, if we administer
+the drug, the ACTH levels should fall. And when the ACTH level should fall,
+then the cortisol levels should also fall. So, if we had a very high amount of ACTH,
+then we've turned off the ACTH, the cortisol should fall. If the cortisol does not
+fall under these conditions. Then the question is whether or
+not the ACTH has gone down, and you can then assay for the ACTH. If on the other hand,
+the cortisol does fall and the ACTH, let's say the ACTH under
+those circumstances did fall. But that the cortisol stayed high, that would tell you that there's
+a problem with the adrenal glands. Or that there's a problem with
+a tumor someplace in the body that's secreting cortisol. That's not under the regulation of ACTH. So this is a way then
+that we can sort of parse the axis to find out exactly where
+in the axis our problem lies. Let's look at a case where
+we have the opposite. Where we have low cortisol,
+we have low cortisol levels. The hypothalamus secretes CRH
+due to the low plasma glucose. And we should have a CTH,
+but we have low cortisol. We can give this individual ACTH,
+so exogenose ACTH to push the axis. To see whether or
+not the adrenal is working. And when we do that then
+the cortisol levels should rise. We wait 30 to 60 minutes and
+we should see rise in cortisol. If the gland,
+the adrenal gland is working correctly, then the exogenous ACTH should
+correct this situation. We should see a rise in cortisol. That then tells us that there was
+a problem with the anterior pituitary, that it was not secreting ACTH correctly. Or there may have been
+a problem with the CRH, which is then there's
+a decrease in the ACTH. So at that level then,
+you would have to go back and look to see whether ACTH and
+CRH levels are appropriate. So how do you classify these
+endocrine pathologies? So the endocrine pathologies then in this
+situation where we have this complex negative feedback loop. We have a primary pathology if the last
+endocrine organ is not working correctly. So in our case we had low cortisol. And that endocrine organ
+was the adrenal cortex. If we have low cortisol, what we should
+have seen if the problem is sitting here. Then what we should have seen is
+that ACTH levels would be high and CRH levels would be high. That the system would be trying to push
+to get an increase in the cortisol. On the other hand and we don't have a negative feedback
+loop to decrease the ACTH or the CRH. Because the cortisol level is low. If the problem was secondary then
+we'd have a low cortisol but we would also have a low ACTH. The ACTH is the problem, and that means that the problem is
+sitting here at the pituitary. The CRH then could be high because
+the CRH is trying to push the ACTH. But the ACTH is not being
+secreted correctly, it's low and therefore cortisol is low. That would be classified
+as a secondary pathology. And if the problem is occurring at
+the level of the hypothalamus then this is a tertiary problem. Where we have low cortisol, we will
+have low ACTH, we will have low CRH. The entire axis is down-regulated. And the entire axis is down-regulated,
+we are missing CRH. In these individuals then
+the individual can be given ACTH. By giving them ACTH we then can
+move the cortisol levels up. Because the adrenal gland
+was working correctly. So these pathologies then as you're
+looking through these different problems. And we wanna see whether not,
+what these different pathologies are. And to be able to classify at what
+level the pathology is occurring. This is a misspelling. So one of our general concepts,
+then, first of all we have, pathology and endocrinology. Occurs when there is either too little or
+too much hormone. Or we have a resistance to the hormone
+due to a receptor dysfunction. And secondly,
+we can interpret the hormone levels. And as we're interpreting
+the hormone levels, we have to consider the trophic
+hormones that are above it. And or the level of the nutrients
+which are controlled by the hormone. And so in the case of the complex
+negative feedback loop. We have to consider all of the hormones. Which are within that negative
+feedback loop as to whether or not they may be the problem. And you start with the primary and
+then work backwards. But you have assays where
+you can assay the amount. For instance,
+we could assay the amount of ACTH. We can assay the amount of cortisol. But you start with assaying
+the amount of cortisol. And then go back and see whether or
+not there was a problem with the ACTH. So I hope this makes sense to everybody. You should go ahead and
+try the problem sets. Because this will allow you to apply what you've learned from these
+various concepts in endocrinology. Two actual cases and see whether or
+not you can think through these cases. Okay, so see you next time. Bye bye.
