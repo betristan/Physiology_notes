@@ -1,0 +1,150 @@
+Welcome back.
+So now we've talked about signaling
+along the length of neurons. We've talked about signaling along
+dendrites and cell bodies, which are gonna be using graded potentials, and then along
+the length of axons there's going to be action potentials that are gonna be used
+to communicate along the length of axons. Keep in mind too,
+that neurons can be very long cells. So for instance, the axons that
+control the muscles in your foot have their cell bodies sitting
+in your spinal cord and then they send an axon all the way down
+to your foot to intervate the muscle. And so the action potential is gonna
+have to travel all the way down your leg along that axon to control your muscle. So that gives you a sense for how quickly these action potentials
+have to move down the axon to be useful. So now what we want to talk about is focused more on communication
+between neurons. And so
+that's what this session will be about. And that's going to be accomplished in
+large part through chemical synapses, which we've talked a little
+bit about already. Where you're gonna have the terminus
+of an axon, the end of an axon, that's going to synapse
+with some other cell. Synapse meaning that it gets very, very
+close to it, but they don't quite touch. And the downstream cell or what we call the postsynaptic cell,
+could be another neuron certainly. It could be a muscle cell. It could be a a cell from another organ. That doesn't matter. The idea is that the two cells
+come very close to one another. The action potential, we already know, is gonna travel down the axon and
+come to this terminus. And in the end of the axon we have
+voltage gated calcium channels and so that action potential is
+gonna cause them to open. And that's gonna let calcium
+enter the axon terminus, and that calcium is gonna act as a signal
+that allows vesicles that are full of neurotransmitter to fuse with the plasma membrane, and dump out here
+into what we call the synaptic cleft. So this is where the nervous system's
+very similar to the endocrine system. The endocrine system is gonna
+release hormones into the blood and here the nervous system is gonna release
+neurotransmitters into the synaptic cleft. However you know that the hormones
+that get dumped into the blood, they're gonna have to travel all
+the way through the body and diffuse throughout the body
+to get to their targets. That's gonna take some time. Where here, we have a very small distance
+that the neurotransmitter has to diffuse and it's gonna be released in really
+large quantities into this small space, whereas we know endocrine
+hormones are gonna become very dilute once they're put
+into the circulation. So, that's gonna make
+the chemical synapse very rapid. So tons of neurotransmitter
+is going to get released into the synaptic cleft and
+then it's going to bind specific receptors which can often be
+ligand gated ion channels. And we'll talk about some
+more other specific examples. That's gonna cause some sort of
+change in the downstream cell. If the downstream cell is a neuron and
+those our ligand gated channels then we're gonna cause a graded potential
+in this downstream postsynaptic cell. Another thing to keep in mind, is that
+then very often this synapse is gonna have some way of terminating
+the signal by, for instance, degrading the neurotransmitter
+that's in the synaptic cleft, or taking it back up into the axon terminus. Some way of getting rid of that
+neurotransmitter, so that if signalling happens again, causing another
+response in the postsynaptic cell. So this again comes to the same figure
+that we've talked about before, where we can have excitatory or
+inhibitory synapses. And an excitatory synapses is
+gonna be one that causes a deep polarization of the membrane
+in that postsynaptic cell. And we call that
+an Excitatory Postsynaptic Potential. It's just a fancy name,
+but it kinda makes sense, that's gonna be a graded depolarization,
+that's what synapses 1 and 2 are causing. And that's often gonna be due
+to an influx of positive ions. Opening sodium channels,
+sodium will rush in. Then we can also always, we've already
+discussed, have an Inhibitory postsynaptic potential, when we cause
+a graded hyperpolarization, as was seen with synapse number 3. And that's going to be due to
+either influx of negative ions, or like chloride or
+an influx of positive ions like potassium. And so we've already talked about how
+these are gonna be graded potentials and that they're going to be additive. Another thing that we need to consider is,
+the fact that these, that neurons can form different types of networks, so that
+we can have systems that are divergent, which means that one neuron can
+control several downstream neurons. And this would be useful if you
+wanted to amplify a signal or if you want to control several
+different cells or processes. Or you can have convergent
+neuronal networks, which is when several neurons
+give inputs to a single neuron. So this would be an example when this
+downstream neuron is getting inputs and it's summoning these graded
+potentials to decide whether or not to fire an action potential. So we'll be talking about these
+more further in the course but just to give you an idea
+of the power of this, of these neuronal networks, and of these inhibitory and
+excitatory synapses. We're gonna talk a little bit
+about lateral inhibition, which is this idea of neurons
+inhibiting their neighbors, and what that can allow us to do when we're
+trying to perceive what's happening. In this case when something like
+a pencil is touching our skin. So if you touch a pencil
+to your fingertip, you'll see that it makes big depression
+all around the tip of the pencil. But yet when you don't look even,
+you can sense that it is a point that's touching your skin,
+not something like an eraser. And so the way that your body
+allows you to sense that is through lateral inhibition. So this is what's shown here, where
+we've got this point touching the skin. It's mostly activating
+this second neuron but it's also activating the sensory touch
+receptor neurons 1 and 3 as well. So without lateral inhibition
+we would get this yellow curve, where we have neuron 2 excited the most,
+and 1 and 3 excited less. And the way that they're gonna
+convey how excited they are, is by action potential frequency. So since 2 is being activated a lot, it's
+firing action potentials very rapidly. Versus 1 and 3, which are firing
+action potentials less frequently. However, what we actually perceive after we've had this lateral inhibition happen, is this second situation,
+where 2 is still activated but 1 and 3 are fairly highly inhibited. And that actually changes
+the action potential frequency, such that 2 is still firing
+fairly rapidly, but 1 and 3 are firing much less rapidly, and
+that's what allows us to really feel the point of the pencil and kind of
+ignore the depressed skin around it. And that's what lets us know that it's
+something pointy on our finger and not something more dull. The circuitry that allows us
+to do that is shown here at the bottom of the slide with these yellow
+arrows showing the inputs coming in. And then we have these divergent and
+convergent networks happening, where the red neurons
+are the inhibitory neurons. And so you can see that each neuron
+is going to inhibit it's neighbors. So this middle neuron,
+neuron 2 is going to inhibit both 1 and 3, and 1 is gonna inhibit 2,
+and 3's gonna inhibit 2. But, since 2 is being activated so
+much, it's going to inhibit 1 and 3 much more, and that's what
+results in this middle graph and these action potential frequency,
+where what has happened is the contrast between
+the action potential frequency of 2 and neurons 1 and 3, has increased and
+that's what allows us to feel the point. So I'm not so concerned that you
+understand lateral inhibition and the details of it, but I just want
+to give you a concrete example of how these networks can act to accomplish something that
+the nervous system requires. Give you a hardcore,
+a real concrete example of this. We're gonna finish up just talking about
+a couple of specific types of synapses. One to just give you a better sense of
+what's actually happening with synapses. And two, because you're gonna
+hear about these synapses all throughout the rest of the course
+because they're gonna be involved in controlling the organs
+that we're gonna study. So, one type are Cholinergic Synapses,
+named because in those synapses that presynaptic cell is releasing
+Acetylcholine as a neurotransmitter. On the postsynaptic cell, there are two
+types of receptors that can be present, one are nicotinic-ligand
+gated ion channels. They're nicotinic acetylcholine receptors,
+which are like liangated sodium channels. And nicotinic receptors are found on
+skeletal muscle and in the brain. Or you can have acetylcholine
+receptors that are musarinic, which are instead of being
+Ligand gated ion channels, they're G protein coupled receptors,
+which will bind the acetylcholine and then come start some sort of signal
+transduction cascade that will lead to changes in ion channels or other changes
+in the cells that will cause the effect. So muscarinic receptors
+are found on the heart, smooth muscle, glands,
+and also in the brain. Another type of really important
+synapse are the Adrenergic Synapses, which are ones that
+release catecholamines, which are neurotransmitters like
+norepinephrine and epinephrine. Epinephrine which is the same
+thing as adrenaline, that's why they're called
+adrenergic synapses. Again, we can have different types of
+receptors on the postsynaptic cell, alpha or beta adrenergic receptors. And there's different types of those,
+and we'll be getting into that in different tissue and organ types,
+which adrenergic receptors are expressed. And again, these are G protein
+coupled receptors that are gonna act through second messenger systems and
+they're gonna be present on our blood vessels,
+in the airways of our lungs, the heart, smooth muscle glands, very prevalent
+receptors and synapse types. So, we've talked about
+graded potentials and how those are going to be summed
+throughout the neuron and how then we're gonna be able to communicate
+using synapses between neurons. And how that transmission
+of information across the synapses is gonna be very quick and very efficient in it's effects
+on the postsynaptic cell.
