@@ -1,0 +1,322 @@
+Welcome back. We're going to shift from talking about
+the nervous system in general to talking about the senses. So talking about the afferent pathways
+that are bringing information into the central nervous system. And so we're gonna be applying a lot
+of the principles that we learned when we were talking about
+the nervous system in general. In this session, we're gonna be talking
+about the senses in general for a few minutes and
+then we're gonna focus on vision. So we're gonna start off talking about
+general principals about the senses. And we're also gonna spend a little time
+talking about somatosensation, which, if you remember, is really going
+to be the senses of the body. So these are gonna be coming from
+receptors that are in our skin, in our joints, in our muscle,
+and other connective tissue. And we're going to sense pain, touch, certain vibrations, pressures,
+as well as temperature. And this will also allow us to
+be able to use proprioception, which is where we can determine
+where our body is in space. And we can do that through some
+of these stretch, for instance, receptors in the muscles or
+receptors in connective tissue and joints. And this will also involve vision,
+as well, in determining where we are in space,
+but we don't have to rely on vision. And then we're going to be focusing
+the vast majority of our time when we talk about the senses,
+talking about what we call special senses. Special because they have
+a special organ that is dedicated to the detection
+of the stimulus. And so the receptors and the special
+senses are confined to a specific organ, and they're gonna be found in the head. So those inputs are gonna be
+fed into cranial nerves in contrast to most of our somatosensation,
+which happens over the rest of the body. And then also don't forget, however,
+that also in the process of sensing, our body is sensing things like
+the oxygen content of our blood, the pH of our blood, and
+as well as the osmolarity of our blood. And so these are referred
+to as visceral stimuli, but our body is going to integrate this
+signals and respond to those signals in a very similar manner that it responds
+to other types of sensory information. Let's talk about some
+general principles about the sensory portion of the nervous
+system where we are going to have sensory information that
+is going to reach the brain, and that's going to be sensation. That is going to be able to
+tell us what the stimulus is, where it's happening on the body,
+and how strong it is. Keep in mind that the language of the nervous system is going
+to be the action potentials. And so it's going to be action
+potential frequency that is going to tell us how strong the stimulus is. So if the stimulus is stronger, they'll
+be more frequent action potentials. Another important element is
+the idea that sensory neurons are going to respond to
+primarily one type of stimulus. And this is gonna be important again since
+our only language is action potentials. In order for the central nervous system
+to interpret the firing of a neuron, it has to know what the stimulus
+is that it's responding to. So if we have a heat sensing
+neuron that's firing frequently, since that's the main stimulus that that
+neuron responds to, then the central nervous system knows, well then there's
+something hot on that part of the body. But if that neuron responded to two or
+three stimuli equally, the central nervous system would have no way of interpreting
+that action potential frequency and knowing what it actually meant. And so that's gonna be another common
+theme that we're gonna be talking about, just that these neurons are gonna be
+specific for a specific type of stimulus. Then, another process in sensing is going
+to be converting that into the perception. What does this sensation, how do we
+interpret it, and what does it mean. And then a third principle that
+we're not gonna focus on much, but keep in mind that it's going to also
+be a characteristic of these systems, is that very often they
+can undergo adaptation, which is when they have
+a decrease in sensitivity where they'll have a decreased action potential
+frequency with the same stimulus. Some systems are gonna do
+this more than others. This also gets into the idea of
+our ability to focus our attention on the sensory information
+that we find important. And so we actually filter out
+the vast majority of the sensory information that we collect. And you can think about that right now,
+if you're sitting and watching this video, you're able to focus on it even though
+you have many other visual clues, you might also have other
+noises that could distract you. You're sitting in a chair so
+your touch receptors are being activated from sitting in the chair,
+or from your clothes. But you're able to adapt or
+to filter out that information so that you're able to focus on what's the
+most important information at that time. Let's talk a little bit now about
+the circuitry that's gonna be involved. So we know that these are going
+to be afferent pathways and we're going to have, this would be
+an afferent sensory neuron in red where, let's say, it's gonna be pain
+neuron that senses pain stimuli. It is going to have a unique
+morphology compared to the neurons that we've already talked about. So sensory neurons are going to be sitting
+in these structures called ganglia, that are right outside of
+the central nervous system. So it's gonna be a collection of cell
+bodies outside of the central nervous system in the peripheral nervous system. So that's what's shown right here. It's call the dorsal root ganglion. So it's on the dorsal side
+of the spinal cord and this neuron has a unique morphology. It's called a pseudounipolar neuron,
+and you can think of it as being just one long axon with a cell
+body sticking out of the side of it, where the beginning of the axon is
+out here in the skin in this case. And if the stimulus is strong enough, it's gonna send action
+potentials down the axon, as this arrow is showing,
+it's gonna whiz by the cell body and then move down the other part
+of the axon to enter the central nervous system as it's
+entering the spinal cord here. So it's really like a single axon,
+as we know that most neurons have, and it's going to carry information
+from the periphery into the central nervous system where
+it will synapse with Neurons that are going to be the ones that
+are gonna integrate the information. And we'll see concrete examples of
+this circuitry once we talk about the somatic nervous system. So then the central nervous system is
+going to Integrate the information and then cause some sort of response which
+will have the first neuron in the central nervous system, and then send out
+the signal through the afferent pathways. So, keep in mind that we're
+gonna have a stimulus. It is going to start a graded potential. It's gonna initiate a greater potential that if it's strong enough
+will cause action potentials. So, the great potential you can
+think of it as a receptor potential, and as we've seen in
+the nervous system lectures, if it's strong enough it will
+initiate an action potential. And again a single neuron,
+sensory neuron, is going to respond primarily to a single type of
+stimulus, which is gonna be important for interpreting the action
+potentials from those neurons. Let's just briefly talk
+about somatosensation again, where it's going to include senses
+like the sense of touch and be able to sense pressure. This is going to be detected by afferent neurons that have
+mechanoreceptors in their endings. And it's the morphology of those endings
+and where they're located in the skin or in other things like in muscle that
+can sense stretch, things like that. The morphology is going to determine
+what specific stimuli they respond to. So for instance, there are free
+nerve endings that are really just the bare end of an axon
+with mechano receptors. They're often pretty close
+to the surface of the skin. They're gonna respond to
+specific types of touch compared to mechanoreceptor neurons that have
+a big capsule with layers of cells and fluid around that nerve ending that
+also contains mechanoreceptors. So because of that encapsulated
+nerve ending and the characteristics of the tissues surrounding it, that's
+gonna determine what it responds to. It might be a vibration of
+a certain frequency, for example. That those encapsulated nerve
+endings are gonna respond to, and then also based on where they are,
+for instance. How deep they are in the skin,
+they'll also determine what kind of stimulus they will respond to. So keep in mind we're not gonna go into
+the details that we've got many different types of this touch and pressure neurons that have different morphologies and
+different locations that let us detect the whole range of textures and
+touches that we can sense. We're also gonna have the system for
+proprioception where this is where the stretch receptors and
+the muscle and in tendons, and joints. So again,
+they're gonna be mechanoreceptors that are gonna be channels that
+are gonna be gated by stretch or deformation of the membrane, that are
+gonna be very important in proprioception. And as well as the visual system, being able to see where your
+body is in space as well. Not only feeling where it is in space. And then your vestibular system, which we will also be talking about,
+the organs in your inner ear that give you your sense of balance that will
+also be important for proprioception. We're gonna have neurons that can
+detect different temperatures, so we'll have different
+types of thermoreceptors. Some that are going to be
+activated at warm temperatures, some at hot temperatures,
+some at cold temperatures. And the reason why they respond
+to different temperatures, is because they express different
+types of thermoreceptor molecules that are going to be ion channels that
+are activated at a certain temperature. The interesting thing about these thermo
+receptors is that often they also respond to chemicals or to different molecules. So one example would be
+cold thermo receptors, cold sensing thermo receptors
+that also bind menthol. Menthol can also open them and
+menthol makes, for instance if you put on your skin feel cold
+and that's because it's acting in the same way that cold does to open
+cold sensitive ion channels. The same thing similarly happens for capsaicin which is what
+makes chili peppers hot. So capsaicin is going to bind to
+heat sensitive thermoreceptors. And that's why when you eat a red
+chili pepper or hot chili pepper it's a sensation that's almost
+indistinguishable from thermal heat. Because its acting on the same Protein
+molecule and causing the same response. And that's also true for ethanol which
+can cause a burning sensation as well. Then pain is going to be
+sensed using nociceptors, which are going to most often respond to
+chemicals that are going to be released by damaged cells or by immune cells that
+are responding to damaged cells. And in that way we can know that
+there's been some sort of wound or tissue damage, and
+that we should feel pain. We're gonna now move into the first of the
+special senses that we're gonna consider, vision. And obviously when we're looking
+at something we are using the visual system to determine
+the shape and color of objects. And we'll be able to detect
+their movement as well, and what we're detecting are gonna
+be photons of light. And that they're gonna have different
+wavelengths and energies, and that is going to be what we detect
+when we're detecting color, and we'll talk about how this happens. We can think of our eye as
+being very similar to a camera. Where we're going to be focussing light in
+the back of the eye on to the retina and that we are going to have
+a lens to help us do that and a pupil which is like the aperture
+that determines how much light enters. And that it's going to involve three
+main steps, which is going to be that we are going to detect light that
+is reflected from objects. And then that light that's being
+reflected is gonna be focused by the lens onto the retina. And then the retina will contain
+photoreceptors, that will convert the signal of the light
+to an electrical signal. And then that will be processed
+by the central nervous system. So let's look at how the eye is built, where the light is first
+going to hit the cornea, the outer covering, main layer
+of the outer portion of the eye. And most of the focusing is actually
+going to occur at the cornea, because. The light is going from
+traveling through air to traveling through a tissue
+which contains a lot of water. And so that is going to cause a refraction
+or a bending of the light that is going to accomplish most of
+the focusing that occurs in the eye. So that is a major role of the cornea. Then, after then the light
+travels through the pupil. Behind the pupil is going to be the lens, which is also going to
+help focus the light. It's gonna be more of a fine tuning
+that is going to allow us to focus on things that are near
+versus those that are far. And we'll see how the lens is going to
+change shape in order to accomplish that. And then it's going to be the retina,
+once we focus light onto the back of it, that's gonna contain the photoreceptor
+cells, rods and cones. So let's look at how
+the lens changes shape. That's what's represented here in blue,
+is the lens. And under kind of basal conditions,
+it is surrounded by muscle. These muscles are gonna
+run circumferentially, as you can see in this diagram,
+around the lens. And they're gonna be attached to
+the lens through zonular fibers, which are gonna be little ligaments, little pieces of connective tissue
+that attach the lens to the muscle. If these ciliary muscles,
+these muscles surrounding the lens, contract, that means that they
+are gonna get shorter, which means that the diameter of the ring that
+they're forming is going to be smaller. So it's gonna move in this direction. That is going to release some of
+the pulling from the zonular fibers and allow the lens to become more spherical. Less flat and more more spherical. So when it's contracted, there's
+less tension on the zonular fibers. The lens wants to be round, and
+so that makes it more round. And that allows us to focus on
+an object that's near to us. In contrast, when the muscle relaxes, then that means that the muscle
+cells are gonna get longer. Which means that the ring that
+they're forming gets bigger. And that's actually going to pull
+more on the zonular fibers and produce more tension. So it gets confusing because we're talking
+about muscle cells that relax, and then that produces more
+tension in those ligaments. And that's just because those
+cells are now longer and so our diameter of the circle formed by
+the ciliary muscles is now bigger. And so now we have more tension, and that makes the lens that wants to
+be spherical become more flat. And that allows us to
+focus on distant objects. Once light comes through the lens and
+then is focused on the back of the retina,
+it's going to come in contact, or hit, the photoreceptor cells that
+are sitting in the back of the retina. And then it's going to undergo the process
+of phototransduction, the process of converting the energy that was in
+that photon to an electrical signal. And so that's gonna happen through
+some sort of photopigment, which is what's shown here in orange. It's gonna be a membrane bound protein, it's gonna be a g protein coupled
+receptor more specifically. And it's also going to be bound to
+a small molecule called Retinal, which is what's shown in here, which is a form of vitamin A,
+or is based from vitamin A. And Retinal is going to
+change its confirmation when it is struck by a photon. So that's what's shown here
+in this first Step 1, where when the Retinal in the photopigment
+is exposed to light, it's going to change its confirmation. That's gonna cause a change in
+confirmation of the photopigment protein, which is a g protein coupled receptor. So that's gonna start a signal
+transduction cascade. I'm not worried that you
+remember the details, so you don't need to worry about the details
+of these signal transduction steps. But what you do need to know is
+that that change in conformation of the photopigment protein is going
+to cause a decrease in cyclic GMP. Which then causes a cyclic
+GMP-gated cation channel to close. So this is almost anti-intuitive, where when light hits it,
+you're closing an ion channel. So that means that at rest,
+when there isn't much light around, that this cation channel is open,
+which is letting cations enter the cell, which means that at rest,
+the photoreceptor cell is depolarized. Again, anti-intuitive that at
+rest the cell is depolarized. So that means that when you
+close that channel, that now the membrane potential is
+gonna become hyperpolarized. So we have a graded potential, but
+it's a hyperpolarization of the cell and that reduces neurotransmitter secretion. So it's very anti-intuitive that you
+reduce neurotransmitter secretion from these photoreceptor cells when they're
+exposed to light, but that's how it works. [LAUGH] It works so,
+there are other neurons involved. So that's what this image shows,
+actually, at the back of the retina, the very back,
+is where you have the photoreceptor cells. So, in this case, we have six rods. And then there are other cells
+called bipolar cells and a ganglion cell that
+are also present there. So we have layers of neurons at the back
+of the retina, and interestingly, the light has to travel through
+those other layers of neurons, as shown right here,
+to get to the photoreceptor cells. But again, it works. The photoreceptor cells,
+and the bipolar cells, are going to generate graded potentials
+that, if they're strong enough, will then cause the ganglion cells
+to generate an action potential. So, that's something
+that's a little different. We've got many layers of
+neurons that are eventually going to lead to an action potential. The other thing that's important about
+this diagram is to see that in this case, we have rods. And in this case six rods that
+are feeding into one ganglion cell. And so this is going to allow for
+a low resolution aspect of the vision because we
+are summing six different rod cells and
+converting it into one signal. So that's going to
+determine the resolution. And in this case, it's gonna be a low
+resolution because were taking six rods and they're feeding
+into one ganglion cell. That's gonna be in contrast to cones,
+our color sensing photoreceptor cells, where it's usually going to
+be a ratio of one to one. So each cone is Only one cone is giving
+signals to only one ganglion cell and so that's gonna be a high
+resolution system. Versus this system which is low
+resolution, but somewhat highly sensitive, because if a photon hits
+either of these six rods, it can send a signal to the ganglion cell. And so we're gonna see that in this next figure where we're looking at
+different levels of light, and which photoreceptor cells are going to
+tend to be active in those conditions. So when we are at very low light, for instance the amount of light
+when you have just stars out. Then we are not gonna have color vision because at this point we are only
+going to be activating rods. They're going to be very sensitive but they are gonna be that low
+resolution sight because of that convergence onto a six rods,
+for instance, onto one ganglion cell. So rods are gonna be used for
+night vision. They're not responsible for
+color vision so we can't see colors when
+we're at very low light. But and it's gonna be low resolution but
+fairly high sensitivity because they can sense light even
+though its very dark in starlight. Once we're hitting moonlight, then at
+least we're above the threshold for cones. So at that point,
+these cones can send some of that light. However, color vision is still not
+going to be very good moonlight. It's once we get closer to Indoor lighting where now we're starting to have enough
+light that we're getting good color vision because we're activating
+the cones more efficiently. And we're going to be really
+relying on the cones and remember we said because the cone
+is gonna be in a one to one ratio with the bipolar and ganglion cells now
+we're going to have high resolution vision when we get to this
+higher amount of light. So how do we detect different colors? And if you think about it, it really is amazing how many
+different colors we can discern. And if we had to have a cone for
+each color that we could see. That would be an extremely
+inefficient system. And so luckily we can see
+all the colors that we see with only three different types of cones. So these are,
+this is a graph showing the amount of activation of these different types of
+cones based on the wavelength of light. So this is our curve for rhodopsin
+that's not going to detect color, just detecting light and
+usually at low levels of light. And then we have three different types
+of color sensing cones, blue cones, green cones, and red cones. And so what the nervous
+system does is it looks at the level of activation or
+the amount of activation of each cone, and that amount of activation to each cone
+corresponds with different colors. So for instance if we look at yellow,
+right here. Then yellow is when
+the red cone is basically maximally activated, and
+the green is about half activated. That's what our central
+nervous system is going to interpret as being that
+the object is yellow. Versus when we're over
+here in the blue range and basically we're only relying
+on our blue cones and how much their activated to determine
+the different shades of blue. Or we can look here in the green
+range where the green cones are maximally activated but then the red
+cone is also fairly highly activated and that corresponds to this green color. So in this way, with just these
+three different cone types, we can detect an amazing number
+of colors based on this system. And this is gonna be very similar in
+the nose with our sense of smell, where we only have a few hundred types
+of receptors that can bind odorants. But yet, we can discern thousands,
+ten thousand different odors. And it's gonna be through
+a similar sort of process. So, we've talked about just sensory
+receptors in general, where they're going to detect a change in the
+environment, which is gonna be a stimulus. And convert the energy from that
+stimulus into greater potential, which will eventually lead
+to an action potential. And that's gonna be a process
+called transduction. We talked a little bit about somatosensory
+pathways that are gonna be pain, temperature, touch, vibration,
+as well as proprioception reception. And then we talk about how the visual
+systems is gonna detect the shape and color of objects. And that we're gonna have rods and cones, that are then going to send signals
+into the central nervous system.
