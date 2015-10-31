@@ -1,0 +1,349 @@
+Greetings, today we wanted to start our
+discussion of the cardiovascular system. And in particular we're gonna talk about
+the heart and the structure of the heart. And how the heart
+activities are coordinated by an electrical conduction system. So the first thing to think about is that
+your heart is about the size of your fist. And it sits about here in your
+chest with the point of the heart, pointing down towards your feet. What we wanna talk about
+is the conduction system of the heart which are specialized
+cardiac myocytes. And they are not going to generate
+any kind of force or tension but instead, they're gonna electrical
+control with in the heart. Secondly, we wanna talk about this
+pacemaker activity because as you all know, the heart has an intrinsic beat and
+that's due to these pacemaker cells or the electrical conduction system. And third, we want to talk about
+how this system is regulated so that you can speed up
+your heart as you run. And you can slow the heart as you sleep. And this is mediated by
+the autonomic nervous system. And the fourth is we want to relate
+the activity of a single cardiac myocyte to the entire electrical
+activity of the heart itself. And how a cardiologist is able to
+view the electrical activity of the entire heart on what's
+known as the electrocardiogram. So we have several things to deal with. The first is what is
+the structure of the heart. So the structure of the heart is,
+there's actually two pumps in series. We have one which is on the right side and this is the side which is going to send
+blood to the lung for oxygenation. And then we have a second pump
+which is on the left side and that receives blood from the lung and then
+pumps it out to the circulatory system. So we have in essence a movement,
+a unidirectional movement of blood through the system
+from the right side to the left side. In addition, the right and the left sides
+are divided into two compartments or two chambers. The upper is called the atria or
+the atrium. And the lower is the ventricle. So we have a right atrium and
+a right ventricle, a left atrium and a left ventricle. And the blood is going to move then
+between the atria to the ventricles in a very ordered or
+unidirectional manner. The thing that we should notice
+is that the right atria and the left atria are separated
+by what's called a septum. And the right ventricle and the left ventricle are also divided
+by what is called the septum. And these septum are made up of
+cardiac myocyte so that the electrical activity that's within the two chambers
+that is the atria, the right and the left and the ventricle, the right and
+the left can be electrically coupled. The second thing to notice is the atrial
+and the ventricles are separated and they're separated at the junction
+which is called the base of the heart. And this junction between atrial and
+ventricle does not consist of cardiac myocytes but
+instead it's connective tissue. This effectively isolates the electrical
+activity of what's happening in the upper chambers, that is the atria
+from the electrical activity of what's happening in the lower chambers or
+in the ventricles. And we'll come back to that
+thought in a few minutes. So I said to you then that we're
+gonna have an electrical activity which will depolarize the cells. And as we depolarize the cells
+then you know that in muscle after depolarization is
+followed by a contraction. And then we will relax, and before relaxation we have to have
+a repolarization of the cells. So the electrical activity will always
+be before the contractal events. So what are our electrical activities? They have to go in a unidirectional manner
+because we want to have a unidirectional contraction occurring that is in
+the atria before the ventricles. This is coordinated by
+the electrical conduction system or by the specialized cardiac myocytes
+which are called the pacemakers. In the heart, we have several pacemakers. The first is the Sino-Atrial pacemaker or
+the SA node, and it is located in the right atrium towards
+the upper region of the right atrium. This is a very fast pacemaker and it beats
+at about 60 to 100 beats per minutes. The second pacemaker resides at
+the junction between the atria and the ventricle on the right side and
+that is shown here. And this is the Atrial-Ventricular node or
+the AV node. At the AV node, we will have a slight
+pause in the electrical activity that's occurring within the atria and
+then the AV node will fire. And it fires at about 40
+to 60 beats per minute. What's unusual about this
+node is that everywhere else across this junction between the atria and
+the ventricle, the electrical activity cannot move from
+the upper chambers to the lower chambers. But at the AV node, the electrical
+signal now will be allowed to move from the atria then
+down to the ventricles. So it's the gateway from the upper
+chamber to the lower chamber and it brings electrical activity
+into the lower chambers. Within the lower chamber itself, within the septum the very next pacemaker
+is called the Bundle of His and this Bundle of His will separate
+into a right and left bundle. It resides within the septum. So we have a splitting of the Bundle of
+His into a left in a right bundle branch. And these will proceed down the septum and up the walls of the ventricles in
+what's called the Purkinje fibers. All pacemakers do have an intrinsic beat
+but this intrinsic beat is slowest of all, and this is between 25 and
+45 beats per minute. Repolarization will occur
+in the opposite direction. The entire event takes about
+400 to 500 milliseconds. So for every beat in your heart,
+where you hear a Lub dub, lub dub. Then this entire conduction
+system is going to fire and you will have consequently you
+would have a following upon that contraction of both first the atria and
+then the ventricles. Now, the pacemaker potential as
+you all know has an unstable resting membrane potential and so
+it differs from our fast action potential that we saw in the contractile
+myocytes which are generating tension. This is the pacemaker potential's called
+the slow pacemaker action potential. And it's duration is 150 milliseconds
+in contrast to what we saw with the contractile myocytes, where their action potential was
+about 200 to 220 milliseconds. So it's shorter in duration and
+it is a pacemaker potential in that it has unstable
+resting membrane potential. The resting membrane potential starts
+at about a minus 55 millivolts and then slowly moves towards threshold and
+that threshold is at minus 35 millivolts. When the resting membrane potential, when the membrane potential
+reaches minus 35 millivolts, then there is a very rapid opening
+of voltage gated calcium channels, which allow calcium to enter the cells and
+we have a depolarization of the cells. Then, following that, we have an opening
+of the voltage gated potassium channels, the voltage gated calcium channels close,
+and we have an opening of a voltage
+gated potassium channels. And there is then
+a repolarization of the cells. And we return to the lower resting
+membrane potential of minus 55 millivolts. So a few things to notice,
+one is is that this is slow movement from the minus
+55 millivolts to a minus 35 millivolts or
+threshold is called Phase 4, and Phase 4 has the,
+some odd activities for channels. One of them is that there is a channel
+called the Sodium funny channel. This is a voltage gated sodium channel
+which physiologists thought was very odd because it opened at a very low voltage
+and then closed at a very low voltage. Unlike the voltage gated sodium channel
+that we see in the very rapid upstroke or depolarization that occurs
+in the contractile myocytes. So these funny channels then are opening
+and closing at a very low voltage. Secondly, the funny channels, as they
+open and close, and the membrane voltage then drifts or moves towards threshold
+we also open calcium voltage channels. And so voltage gated calcium channels
+open and close during this period. So Phase 4 then has the opening and
+closing of the sodium funny channels, and it has also the opening and closing
+of a voltage gated calcium channels. Once threshold is met,
+then Phase 0 begins. And in Phase 0, now,
+there is a more rapid depolarization, and this is due to the opening of
+the voltage gated calcium channels. The voltage gated calcium channels open,
+calcium enters the cell, and we have depolarization. The voltage-gated calcium channels close,
+and we begin Phase 3 with the opening of
+the voltage-gated potassium channels. And as potassium leaves these cells to
+enter into the extracellular space, then the cells repolarize. Now as you know, as you go through
+their day the heart rate can change. So if you're sitting here, your heart rate
+will have a basal rate of about 70 to maybe 80 beats per minute, but if you
+decide that you wanna go running then your heart has to increase its cardiac output. That is you have to increase the amount
+of blood that's being pumped to the body because of the oxygen demands of
+the skeletal muscles in your legs. And to do that the heart will increase
+it's rate of firing or it's rate of beat. This is done predominantly by
+changing the phase 4 duration by changing the phase 4 duration in
+the action potential we can more rapidly move from our basal minus 55 resting
+membrane potential to threshold. This is under the control of
+the sympathetic nervous system. The sympathetic nervous system speeds up
+the heart rate, then by decreasing, or increasing the closure time speeding up
+the closure of the potassium channels, the voltage gate of potassium channels
+are Phase 3, and then opening the, the time for opening of the voltage
+gated sodium funny channels, and of our voltage gated calcium channels. So we much more, so
+it takes less time to reach threshold. When you have a heart rate which is
+a greater than 100 beats per minute, this is said to be tachycardia. Obviously, you need to have
+tachycardia when you're running, but then when you stop and
+you sit down and relax, then your heart rate will again fall
+to its resting membrane potential and is not maintained at greater
+than a hundred beats per minute. Now you also can control
+the heart rate and that is as we can slow it down as
+I just indicated and by slowing down the heart rate to less than 60 beats
+per minute this is called bradycardia. But in a daily life we have
+a resting heart rate potential, is between about 60 and
+80 beats per minute. And this is done through the input from
+the parasympathetic nervous system. The parasympathetic nervous system
+acts through the muscarinic receptors, which are sitting on the heart. And it will cause a prolonged opening of the phase three voltage
+gated potassium channels. And by doing that,
+we decrease the level of hyperpolarization within the cells so that
+we are actually hyperpolarizing the cells, more potassium is leaving these cells
+than under normal circumstances. So instead of starting at
+a minus 55 mini volts, we may be starting at
+a minus 65 millivolts. In addition to that,
+the nervous system slows the opening of the sodium
+funny channels and obviously the voltage
+gated calcium channels so that the slope for
+Phase 4, then is reduced. So it takes longer for
+the cells to reach threshold. And by doing so then it slows heart rate. So when do we have a slowed heart rate? So we have a slowed heart
+rate when we're sleeping, but you can also have a slow
+heart rate through training. For instance my son went
+in to have his wisdom teeth taken out, and when he went
+into have his wisdom teeth taken out, he sat down in the office
+of the oral surgeon. And the nurse came out and
+she took his heart rate. And then she went back to the oral surgeon
+and said, he has a heart rate of 50. This is someone who's about to go in for a surgery to have his wisdom teeth
+removed and he has a heart rate of 50. It was I, who was sitting on the chair,
+I would probably have a heart rate of 150 because I would be nervous so
+my heart rate would increase to the sympathetic drive to the beta one
+of the nurgic receptors on the heart. But this individual, this fella actually
+has a heart rate of only a minus 50 so the surgeon came out and took one look at
+him and he said okay, what do you play? He said soccer. Put him under. What was that about? It simply is that athletes with training,
+have a much higher parasympathetic tone or a parasympathetic activity on their
+hearts, so that the heart then, at basal level, so as that resting
+membrane potential of these hearts, the heart rate will be much slower. So they have a much slower beat. And in fact, Lance Armstrong,
+who is a famous bicyclist, was said to have a heart beat of
+about 35 beats per minute at rest. So having a slow heart rate that
+is a bradycardia can be perfectly normal in a trained individual. But in a person who has
+a pathology in the heart, bradycardia is an indication that the
+heart is weak or that there's something wrong with the conduction system and we'll
+talk about this again in a few minutes. All right, so now let's start thinking a bit about the
+electrical activity of the entire heart. So we've been talking about the electrical
+activity of the nodes in particular, and now we want to talk about how do we
+find out what the electrical activity of the entire heart is. And you can do this by placing
+electrodes on the surfaces of the body. And what those electrodes will pick up is
+the depolarization of the entire atria, or the depolarization of
+the entire ventricle. So let's see what we mean by this. So we said that we have
+firing that's going to be for the unidirectional firing within
+this electrical conductive system. And first we will have
+the SA node will fire. And that the SA node fires, it will
+lead to depolarization of the atrium. So the depolarization spreads
+across all of the atrial cells, and these are the contractile
+cells of the atrium. And it does so by moving through those gap junctions
+that are located between the cells. When the depolarization reaches
+the AV node, there's a slight pause. And then the AV node will fire. And when the AV node fires,
+then the electrical signal is sent across the AV boundary, that is across our
+cardiac skeleton, into the septum. And it follows the bundle of His
+within the septum in both the left and the right branches and
+then down through the Purkinje fibers and up the walls of the ventricles. So the depolarization of the heart wall
+occurs also in a very specific manner, and that is that we will have
+depolarization from the inside of the wall to the outside. So we depolarize along what's called the
+endocardium, that's the inner portion of the wall, out to the outer portion of
+the wall, which is called the epicardium. So we have movement then
+of the electrical signal, through the ventricles, and
+out through the walls of the ventricles. And as we said, repolarization will
+occur in the opposite direction, where we move from the outside of the
+walls, towards the inside of the walls, from epicardium to endocardium. And from the apex, which is the tip
+of the heart, up towards the base, which is here at the top
+of the ventricles. Now this electrical
+activity can be picked up by the electrodes that we placed
+on the surface of the body. We do not see the deflections
+that would be due, just simply, to the activity of the nodes. But we can see the summation of all
+the changes across the contractile cells. That is, the cells of the atrium and
+the cells of the ventricles. Because they're sufficiently large, when
+we sum all of that electrical activity together, that we can pick it
+up on a surface electrode. And this trace that we can pick up over
+time is called the electrocardiogram. So let's see what that looks like. So the electrocardiogram is
+what's diagrammed here, and the first thing that we notice is
+that we have a positive deflection. And this is called the P wave, and
+the P wave is our atrial depolarization. So this is the sum of all of
+the contractile cells which are within the atrial that are now depolarizing. There's then a [INAUDIBLE] or
+an isoelectric interval, and then we start with a QRS complex. And the QRS complex is
+the ventricular depolarization. So the AV node fires, and then we have the
+ventricles themselves are depolarizing. And eventually we have
+another isoelectric interval, which called the ST interval which
+we'll talk about in a second. And then another wave, a positive wave,
+which is called the T wave. And the T wave is
+the ventricular repolarization. So this is where all of the cells now
+are repolarizing within the ventricle. So a couple of things to notice. So, we said that we have this PR interval,
+and that these intervals are timed,
+like the entire sequence is timed. So if you look at this electrocardiogram,
+on the x axis, this is the millivolts. This is the actual potentials
+that you're recording. But along the x axis, this is time. This is a sequence,
+a timed sequence of events. And the PR segment is the time
+between when the SA node fires and the AV nodes fires. The ST segment is essentially phase
+two of the fast action potential. This is that isoelectric point where we
+had calcium is entering the cells, and potassium is leaving
+the contractile cells. And we have no change really because
+of the positive charges entering, and the positive charges which
+are leaving the cells. And so that's an isoelectric event, and
+it's phase 2 of the fast action potential. And then R-R is our heart rate. Now, if we were to look at the ECG, so
+this is an electrocardiogram or an ECG. If we were to look at this tracing for
+someone who is running, what are the parts, what are the intervals
+that may change in time? So let's think about that. The first thing is that we have to
+repolarize the heart faster, so that we can have the next beat. So the very first thing that must
+change would be that that ST segment has to shorten. Because phase 2 of the contractile
+myocyte, that action potential, phase 2, must shorten. So ST would be one of the segments
+which we would say would shorten. The second phase that might
+shorten would be obviously R-R. That has to shorten because
+we're increasing heart rate. So R-R will shorten. And then what's the third
+phase that's going to shorten? So let's think about that. The third phase that
+shortens is the movement of depolarization through the atria. So it's how quickly the atria depolarizes. And the atria will depolarize
+slightly faster, so that we will have a slightly
+shorter PR segment. So the PR segment also shortens. What about the QRS? Turns out that the time it takes for the ventricles to depolarize,
+it will not change. So or it changes so slightly that we
+really can't pick it up on the ECG. So we have three segments then, which
+are changing the R-R which is heart rate. The ST which is the time between
+the depolarization and repolarization. We must shorten that in order
+to speed up the heart rate. And then we also can see some
+shortening of the PR segment. And that is the time for the electrical
+activity to move through the atrium. All right, so
+let's have a little bit of terminology. So the rhythm, if it's initiated by the SA
+node, no matter what it's rate, whether it's tachycardia, bradycardia, or normal
+rate, this is called a sinus rhythm. And for every P wave,
+you'll have a QRS complex following it, and then a T wave. Under certain conditions,
+you can have an ectopic foci, some rogue cells which all
+of a sudden start firing. And they're no longer listening
+to the beat of the fastest node. And the fastest node is the SA node, and it usually sets the heart rate for
+the entire heart. Under these conditions, the second set
+of cells which is firing is called an ectopic foci, and they can interfere
+with the sequential movement of electrical activity that
+we have just described. And when that occurs, you can get
+arrhythmias, you can get a skipped beat, you can get improper filling of
+the chambers either of the atria, if it occurs in the atria, or of the
+ventricle if it occurs in the ventricle. And under these conditions,
+if the chamber is contracting so rapidly because of an arrhythmia,
+then you may not be able to feel it. And if this occurs in the ventricle,
+this could be lethal. You can have a heart attack. And the other thing that we have to
+remember then are the electrical activities of the entire heart can be observed on the clinical ECG and
+that the time intervals as well as whether a specific wave occurs gives
+information to the cardiologist as to how well the electrical conduction
+system of the heart is performing. There are some diseases where, for
+instance, it takes too long for the ventricles to depolarize, and so
+you will have a widening of the QRS. Or you can have other diseases where you have problems with
+re-polarization of the heart. And under those conditions then it
+affects the T-wave and the ST segment. All right, so let's look at a case. So our case is Mrs. R, she's 80 years old and her normal
+resting heart beat is 85 beats per minute. She usually goes to the gym everyday and
+she works out on an electrical stepper. And on Friday she was unable
+to do her morning exercises. She got up in the morning and
+didn't feel very well. By time she got to the gym she tried
+to get onto the electrical stepper, but she just couldn't get enough energy and
+was unable to do her exercises. And she felt so badly that she decided
+to go and see her cardiologist. And when she came in,
+he took her heart rate, and he found that her heart rate
+was 30 beats per minute. She has bradycardia and
+is this from due to athletic training? No. Her normal resting heart
+rate was 85 on Thursday and on Friday it's now 30, so
+something dramatic has happened to the electrical conduction
+system within her heart. So he decided to run an electrocardiogram
+to see what changes had occurred within her heart, and their electrocardiogram
+is what's showing here so one the y axis we have mligoals and
+on the x axis we have time. As you can see there are P
+waves which are present and the P waves have a set time interval. So the P waves have a R occurring so
+that means that the SA node is firing. The SA node is firing, and
+it's firing on a regular basis so she has a normal Essay node. But then if you look at the QRS complex, there's a P wave followed by a QRS here,
+but then we have a P which is
+not followed by the QRS. And then we have another P,
+which again is not followed by PRS, and that the R to R intervals are actually
+longer than the P to P intervals. So the R to R ntervals are regular, but
+they are at a much longer interval. Which means that they have
+a different pace maker. So we've somehow uncoupled the electrical
+activity that's occurring in the atria from the electrical activity that's
+occurring in the ventricle and this particular heart, and what that is is
+there's a complete block at the A/V node, so the A/V node then is not taking
+the information and listening to the pace which is being set by the essay
+node, but instead the atria are then contracting at one pace, but
+the ventricles at a much slower pace. So the new pacemaker is a pacemaker
+that's giving her 30 beats per minute, and that new pacemaker then would be
+the His bundle, or the purkinjes. Okay, so one of our key concepts. So the first is, each heart beat, or
+one cardiac cycle, involves electrical activation of the atria and the ventricles
+in the right and the left chambers. Secondly, that the action potential of
+the pacemaker and the contractile cells, they're both cardiac myocytes but their
+action potentials are very different. The pacemakers, the time of the action
+potential is 150 milliseconds and we have an unstable resting
+membrane potential. And in the cardiac myocyte
+that's contractile, the time of the action potential is
+200 to 220 milliseconds, and there is a stable
+resting membrane potential. The pacemaker cells then have these
+unstable resting membrane potential. The SA node is the fastest
+pacemaker in the heart, and in the normal heart, it sets the beat. So all the other pacemakers
+are trained by the SA node. Fourth, our heart rate is determined
+by the autonomic nervous system. The sympathetic nervous system increases
+heart rate, it speeds up heart rate, and it's acting through the beta
+one adrenergic detectors. The parasympathetic is what slows the
+heart rate, it's the brake for the system. And it's acting through the vagus
+innervation or vagal innervation. And it is through the muscarinic
+innervation which are present in the heart. Five, the electrocardiogram is
+the sum of the electrical activity of the entire heart. The P waves depicts
+the atrial depolarization. The QRS complex depicts
+the ventricular depolarization. And the T wave is
+the ventricular repolarization. And six, disease of
+the electrical conduction system can be manifested by changes in
+the electrocardiogram itself. So both the timing and whether or
+not a specific wave is occurring, tells the cardiologist something
+that's what may be part of the disease process that's occurring
+within the electrical conduction system. Okay, so the next time we come in. And we're gonna talk about how
+this electrical conduction system coordinates the contractal
+activities of the heart. Okay, so, see you then.

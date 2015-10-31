@@ -1,0 +1,170 @@
+Welcome back. We're going to continue our
+consideration of the special senses, talking about the hearing and vestibular
+system that are gonna be found in the ear. We're gonna start off with the auditory
+system that is gonna detect sounds and it's going to be detecting sound waves
+which are gonna be compression and expansion of air molecules
+in the forms of waves. So it's gonna be waves
+that are expanded air. And compressed air that
+are alternating to form waves. And it's going to be
+the amplitude of the wave, the height of the wave that's gonna
+determine volume of the sound. And then it's gonna be
+frequency of the waves that is going to determine the frequency or
+the pitch of the sound. And so that's how we interpret
+these sound waves into the noises that we actually hear. So the auditory system is gonna
+be able to detect complex sounds by breaking them into their
+basic sound frequencies and then they're obviously gonna be
+converted into action potentials. And, volume is going to be relayed by
+the frequency of action potentials. So the louder a sound is, the more
+frequent the action potentials are. And we'll talk about how pitch, or the frequency of the sound is
+gonna be determined, as well. So now we've got to get involved
+in the anatomy of the ear, that's obviously gonna be critically
+important in to how we hear. Where the sounds are going to
+be focused onto the tympanic membrane, or
+the ear drum by the auditory canal and then we're gonna have a set
+of three bones, the malleus, incus and stapes that are going
+to transduce the vibrations of the tympanic membrane
+to vibrations in the fluid of the cochlea which is
+gonna be in the inner ear. So here's a zoomed-in
+portion of the middle ear and the inner ear,
+the middle ear being where we have the three bones that are going
+to rock next to one another when the tympanic membrane
+vibrates from the sounds, that's gonna cause them, malleus,
+incus and stapes to rock and cause the vibrations at
+the oval window of the cochlea. So this is zoomed-in
+picture of the cochlea. Where we're gonna have two
+different fluid paths and we'll see about this in
+the next figure as well. But here's the oval window where
+we have it being vibrated from the tympanic membrane,
+transduced by the bones and then causing the oval
+window to be vibrated. And I forgot to mention,
+but these bones are so important for amplifying the vibrations. So that's what their crucial role is. Because out here in the outer
+ear we have vibrations of air, but
+then we need to cause vibrations in fluid. Which is gonna be much less efficient and
+require much more energy to cause the same amount of vibration of a fluid
+compared to vibration of the air. And so, that's the role of these three
+bones, is to amplify the vibrations from the air, so that it can cause significant
+vibrations in the fluid of the cochlea. So that's what's gonna happen when
+this oval window is vibrated. It's gonna be strong enough to
+transduce the vibrations from the sound waves in air to vibrations in a fluid. And the fluid vibrations
+are going to first enter this top compartment, the scala vestibuli. And then,
+those are gonna travel down the cochlea. And so if you unrolled it,
+it would just be a single tube. So the vibrations will go
+down the scala vestibuli, and then come back around towards
+the second fluid pathway, which is in the compartment
+called the scala tympani. And we'll see how that vibration coming
+through the scala tympani is what's gonna cause the vibration that's gonna
+activate the basilar membrane to vibrate. So you can see here
+are the two fluid compartments. And sitting between it is what's
+called the organ of corti. And that's what we're going
+to see in this next diagram. So here we have a zoomed-in
+view of the organ of corti where at the top we have
+the scala vestibuli. And remember that is the fluid
+that's right behind the oval window. So when the oval window gets vibrated, then that will cause ripples of fluid
+to travel down the scala vestibuli. Those will travel all the way down
+the cochlea, make a u-turn, and come back the scala tympani, and right above the scala tympani
+is the basilar membrane, and that, on top of that sits
+hair cells that have these hairs that are embedded in
+the tectorial membrane. So the tectorial membrane is gonna be
+stationary, and you've got hairs that are embedded in it sitting on the basilar
+membrane, which is going to vibrate. And so, as that happens, that is going
+to move these hairs on the hair cells. And bending of those hairs is
+gonna cause depolarization or hyperpolarization, depending
+on which direction. And so, based on which portion
+of the basilar membrane along the length of the cochlea
+that's vibrating the most, that's gonna determine the frequency or
+the pitch of the sound. So once the hair cell is going to
+be activated then that's gonna activate an afferent neuron which are
+going to join to form the cochlear nerve, which is going to then send it to
+the rest of the brain for processing. And as I just said, the region of
+the basilar membrane that's gonna vibrate the most is gonna correlate with
+the frequency of the sound. And then the louder the sound,
+the greater the vibration and the greater frequency
+of action potentials. So it gets into the idea again that
+the brain is gonna know that signals coming from this particular
+neuron that feeds from a specific portion of the basilar membrane
+means that there's a certain frequency of sound and
+then the frequency of action potentials to tell the brain the loudness
+of that frequency of sound. We're gonna move to the vestibular system,
+which is going to be able to detect different types of motions of the head or
+the body. They're gonna be in the inner ear. They're gonna be able to detect
+angular acceleration, so changes in the angle of your head,
+as well as linear acceleration, changes in the horizontal or
+vertical plane as well. And we're gonna have two different organs. One are gonna be the semi-circular canals, which are gonna respond to
+changes in head rotation. And otolith organs, which are going to
+be able to detect the tilt of the head, as well as vertical or
+horizontal movement, with there being two different otolith
+organs, the saccule and the utricle. So again, let's understand the anatomy,
+where again this is gonna be in the inner ear adjacent to the cochlea,
+where we are gonna have three semi circular canals which are gonna
+be tubes with fluid in them. And it's convenient that there's three and
+they're at 90 degree angles from one another,
+which allows us to detect changes in the angle of the head along
+the three perpendicular axes. So one of the canals is going to be
+highly stimulated when we nod yes, versus one when we shake no, versus
+a third when we tip our head side to side. And if you're doing some sort
+of combination of those, then there'll be multiple of
+the two canals that are activated. Also on this diagram it shows
+the otolith organs, the utricle and the saccule that are these
+little compartments kind of between the semicircular
+canals and the cochlea. So we said, the semicircular canals
+are gonna be these tubes that are full of fluid, and then sitting in
+the loop is gonna be the cupula, which is going to be these hair cells that
+have extensions that are in the fluid. And so as our head rotates, then the canal or
+the tube is also going to rotate, but the fluid is actually going to
+stay relatively stationary. And so, it's the movement of the tube or
+the canal with those hair cells, and the stationary aspect of the fluid
+that is going to cause tugging or pulling on these hair cells and
+causing the action potential eventually to signal that
+we're having movement in that direction. This is my demonstration of
+a semi-circular canal where if you tilt your head, the canal that's attached
+to the heb is also going to tilt but the fluid which is in the canal
+will primarily remain stationary. And in this way with the fluid
+remaining stationary and the canal tilting that's
+what signals to that apparatus attached to the hair cells, and
+lets you know that your head is tilted. Let's move to the otolith organs which
+are gonna again involve hair cells. So this is a common theme, or the idea
+of cells with extensions like hairs. And these are going to, as we've said,
+detect changes in linear acceleration or in the position of the head,
+as in, if it's tilted. And at the ends of these tips of
+these hair, there's gonna be gel. They're gonna be sitting in this layer of
+gel and then on top of that are gonna be otoliths, which are gonna be
+calcium carbonate crystals that are in this gel that is found
+at the tips of the stereocilia. And since they're calcium carbonate,
+they're very heavy. And so that means that a change
+in the position of the utricle or saccule is gonna cause those calcium
+carbonate crystals, the otoliths, to be pulled by gravity and then to
+pull on the tips of the stereocillia, which will be the signal that there's
+been movement or change in position. So the utricle based on its
+orientation in the body is going to detect movement
+in the horizontal plane. While the saccule because it's at 90
+degrees is going to detect vertical movement, so movement going up and down. This is animation showing you
+the movement of the head or the body and
+the response by the otolith organs. So here you see the hair cells
+with their stereocilia sticking up into this blue here shown
+as blue gel with these green otoliths that calcium carbonate
+crystals that are going to pull on those stereocilia and
+elicit a response. So here when we tilt the head backwards. Then you can see that, because gravity
+is gonna act on those otoliths, since they're so heavy. That is gonna cause them to
+pull on those stereocilia. Whereas, when we tilt forward. Then the otoliths are gonna
+be pointed in the other direction pulling on the stereocilia. And then when we have forward acceleration
+what's happening is that those otoliths, since they're so heavy and dense, they have greater inertia
+than the rest of the body. And so it's like they stay in place while
+the rest of the body goes forward and that's what causes the tugging. So it's actually very similar to what
+happens when you tilt your head backwards. And then when you decelerate,
+it's gonna be the opposite. The otoliths are gonna
+kind of stay in place, while the rest of
+the body moves backwards. So I'll let you watch it again. We're tilting and acceleration or deceleration are gonna cause very
+similar changes in the otoliths. Or forward acceleration similar
+to tilting your head backwards. And deceleration is gonna be similar, causing a similar effect as
+tilting your head forwards. So, finishing this section up,
+we talked about the auditory system. How we are gonna be able
+to detect complex sounds by breaking them into their
+basic sound frequencies, and then, being able to determine the volume
+of each of those basic frequencies. And this is going to be obviously
+converted into action potentials and then sent to the brain for interpretation. And then the vestibular system is
+going to aide us in maintaining our balance, in part by knowing
+where our body is in space. And we're gonna be able to detect
+position and motion of the head. And they're gonna be
+found with these sensory, hair-like cells that are gonna be
+found in the semi-circular canals, as well as in the otolith organs,
+the utricle and the saccule.

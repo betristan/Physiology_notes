@@ -1,0 +1,276 @@
+Welcome back. We're going to finish
+talking about the somatic nervous system when we talk
+about the control of movement. And I think one aspect that's
+interesting about this is how much of it is really focused in the spinal
+cord versus in the brain. And that will become
+evident in a few minutes. First we're going to talk about the fact
+that there are actually two types of lower motor neurons, meaning the motor neurons
+that are innervating the skeletal muscle. There are alpha motor neurons. These are the ones that
+we're used to discussing. These are the ones that are innervating
+what we call the extrafusal muscle fibers or cells. These are the fibers of the main part of
+the muscle, and these are the ones that are doing the contracting to cause
+the muscle to produce tension. So these are the main muscle cells, and the alpha motor neurons are the ones
+controlling those muscle cells. So this is what's doing
+the work of a muscle, are the alpha motor neurons activating
+the extra fusal muscle fibers. In muscles we also have another
+structure called the muscle spindle. Which is consists of what
+are called intrafusal fibers. That's what are shown here,
+which are special muscle cells that shorten, but they don't
+really generate force of the muscle. Another component of this muscle spindle
+which is contained in this capsule right here is our afferent
+neurons that are going to, since the stretch of these intrafusal
+fibers and so it's going to be gamma motor neurons that are going to
+innervate these intrafusal fibers. So you might ask,
+okay if these intrafusal fibers aren't contributing to the force producing
+capacity or the ability of the muscle. Why do we have them? And, so the point of this muscle
+spindle is to have this parallel system of intrafusal fibers, and
+these parallel system of the alpha and gamma fibers so
+that whenever the alpha fibers of the alpha motor neurons are being
+stimulated to cause muscle to contract, the gamma motor neurons
+will also be stimulated. So that as a result when ever
+the extrafusal fibers shorten the intrafusal fibers should
+shorten in the same manner. And so in this way the muscle spindle is
+like this parallel system that is special because of this afferent neuron
+sensing the stretch in the fiber. And so it's this parallel system that
+let's the body monitor the length of the muscle by monitoring the length
+of the intrafusal fibers which are activated in the same manner, and
+at the same time as the extrafusal fibers. And so
+this is going to be one of our aspects of muscle length that is
+going to be monitored for proprioception is the amount of stretch. And so this muscle spindle
+is gonna be critical for monitoring the length of
+the muscle as it shortens so that. The more it's stretched,
+the more firing there will be of this neuron, and then as we contract,
+the firing will reduce less and less. And that will tell the central nervous
+system that the muscle is getting shorter. And because there's less stretch so
+there'd be fewer action potentials and then that will tell the body about where,
+for instance, the position of the hand
+is based on how short the muscle is. So these alpha and gamma motor
+neurons are going to be efferent somatic motor neurons and
+they're gonna be co activated so that this muscle spindle will reflect what's
+happening in the rest of the muscle. We're gonna switch gears just a little
+bit to now talk about muscle sensory receptors. And you've probably guessed we're
+already talked about one of them, and that's gonna be the muscle spindle. So it's going to be an important
+sensory receptor for muscle is going to be the muscle spindle. You can see how that afferent neuron
+that we were just talking about, it's coiling around the muscle,
+and it's gonna sense stretch. You can remember it because spindle
+starts with an s and so does stretch. And that means that when your muscle is
+stretched that's when the neuron is firing the most and then as the muscle shortens
+it's gonna be firing less and less. When it's firing a lot because
+there is a lot of stretch. It can cause a reflex that is going to
+cause contraction of the stretched muscle. So this is gonna be
+a negative feedback loop. Which means that if we're saying
+the problem is that this muscle is over stretched, then to correct that problem
+it's gonna want to cause contraction. For instance, let's say of the bicep. Now, to do that, it's also going to need
+to worry about what's happening with the tricep because if you want to
+shorten this muscle, the bicep, then you're also going to
+need to relax the tricep. And so the circuitry, and we'll see
+the specific circuitry in a minute, is going to cause what we
+call reciprocal innervation which means we're gonna cause
+contraction of the stretched muscle, and then we need to cause the opposite action,
+relaxation, in the antagonistic muscle. So that would be the biceps
+versus the triceps. So in this way that gamma motor
+neuron is going to activate the intrafusal fibers to
+cause them to shorten. Alongside the extrafusal fibers and the muscle spindle which is the sensory
+portion, are gonna act in this negative feedback loop so that we can keep
+the muscle length at a desired value. And we'll see how that
+happens more in a minute. Our other muscle sensory receptor is going
+to be called the golgi tendon organ, which is going to be located in the tendon
+that's attaching the muscle to the bone. And so this is going to respond
+to a different type of stimulus. We said the muscle's spindle is going to
+be activated when you stretch the muscle. When you stretch a muscle,
+the Golgi tendon organ or the tendon itself is not going
+to be stretched that much, because when you stretch a muscle
+the muscle is gonna give so that there's not that much
+tension put on the tendon. So if the Golgi tendon organ
+fires very infrequently, just when the muscle's at rest,
+when it's stretched, when the muscle is maximally stressed, the Golgi tendon
+organ might fire a little bit more. But when it really fires and remember these are gonna be
+mecanorreceptors in these, this afferent neuron that's gonna
+respond to tension in the the tendon. When that golgi tendon organ is really
+going to fire is when your maximally contracting your muscle, because that's when that tendon
+is pulling against the load. It's kinda caught between
+the contracting muscle and the load. And that's when the golgi tendon
+organ is going to just fire, like action potentials like crazy. So that's why we say the Golgi tendon
+organ is responding to tension in the muscle, not stretch, and
+I always remember it because tendon, of the Golgi tendon organ,
+starts with a T, just like tension. So, the Golgi tendon organ is sensing
+tension generated by the muscle, which is basically going to
+be when it's contracting. It's going to be an afferent nerve ending
+located at the junction of the muscle and the tendon. And then,
+we're going to have an afferent axon. So it's going to be
+a mechanorecepter stretch-activated ion channels in this Golgi tendon organ. So that means that since golgi tendon
+organ is activated by contraction, then they're going to act
+to negatively feedback to regulate tension, so that if
+the Golgi tendon organ is really firing, because you're lifting
+a really heavy load, it's going to act to reduce contraction,
+to relax the contracting muscle. And then again, it's going to have
+to act with reciprocal innervation to then cause contraction
+of the antagonistic muscle. So, it's going to act to fix the problem,
+to use negative feedback, but it's going to act to relax
+the muscle that's contracting. And we'll see a more concrete
+example of this in a moment. So, let's talk about reflexes. Where we're going to have
+some sort of sensory input, then the central nervous system is going
+to decide what to do about that input. And then it's going to cause
+a response that's going to be controlled by an efferent pathway
+like the somatic nervous system. We're going to talk about first,
+the muscle stretch reflex, which is basically, an example of
+this would be the knee jerk reflex, when the doctor might use a little
+hammer as you're dangling your leg over the examining table. And when he does that, he is striking
+the patella tendon under your kneecap, which is then tugging on the kneecap,
+and then on the quadricep muscle. And it's basically causing the quadricep
+muscle to stretch really quickly. And so, that's going to
+activate the muscle spindle. And we know that when we
+activate the muscle spindle, that's going to cause
+contraction of the muscle and relaxation of the antagonistic muscle,
+and that's what we're showing here. So, we've activated the spindle, that's going to cause contraction
+of the quadricep muscle and relaxation of the hamstring muscle. And we're going to do that through
+the action of an inhibitory interneuron that's sitting between
+the muscle spindle neuron, afferent neuron, and
+the neuron for the hamstring. So we have an inhibitory interneuron,
+and it's going to release a neurotransmitter,
+such as GABA, or glycine, very commonly,
+in a synapse with the semantic neuron for the hamstring, and
+those neuron transmitters often cause opening of chloride channels, which
+is going to cause chloride to rush in to the somatic motor neuron
+controlling the hamstring, and if chloride rushes in negative charges
+rush in and those channel stay open. It's going to be much harder to cause
+an action potential In that neuron and if you have a reduction in
+action potential frequency, that's basically relaxation of a muscle. So again,
+our language here is action potentials. So when you want a muscle
+to contract more, you have a higher frequency
+of action potentials. If you want it to relax, then you greatly
+reduce the frequency of action potentials. So when we're talking about antagonistic
+control, or reciprocal innervation, we're causing one neuron to fire more
+rapidly to cause one muscle to contract, and then we're causing the other neuron
+leading to the antagonistic muscle to fire less frequently,
+which is going to cause relaxation. And so that's what's happening here
+when we have this reflex where we've got activation to muscle spindle,
+activation of the quadracep muscle, and then activation of the inhibitory
+interneuron, which prevents firing of the neuron that is
+leading to the hamstring. Now this, obviously the vast majority of
+our movements are not completely reflex. One thing to note with this is, that this reflex that we're talking about
+really involves only the spinal cord. These are the neurons, and this is
+only about involving the spinal cord. However, we can use reflexes
+like this by influencing them from up above,
+from the brain to do more everyday tasks. So an example of using this muscle
+stretch reflex would be if you're holding a glass for someone to pour a drink into. Your brain knows that if you're holding
+this empty glass, and someone's about to pour a drink, you need to keep your
+arm level, so that when they start to pour the drink you don't just dump it
+because of the extra load from the drink. And so what the brain can do is say, okay,
+this muscle is right where it needs to be. I don't want it to get any longer. I don't want it to stretch any more. And so, it changes the sensitivity
+of the muscle spindle so that now, it's not only going to act just if it's
+completely stretched in a dramatic way, it's going to act and
+be super-sensitive, so that it's going to cause a reflex
+if this muscle gets longer at all. And so what will happen is that you've got
+this new amount of sensitivity set into the system from the brain, affecting
+the same circuit we've just been talking about, and someone starts to pour a drink,
+the load gets greater because this is heavier, so
+your arm dips just a little bit. But that's when that muscle spindle
+says no I don't want to stretch. And so it causes this same reflex that
+we just saw with the knee jerk reflex, where it's going to cause contraction of
+the biceps and relaxation of the triceps to keep this drink level, keep your arm
+level so you don't spill the drink. So in this way,
+the basic circuitry is the same as this completely reflexive action
+of the knee jerk reflex, but we are able to modify That system,
+by the brain, through the brain, and use it for
+a more everyday purpose. So let's talk about the Golgi tendon
+reflex, that's also gonna cause a reflex. Well we said, remember, the Golgi tendon's
+gonna be really activated when the muscle is really contracted and really
+pulling dramatically on that tendon. So that means we've got the signal
+coming from the Golgi tendon organ, coming into the spinal cord. Its cell body's gonna be sitting
+here in the dorsal root ganglion of the spinal cord. And it's going to act on
+an excitatory inner neuron in the tricep, to then cause excitation of the somatic motor neuron leading to the
+tricep to cause contraction of the tricep. And then it's gonna act to
+activate an inhibitory neuron which will then inhibit the neuron leading
+to the bicep to cause it to relax. So, it's again, trying to fix the problem
+of too much tension in the muscle. And it's gonna do that by
+relaxing this muscle and contracting the opposing muscle. So it's gonna act with
+reciprocal innervation again and this is going to act to limit
+the tension within the muscle so that we can protect the muscle and
+the muscle tendon junction so that they don't damage or just rip apart. We can also have influence of a stimulus that is not in the muscle itself,
+or not in the tendon itself. It could be, for instance, a pain stimulus
+coming from the skin which can also cause a reflexive action that
+involves the somatic motor system. And this is an example where it's
+called the withdrawal reflex. Because in this case someone
+has just stepped on a jack and as a result the reflex is
+going to be to withdraw the foot. So that means that the quadricep
+is gonna be relaxed and the hamstring is gonna be
+contracted to do that withdrawal. Now if you withdrew your foot, and didn't make an adjustment in the opposing
+foot, you would just fall right over. And so this withdrawal reflex not only
+involves withdrawal of the limb but it also involves the crossed
+extensor reflex, which causes the opposite
+action in the opposite leg. Where instead of withdrawing the other
+leg you extend it, which allows you to support all of your weight on
+the foot that's not experiencing the pain. So this gets even more complicated,
+because not only do we have reciprocal innervation in each leg, but
+we also have opposite actions in each leg. And so
+that's what this animation is showing. Where now we're activating
+to withdraw this leg and to extend this leg through again, afferent
+pathway this time from a pain receptor. And so we're getting reciprocal
+innervation of each leg and causing opposite effect in
+one leg versus the other, to withdraw one leg and
+extend the other leg. And again, this sort of reflex can be modulated by the brain, so
+if you pick up a hot plate, your reflex is going to be
+to withdraw your hands. However, if that plate is
+really precious china or it's got your favorite meal on it, you might be able to kinda tell yourself
+okay I know it's hot but hold on. If it's too hot you might
+not be able to do that. But you do have some control in some
+instances over your reflexes and again it's just the brain influencing
+these very circuits that we're looking at. That's gonna move us to talking a little
+bit about central pattern generators, which are going to be
+these spinal cord-centered circuits that are gonna be responsible for
+a lot of our repetitive movements that happen in everyday life. So these are going to be neural
+circuits that are gonna coordinate complex patterns of movement. And that it's gonna be independent
+of sensory input to some extent, but that it can be adjusted in
+response to some sensory feedback, and I'll give you an example. So because these are repetitive
+movements that means that these circuits that are generated are going
+to be oscillatory. And they are gonna be flexible
+due to control by the brain. So let's talk about one
+of the easiest things to see an example of this would be walking,
+where you've got two different actions that you're gonna do,
+two main actions that you're gonna do. One is that you're going to have
+the swing phase when you walk, which is going to be whenever
+your foot is off the ground. You're swinging it from being
+behind you to in front of you. So that's the swing phase. Then the stance phase is when you've
+just stepped on the foot, and then you're going to push
+to move your body forward. That's called the stance phase. And so each leg is going to alternate
+between being in the swing phase and the stance phase. And again, you're gonna have to
+have reciprocal innervation of the different muscles to allow for,
+basically, withdrawal and extension. But then when your right
+leg is in the swing phase, your left leg will be in the stance phase. And so again,
+like with the withdrawal reflex you're gonna have reciprocal
+innervation of the limbs as well. So it's actually somewhat simple, or very repetitive motion where you're just repeating the same
+sets of muscle contraction. But you need to make
+sure that the left leg is doing the opposite of
+the right leg at all times. And so this can be established and based in the spinal cord through
+these central pattern generators, where they just generate this pattern of
+neural activity that causes you to walk. This can be adjusted by the brain, and that's adjusted in response to sensory
+feedback and influenced by the brain. And an example of that would be if you
+want to go from walking to running. It's the same general pattern. It's just you're gonna reduce the stance
+phase and that will allow you to run. So, it's just a little modulation of
+the main central pattern generator that allows you to switch to running. And it's efficient because you get
+to use the same basic circuits and just modify them to do a different
+activity such as running versus walking. This has also been pretty well
+studied in quadrupeds, so in animals that have four legs. When, for instance, a horse goes
+from a trot to a walk to a gallop, they still have a similar
+motion of basically a swing versus a stance
+phase with their leg. But the pattern of which leg is in which
+phase changes depending on how their gait. And so again it's a modification of one
+of these central pattern generators that allows for
+that different pattern of movement in different types of gaits
+in a quadruped animal. So we've talked about our
+sensory receptors in muscle that are going to regulate
+muscle length and velocity of shortening and
+tension in the muscle. And remember how we can use these in terms
+of just being able to monitor what's going on with the muscle,
+in terms of proprioception. But then also in using it as
+a reflex to protect the muscle. Or to do everyday activities as well. And then, we do have some reflex
+actions that are involved with any sort of sensory information. We talked about sensory information
+coming from muscle, tendons, or skin and causing a movement
+in an appropriate muscle. And then we talked about
+central pattern generators and how they can be important in
+everyday repetitive movement, such as walking, and how it's gonna involve having antagonistic
+muscles being reciprocally innervated as well as reciprocal
+innervation of certain limbs as well. So central pattern generators
+will be involved in many everyday processes that
+are repetitive in nature.

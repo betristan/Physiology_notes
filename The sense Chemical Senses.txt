@@ -1,0 +1,85 @@
+Welcome back were going to finish
+the senses with the chemical senses, so we're going to talk about
+the last of the special senses. So we're going to be
+dealing be chemoreceptors, molecules that are going to
+bind certain chemicals and then eventually lead to a graded potential
+which will lead to an action potential. So we'll be obviously talking about
+taste and the sense of smell. But then keep in mind,
+as we've mentioned before, there are gonna be other chemicals
+that our body is also monitoring and responding to,
+such as detecting osmolarity in the brain, which we'll talk about
+when we talk about the kidney. And then talking about the amounts
+of oxygen and CO2, and the pH of the blood, which we'll be talking about
+when we get to the respiratory system. Let's consider taste first, where you're
+going to have, along the surface and kind of in recesses of your tongue,
+you're going to have taste buds, which are gonna be made up of taste cells,
+which you can think of kind of like segments in an orange
+that are forming this sphere around a central channel which
+is called the taste pore. So you can see that because this
+taste pore is kind of recessed from the surface of the oral cavity, and because it's gonna be really small,
+that the substances, the molecules that we taste are going
+to have to be dissolved in liquid. So that's fine because we pretty much
+constantly have saliva in our mouth and certainly we have it when we're eating. But that does mean that in order to taste
+something it needs to be dissolved so that it can enter this little
+taste pore and expose the tops of these taste cells to the molecule. Then these taste cells will form graded
+potentials, that if they're strong enough, will affect the afferent neurons
+leading from the taste bud, to send action potentials into
+the central nervous system. We can taste different flavors or
+different taste modalities. We've already said how these substances
+are gonna have to be dissolved in saliva and no matter what we're tasting, the result is that we're going to
+increase intracellular calcium. That is going to cause a release of
+neurotransmitters by these taste cells that are gonna cause graded potentials
+that if they're great enough or strong enough will cause action
+potentials in that postsynaptic neuron, that neuron that's leading
+away from the taste bud. And we have a couple of major types of
+channels that are gonna be activated. So when we're tasting something
+that's sour, it's because we are detecting protons, we're detecting
+something that's acidic, and then often when we're tasting something that's
+salty what we're detecting is sodium. Also it can be potassium as well,
+but in any case, these are going to be ions, and so
+they're gonna act on ion channels that are then going to cause increase
+in intercellular calcium in the cell. Versus sweet tasting substances,
+which are going to be sugars, bitter, which are often compounds which
+are often gonna be plant alkaloids. And then a fifth taste modality is umami,
+which is a meaty flavor. So it's what makes meat taste like meat,
+but also is what causes mushrooms to taste like meat, which is when we
+are sensing amino acids like glutamates. So, sugars, bitter molecules, and amino acids like glutamate are going to be
+detected by G protein-coupled receptors. So these tastants will bind the G
+protein-coupled receptors, and then the G protein-coupled receptors will cause
+a signal transduction pathway to initiate that will increase intercellular calcium
+and cause the release of neurotransmitter. We're gonna finish up with smell, which
+is going to be unique compared to most of the other systems that we've talked
+about, especially of the special senses, because it is actually
+the neurons themselves, the primary afferent neurons themselves,
+that are going to be expressing olfactory receptors, and
+actually binding to the odorants. So in the epithelium covering the nasal cavity is where we have these neurons
+that are sending out cilia that have receptors on them that
+can bind the odorants. And these are, again,
+going to be G-protein coupled receptors. So each neuron will express
+a specific type of G-protein coupled receptor that can bind
+a certain type of molecule. We have several hundred
+olfactory receptor types. So, we're gonna have
+several hundred neuron types that are expressing
+a certain receptor. But, yet,
+we can discriminate about 10,000 odors. So when these odorants bind, they're
+going cause a great potential which when great enough or big enough
+can lead to an action potential. And it's going to be which neutrons are
+activated and how much they are activated by binding a certain molecule that
+lets us convert that to a smell. So if we have a certain molecule, let's
+say that there are two or three different odorant neurons that can bind different
+portions of that odorant molecule. And so, which neurons are activated and how much they're activated is what we
+translate into smelling that molecule. And so again it's very similar
+to our ability to see color, where we don't have
+a different receptor type and a different neuron type for each color or
+for each molecule we can smell. But instead it's the matter of
+which neurons are activated and how much in combination
+that allows us to detect so many colors and so many different odors. So we've talked about the two special
+senses that involve chemoreception, taste, where we're gonna have taste receptors in
+the tongue that are going to be associated with our five basic taste modalities,
+umami, salt, sour, sweet and bitter. And again, when we're sensing a taste
+it's going to be combinations of taste receptor activation that's
+going to give us certain tastes. And we're gonna be interpreting those in
+terms of perceiving what we are tasting. And then in smell we're going to be
+activating olfactory receptors which themselves are going to be
+the primary afferent neurons, leading in sending information
+into the central nervous system.

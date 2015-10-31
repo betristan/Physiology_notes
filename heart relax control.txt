@@ -1,0 +1,369 @@
+Welcome. So today we'll have our last lecture
+on the cardiovascular system. And what we want to talk about is how the
+entire system, that is the heart itself and the vasculature,
+are regulated in order to maintain the pressures within the body that
+are compatible with the needs of the body. So we have several objectives
+set that we need to consider. And the first is that we want to describe
+the reflex control of the blood pressure. Secondly, we want to explain
+how baroreceptors or pressure sensors control
+the blood pressure. Third, explain how other sensors,
+such as the cardiopulmonary receptors, and volume receptors within the kidneys
+can control blood pressure. And fourth, we want to describe
+the central control of blood pressure, in response to certain perturbations
+such as exercise whether it's aerobic exercise or anaerobic
+exercise in states of hypertension. So let's get started then in
+considering all of these factors. Now the first thing that we need to
+remember is that this entire system is governed essentially by factors
+which are unique to the heart. And that is that the heart can control
+the stroke volume and the heart rate. So cardiac output is controlled by changes
+in stroke volume and in heart rate. But secondly that we can control
+the system by changes that are more properties of the vasculature and
+the heart itself. And that we can change preload
+that is the filling of the heart by changing the way the venus return
+is brought back to the heart. That is how much blood is returned
+to the heart at a given time. And then the preload,
+post-load, afterload, sorry. It's called afterload, and the afterload
+is simply the amount of pressure that the heart has to generate in
+order to open the aortic valve or to open the pulmonic valve to allow for
+distribution to those particular areas to either the circulatory system, which
+is systemic or to the pulmonic system. Now, the pre load and the after load are governed by multiple factors,
+as well as by the heart itself. So, we're gonna consider then,
+how all of this is coordinated, and the coordination is through a reflex loop. So the reflex loop is
+what's diagrammed here. So we have within the system,
+as all systems, we have sensors which are bring
+information into the central control site. And the central control site or
+integrator, is where there's a set point. So these pressure sensors then, are
+present within the cardiac system itself. It is within the heart itself, and
+also within the systemic vasculature. It can also be present within organs
+such as the kidney, and in the lung. These pressure sensors then, are sending
+information back to the integrator. And the integrator is called the
+Medullary Cardiovascular Control Center. It is present in the medulla of the brain
+stem, that's why it's called medullary. So this particular control center then,
+has a set point and it will compare the information that's coming in
+from the body to the given set point. Depending on whether or
+not the pressures within the system are higher than the set point or
+lower than the set point. It will determine which is
+the outflow that is to our effectors. So in the conditions where we have low
+pressure, if we have low pressure or low volume, then the sympathetic
+nervous system is activated. And the sympathetic nervous system
+will increase norepinephrine discharge at the terminals that is
+the synapses of the nervous system. And if it acts on the heart through
+the beta one adrenergic receptors, we can increase heart rate and
+we can increase stroke volume. And in addition to that, the sympathetic
+system works on a gland, which is called the adrenal gland, and in particular the
+adrenal medulla, this is a central area of the gland, which secretes
+a catecholamines called epinephrine. And epinephrine also can act on
+the beta one adrenergic receptors to increase heart rate and stroke volume. And so under these conditions then,
+we can increase stroke volume. And by increasing stroke volume, that will lead to an increase
+in mean arterial pressure. And that then,
+can correct our low-pressure system. Conversely, if we have a high pressure
+situation, then with the high pressure situation, the parasympathetic
+system is activated, and in activation of the parasympathetic system,
+we then have release of acetylcholine. The acetylcholine works on the muscarinic
+receptors of the heart, and the muscarinic receptors of the heart
+will cause a slowing of the heart rate. So you decrease heart rate, and
+by decreasing heart rate we can decrease the cardiac output, and
+therefore, or thereby decrease the mean arterial pressure or
+the pressures within the system. So, this is our general reflex loops. Let's consider first some of the sensors
+that are present in this loop. So, one of the major sensors that's within
+the loop are called the baroreceptors, and these receptors are stretch receptors. So, they are sensitive to the transmural changes in tension in
+the walls of the vessel. So, blood vessels. They are located within the carotid
+sinus and the aortic arch. And they respond to changes,
+as I said, in pressure or stretch. And that these give information
+on a minute to minute basis in controlling of blood pressure. They send the signals then to
+the medullary cardiac control center. If there is an increase in
+mean arterial pressure, then this will increase the firing of
+the baroreceptors, and that in turn causes a decrease in the firing of sympathetics
+and an increase in parasympathetic. So the baroreceptors are effectively
+the brakes of the sympathetic system. So if we have high pressures within
+the system, they are activated, they go in the same direction
+as the change in blood pressure. So if the blood pressures increase,
+there are receptor firing increases and the decreases the sympathetic
+discharge and increases the parasympathetic system and we then
+decrease pressure within the system. Conversely, if there's a decrease
+in the arterial pressure, then the baroreceptor firing is decreased,
+and under those conditions, sympathetic discharge increases and we have a decrease
+in the parasympathetic symptom. So, we increase sympathetic
+tone when there is a decrease in baroreceptor firing. All right, so when does this happen? Well this happens to you all the time. So let's say you were lying in bed,
+and as you're lying in bed, then the blood is distributed
+throughout the body in an even manner. Now, the telephone rings, and
+you jump out of bed really quickly, and as you jump out of bed quickly,
+all the blood, or a lot of the blood is flowing to your
+feet due to the change in gravity. All right so you're going from a prone
+position to a vertical position, and now we have gravity pull the blood Just
+transiently is moving towards the feet. That means the baroreceptors,
+which are located in the carotid arches, which is up here in your neck and at the
+aortic arch, which is right coming out of the heart,
+those sensors then detect a less stretch. There's less volume in the system. The volume is going toward your feet,
+and so there's less stretch, and with less stretch,
+the baroreceptors decrease their firing. When they decrease their firing,
+sympathetic discharge occurs, and the sympathetics cause a basal
+constriction by activating the alpha one adrenergic receptors,
+which are present along the blood vessels. And by doing so, then they increase
+resistance within the system. And by increasing resistance within
+the system, then we can correct for our transiently low cardiac output and
+low pressures. So that's an example of
+orthostatic hypotension. Another one is when, and
+I'm sure all of you've seen this, when you have these guards who
+are guarding the royal castle in London, and all of a sudden one of these
+poor fellows just topples over. And what's happening is that as
+he's standing at attention and he's standing at attention and
+he's standing at attention, then eventually gravity pull is
+such that it's pulling the blood, to pulling into his feet, and
+eventually he becomes light-headed. He has an insufficient amounts of
+blood being delivered to the brain and the body just, he gets dizzy,
+and he collapses. Once he collapses, he's in a prone
+position, and now the blood distribution to the brain is increased, and
+he wakes up, and he's perfectly fine. So, this is called
+orthostatic hypertension. Now, in addition to the baroreceptors,
+which are very fast in firing, the baroreceptors are the ones who that
+do our minute-to-minute type of control, we also have other receptors. For instance, and you'll hear more
+about some of these when we talk about the respiratory system, but
+we also have chemoreceptors. And these chemoreceptors
+can detect CO2 levels, the level of protons, and
+the level of oxygen within the system. These receptors will send information not
+only to the cardiovascular central control system, but
+also to the respiratory control system, which is also located within the medulla. And for instance, if there's a rise
+in CO2 then these receptors will cause an increase in sympathetic tone,
+will increase the rate of breathing so the skeletal
+muscles will start to contract faster, so you start to breathe at a faster
+rate to blow off the CO2. There are other receptors which are
+present within the hypothalamus itself, and these receptors are for
+controlling temperature. So, you all know that if you're out on
+a hot day that you have vasodilation, that is you have opening of
+the capillaries beneath the skin, so that some of the heat can be
+radiated off into the environment, and this is to remove heat from the body. And under those conditions,
+your skin may become reddish in color. Or as you run, you generate a lot of heat
+from the working of the skeletal muscle, and again,
+there will be dilation into the capillary beds beneath the surface of the skin
+to emit heat through radiation. Conversely, if you're cold, then those
+capillary beds are not perfused, and the blood stays within
+the core of the body, and into the central portion of the body. So the distribution, then, into these
+capillary beds, whether we're sending blood out into the capillary beds,
+which could cause lowering of pressure, or we're moving the blood back toward
+the central core, which could increase central pressure, then that's
+governed by the hypothalamus and that's governed through the region
+that's governing body temperature. And then we also have the kidney. Now, the kidney is
+controlling fluid volume. The kidney is sensitive
+to hormone control and we'll talk about this at
+the end of the course. But in the kidney,
+there can be controlled to either pee out more volume if there's an excess
+of volume or high pressure, or to retain volume, that is to make
+very concentrated urine, and to move the fluids back
+into the blood space. So under the condition where we have an
+excess of volume, or high pressure within the system, then there's more volume being
+delivered to the atria of the heart. Will stretch the atria of the heart and
+some of the cells that are within the atria of the heart, those cells
+when they're stretched, will secrete a hormone and that hormone is called
+atrial, for atria, natriuretic factor. This factor acts in the kidney to cause an
+increase in the loss of fluid into urine. So it increases fluid output into urine. Conversely, when we have a situation when
+we have dehydration or a loss in volume, then there's the hypothalamus portion
+of the brain secretes a hormone called anti-diuretic hormone or vasopressin, and
+this hormone acts, again, on the kidney. But in this condition, it's moving
+water from the kidney tubules back into the blood circulation,
+and we concentrate urine. All right, so
+lets consider a few examples, and one of them would be hypotension. So hypotension, as occurs in hemorrhage. So in hemorrhage, then we have a loss of
+volume, and under these conditions, and the loss of volume could be let's
+say we lose a liter of blood. We had an accident, we cut our leg,
+and we've lost a liter of blood. That decrease in volume means
+that the baroreceptors then, will decrease their firing,
+and by decreasing firing, then it will increase the sympathetic
+drive within the body. By increasing the sympathetic drive,
+we increase the resistance, that is, you'll have alpha adrenergic
+receptors that are present on the blood vessels will
+cause vasoconstriction. So, we'll have contraction of the smooth
+muscle and we'll constrict those areas to move blood back to the heart, okay,
+to try to maintain our cardiac output. In addition, we will activate
+on the heart the beta one, so we have the beta one adrenergics on the
+heart, which will increase heart rate and we have the alpha one adrenergics on the
+blood vessels, which increase resistance. In addition to that, the kidney will
+sense this lowering of blood pressure or this loss in volume, and
+the kidney has specific cells, which are called juxtaglomerular cells or
+JG cells, and these are actually smooth muscles
+cells of arterials within the kidney that can secrete
+a chemical called renin. Renin activates a series of reactions, which will lead to an increase in
+vasoconstrictors within the system. And the two major vasoconstrictors
+are angiotensin II, and again, ADH, or a vasopressin,
+which we know is coming from the brain. So those vasoconstrictors will
+augment the increase in resistance within the vascular term and cause,
+then, further increase in resistance. So this helps then for venous return. It helps to move the blood
+back to the heart. There's a third hormone that will be
+released under these conditions, and this hormone is called aldosterone,
+it's coming from the adrenal glands. Aldosterone works on the kidney
+tubule to move sodium and the water back into the body. And so under these conditions, we're
+increasing volume of the vasculature. So by increasing volume of the
+vasculature, it offsets our loss in volume as we're moving this volume back
+from the presumptive urine. By increasing the resistance and
+by increasing volume in the vasculature. Then, we're increasing stroke volume
+by increasing the preload to the heart. So if you increase preload,
+then you increase the stroke volume. And we know that we've
+increased heart rate and we have a sympathetic drive which, again,
+augments contractility and stroke volume. And this helps to offset the loss
+in the cardiac output and to bring cardiac output back
+up to where it should be. All right, well what happens
+when we're going to exercise? So let's say that you've decided
+that you're going to go running and you're running a marathon. So this is a strenuous aerobic exercise. So, at your pre-exercise level, we have a cardiac output of
+about five liters per minute. But as you're exercising, you're gonna
+have to increase the cardiac output. And this can go as high 20
+to 30 liters per minute. Obviously at rest our blood pressure is 70
+beats per minute, but our blood pressure will rise to 150 to even 200 beats
+per minute as we're exercising. So we're increasing cardiac output,
+we're increasing heart rate. And as you know,
+that you have a sympathetic drive, and the sympathetic drive is also
+increasing stroke volume. All right, so let's think about what's
+happening to the body in general. So we have at the beginning,
+the basal flow to the muscles, the skeletal muscles,
+we're only moving about 20% cardiac output to the skeletal
+muscle in our basal resting state. But as we're exercising, then they can receive as much
+as 80% of the cardiac output. So we're increasing flow to the skeletal
+muscle because they're exercising and they need more oxygen to maintain
+their new state of activity. To increase the flow within
+the skeletal muscle then we had to dilate the arterials and
+when you dilate the arterial, then you're decreasing
+the resistance within that system. So that means that our total peripheral
+resistance actually will decrease. So from our basal state to
+our active state, TPR or total peripheral resistance within
+the body is decreased because the size of the vasculature of the capillary beds
+within the skeletal muscle are extensive. And so we have a lot of
+profusion within that regions, we have a loss in total
+resistance within the system. So what does that actually do to the mean
+arterial pressures within the system? So we've increased cardiac output but we've decreased total
+peripheral resistance. So we've increased mean arterial
+pressure but only slightly. So increase of this is slightly and it's offset by the decrease in
+the total peripheral resistance. So that's what occurs when we have an
+anaerobic, a strenuous anaerobic exercise. But what happens if you're doing
+something like aerobic exercise where, I mean anaerobic exercise
+where you are lifting weights. So when you're lifting weights,
+this is anaerobic exercise. And under these conditions
+now as the muscle contracts it actually causes a reactive
+hyperemia within these muscles. We're getting an ischemic
+event during contraction. And then when we relax, then we will get
+hyperaemia within the muscle to wash out the metabolites that occurred during the
+contractal state where we had ischemia. So this reactive hyperaemia. So what's happening then to
+total peripheral resistance? We're increasing cardiac output because
+we're lifting a heavy load, and so we need to have higher cardiac output,
+more oxygen delivered to the tissues. But we are also increasing
+total peripheral resistance. So under those conditions, then mean
+arterial pressure has to increase. So what's happening with
+the barrel receptors? Why are the barrel receptors not fighting
+us as we're doing all these exercises? And it turns out that the barrel
+receptors are able to reset so that just before we do our marathon and
+we're gonna increase cardiac output. As you're sitting there and
+you're about to take off for the race, the barrel receptors
+reset to a higher level. So they allow the system to work at
+a higher mean arterial pressure. And the same is occurring then with
+the condition of the anaerobic exercise. Then when you're finished with
+the exercise, the baroreceptors will reset again, and so the set point
+then is changed to a lower state. And the barrier receptors can reset
+to constant chronic input and that can occur if we have hypertension. And hypertension is a state where the
+heart may be weak and because the heart is weak then it's going to adjust some of
+the other parameters within the vascular vasculature to try to increase stroke
+volume and to increase cardiac output. So under these conditions, we can have
+hypertension, and the hypertension is tolerated because the baroreceptors
+reset to a higher level. And hypertension can be anywhere
+greater than 139 millimeters of mercury phostolic pressure and greater than 89
+millimeters of mercury diastolic pressure. So let's just see how this
+is actually occurring. We have a case where we have
+hypertension and in hypertension has occurred because we
+have weak cardiac muscle. So the weak cardiac muscle means that
+there was a lower ejection volume, that is a lower stroke volume. And because we have a lower stroke volume,
+then in order to adjust our cardiac output,
+we had to increase heart-rate. Okay so by increasing heart-rate,
+we then have a situation where we can get, we can augment the loss in cardiac output. But in addition to trying to change just
+the pressures within the heart itself, the stroke volume or heart right. Then we have, also,
+a change in the vasculature and that is, is that the kidney, will detect
+that we had low cardiac output. And because the kidney
+senses low cardiac output, it will hold water within the system. So here,
+we have diagrammed the injection volume. That is the stroke volume on the Y axis, and our left ventricular and
+diastolic volume on the X axis. So our normal heart sits
+here at 100 mils of the left ventricular and diastolic volume. And it has a stroke
+volume that's about 70. With the weak heart,
+the cardiac output drops and so now at the same end diastolic volume, we have a stroke volume
+that's only 35 milliliters. As the kidney holds water then by
+holding water and we're moving the end diastolic volume up to B, and B,
+which is now 200 millilitres. So our heart is stretched. We have a lot of volume in the ventricle,
+the heart myosiis, or stretch. By stretching them,
+look what happens to our stroke volume. So the stroke volume increases, and we now
+have a stroke volume which is close to 50. So, we've improved the stroke volume of
+the system by holding water in the system. So, our stroke volume has increased. The problem is, is that by
+increasing the fluid retention, or fluid within the system, we have increased
+pressure within the system, and so that means we've increased the afterload. So, although we have
+augmented the preload, that is the filling of the heart, and
+we've gotten a better stroke volume by stretching the heart we've
+also increased afterload. And the afterload on
+the weak heart is difficult. So that's the problem then,
+is that as we're trying to improve the performance of the heart by
+adjusting it's stroke volume and it's heart rate, we have increases mean
+arterial pressure within the system. Has increased as well. And that's due to the amount of
+volume that's within the system. Now because we have higher
+pressures within the system, we have hyper tension,
+then what happens to these individuals? Let's say they have hypertension, and
+the problem is on the left ventricle of the heart, and so where does the blood,
+what happens to the capillaries? In the capillaries we have
+higher hydrostatic pressure. The hydrostatic pressure is increased
+across the entire capillary. It's greater than the oncotic pressure. So we have filtration
+across the capillaries and in the feet where we have gravity pull, we now have fluid accumulating within
+the ankles or within the feet. And so this gives us then
+edema in those locations. Okay, so what's our general concepts? So, the first is we have cardiac output
+is matched with tissue blood flow by maintaining this mean arterial
+blood pressure relatively constant. So cardia output is equal
+to mean arterial pressure, divided by total peripheral resistance. If we want to maintain our mean arterial
+pressure constant, relatively constant and cardiac output has dropped, that means our
+total peripheral resistance must increase in order to keep a constant
+mean arterial pressure. Secondly, the baroreceptors will
+act as these short term regulators of the arterial blood pressure, and
+they provide sensory information to the cardiovascular center which is located
+within the medulla, the brain stem. The autonomic nervous
+system may outflow from the center maintains
+the pressure constant. So, if we have a drop in pressure, we have
+a decrease in firing at the baroreceptors will have an increase
+in sympathetic drive. And in increase in resistance
+within the system. And increase in preload but
+we will also increase afterload. If we have the pressure that is too high,
+then we have converse. And that is that
+the parasympathetic system will cause a decrease in heart and
+cardiac output. And a decrease in mean arterial pressures. Third, we have total blood volume
+can change the end diastolic volume of the ventricles that is the filling and
+thereby change stroke volume. And that is cardiac output is equal
+to stroke volume times heart rate. Then fourth, the hemorrhage can reduce the end
+diastolic volume leading to hypotension. That when we have a loss in the volume
+of the system we have hypotension in the system and the compensatory
+response to the hemorrhage is vassal constriction of the arteries and
+the arterials. And the capacitance veins then
+will receive more blood, and they will then deliver more blood To the
+heart, trying to fill the heart better. So our preload will then increase. We'll also get an increase
+in heart rate and in contractility by the sympathetic drive. Five, hypotension can result in
+either a sudden postural change, that is if we were lying down in bed and we jump out of bed to answer the door bell
+or answer the phone, then this change in, from a prone position to
+a vertical position can cause a loss in pressure within the head,
+and it's just a momentary thing, but the bearer receptors will decrease in
+firing, and then will have an increase in sympathetic drive, and that will correct
+for the pressures in that region. Six, we have aerobic exercise can increase
+cardiac output up to 30 liters per minute. But because it reduces the total
+peripheral resistance, because we were vasodilating, and
+the blood, so that we're reducing the resistance within the capillaries and
+the arterials of the skeletal muscle. Then mean arterial pressure does
+not increase as much as it would if we didn't have this offset due to
+the vasodilation within the tissues. In weightlifting, that doesn't occur. So we have an increase in cardiac output. An increase in total
+peripheral resistance. And an increase in mean arterial pressure. Seven, failure of the heart to
+maintain normal cardiac output, can lead to increasing
+resistance within the system. Because the system is trying
+to augment delivery of blood. To the tissue because it's trying
+to maintain main arterial pressure. And that is cardiac output times
+total peripheral resistance, is equal to main arterial pressure. So if the cardiac output drops,
+the body will try to increase total peripheral resistance in order to
+keep main arterial pressure constant. An eight, we have compensation for
+decreased encardiac output. That is because we have a weak heart. Then other organs may try
+to compensate for this. We'll have an increase in heart rate,
+total peripheral resistance, get vasoconstriction of the veins to increase
+our preload, and we'll get retention of water by the kidneys, which will
+increase the volume within the system. But by doing so,
+we also will cause a hypertension so that, it's sort of a balance then
+between these different factors. So in the one case, the body's trying
+to maintain cardiac outputs that we have adequate profusion of the tissues,
+but on the other side of the equation, we are making a weak heart
+work against higher pressures. And so, that actually is negative
+resolve for that particular heart. And so,
+it makes the weaker heart Work even harder in order to maintain
+mean arterial pressures. Okay, so the next time that we'll
+meet then we're gonna talk about the respiratory system. Okay, see you then, bye-bye.

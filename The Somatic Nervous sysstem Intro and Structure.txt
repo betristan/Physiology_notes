@@ -1,0 +1,109 @@
+Hello we're going to finish our
+consideration of the nervous system by now considering an efferent pathway,
+the somatic nervous system. So we talked about the afferent pathways
+coming into the central nervous system and now we're gonna kind of combine the two
+when we after we consider just the ether pathway the semantic nervous system
+that activates skeletal muscle. Then in the next session we
+are going to talk about reflexes, which is where we bring
+in sensory information, the central nervous system integrates
+that information, decides what to do, and then we're gonna consider
+the efferent pathway through the somatic nervous system and how that controls
+things like reflexes and locomotion. So in this session, we're gonna talk about general principles
+of the Somatic Nervous System. Some aspects, spinal cord structure and just touch
+again on the neuromuscular junction by the fair amount of this will be some
+review from just the nervous in general. And then in the next session we're
+gonna talk more about how the afferent pathways and efferent pathways
+come together to control movement. So you've seen this figure before, just to place this in the context
+of the larger nervous system, where we're gonna have sensory information
+coming in through afferent pathways. That's what we've talked about. Most recently,
+the CNS is gonna integrate and then we're gonna be talking about the
+somatic nervous system which is the part of the efferent nervous system
+that controls skeletal muscle. That's going to be in contrast
+to the autonomic nervous system which is gonna be what
+controls the organs. And this again is review to remind you
+that with the autonomic nervous system, such as the sympathetic portion and
+the parasympathetic portion, we have two neurons in series, where the first
+neurons in the central nervous system. And the second one is
+sitting out in the periphery. But with the somatic nervous system,
+we have the single neuron sitting in
+the central nervous system and sending it's axon all the way out
+to the muscle to stimulate it. So, it's a single neuron system
+in terms of the e-parent portion. And also keep in mind that the skill
+of muscle is gonna perform a variety of actions, not just voluntary actions. So, it's gonna be involved in reflexes and breathing, which are gonna be
+somewhat involuntary actions. Let's review our spinal cord structure
+where we've already talked about how we're gonna have an afferent neuron coming in. It's cell body is sitting usually
+in the dorsal root ganglion for the body sensory information. And then there will be neurons sitting
+in the spinal cord called interneurons that are going to be part of
+the system that is going to interpret the stimuli coming in. And we'll see in the next session
+concrete examples of the circuitry. So we're gonna have interneurons
+that are collecting information. And then based on what they decide,
+we will have firing of the efferent neuron for the somatic
+nervous system, that's gonna be sitting in the ventral what we call
+the ventral horn of the spinal cord. So, this is the ventral
+portion of the spinal cord and here we're going to have all of our motor,
+somatic motor neurons with their cell bodies sending their axon all
+the way out to the skeletal muscle. We need to now consider that somatic
+motor neuron that we're just looking at in the spinal cord. What is it synapsing with? And so that comes to
+the definition of a motor unit, where motor unit is a single motor neuron. And all of the muscle fibers, which is the same thing as a muscle cell,
+that it controls. So that's what a motor unit is, and we'll be talking about this more when
+we talk about skeletal muscle as well. Where a usually a neuron
+is gonna control anywhere from 3 to around 1,000
+different muscle cells, skeletal muscle cells or, which is
+the same thing as skeletal muscle fibers. All of those fibers are gonna
+be in the same muscle, but they're usually gonna be spread out. So that's what's shown
+here in this muscle, where we're saying that these blue muscle
+cells are the ones that are enervated and receiving signals from one neuron. This is this one motor
+neuron's motor unit. Keep in mind that one, a single muscle cell is only going
+to be intervated by one neuron. Which means that it is only being
+controlled or regulated by one neuron, so our decision making about whether or
+not a muscle cell should contract is coming at
+the level of the somatic motor neuron. If it sends an action potential
+down it's axon to the muscle the muscle is gonna contract and
+we'll talk about that in just a minute and that muscle cell is only getting
+inputs from that one neuron. So the muscle cell is not
+having to decide whether or not it's gonna contract because it's
+only being controlled by one neuron and whenever that neuron fires,
+that muscle is going to contract. So the decision making is happening
+with the somatic motor neuron not with the muscle cell receiving
+multiple inputs from multiple neurons and deciding whether or not to contract. So let's talk about
+the Neuromuscular Junction, which is just gonna be a certain type of
+synapse which we've already talked about. There's nothing so unusual with it. We're gonna have the axon
+from the somatic motor neuron coming to contact the plasma membrane
+of the skeletal muscle cell. So the action potential will travel
+down that axon and when it does, just like in a normal snaps,
+it's going to open voltage-gated calcium channels that will let
+calcium into the terminus of the axon. Which is gonna be the signal to cause
+vesicles of the neurotransmitter, and more specifically,
+acetylcholine, to fuse and to be released into the synaptic cliff,
+cleft. So acetylcholine is gonna be what's
+released by all somatic motor neurons. The muscle motor end plate, which is just
+the portion of the muscle plasma membrane that is at the synapse, is gonna contain
+nicotinic acetylcholine receptors. So these are nicotinic synapses. And we know that nicotinic
+acetylcholine receptors are going to be acetylcholine
+dated sodium channels. So that means that if this neuron fires,
+it's going to open sodium channels. That's going to cause a greater potential. However, keep in mind that
+right next to this synapse on the skeletal muscle plasma membrane
+we're going to have voltage, gated ion channels. Which is going to be somewhat unique
+compared to what we saw with neurons. So that means that basically
+we are having a synapse to what would be equivalent to
+the axon initial segment. And so that means whenever we have
+firing of the somatic motor neuron, for all intents and purposes we're also going
+to have an action potential that occurs in the skeletal muscle membrane as well. And we'll be talking more about
+that once we cover muscle. But again,
+it's this idea that if that neuron fires, we're gonna have an action
+potential in the muscle membrane. And that's gonna cause contraction just
+because we're having a graded potential right next to voltage gated channels. And so it's a pretty much given that
+one's going to follow the other. So, we've just had an introduction
+to the somatic nervous system, where we're gonna control many
+different types of movement. One, because for instance, the diaphragm that controls our
+breathing is skeletal muscle. So things like that, as well as obviously
+the muscles that are important for posture, and locomotion and these somatic
+nervous motor neurons are going to act, they're sitting in the spinal cord and
+they're going to act on skeletal muscle. A motor unit is going to be
+a somatic motor neuron and the fibers that it innervates or controls. And we're gonna have these motor
+neurons in the grey matter of the ventral horn of the spinal cord. And then we mentioned just briefly,
+but we'll talk more about it. About this, interneurons in
+the spinal cord and how they are gonna be important in coordinating
+responses and integrating information. And this is a subject that we're
+gonna really focus on in the next section in terms of talking about
+how we make reflexive movements.

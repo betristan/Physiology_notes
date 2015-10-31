@@ -1,0 +1,180 @@
+Greetings, today we want to consider our
+discussion of the cardiovascular system, and in particular we want to think about
+how the heart adjust its output of blood to match the needs of the body in general. So the many objectives that we
+want to consider are to define and calculate the injection
+fraction of the heart. Secondly, to discuss what's known
+as the Frank-Starling relationship. in terms of venous return, that is
+the blood coming back into the heart and its filling, versus cardiac output,
+and that is how much blood is actually being ejected from the heart
+to enter into the circulatory system. And third we want to explain the effects
+of the sympathetic nervous system on cardiac output. Okay, so what do we mean by cardiac
+performance or cardiac output? The cardiac output is the volume of
+blood that's pumped each minute. And that as you know from
+last time when we met, the cardiac output is equal to
+stroke volume times heart rate. And that the heart rate is typically
+about 72 beats per minute. And our stroke volume
+about 70 milliliters, so that the cardia output at rest,
+is about 5 liters per minute. But we know that [SOUND], excuse me, individuals such as athletes can
+have a much lower heart rate. They can have a very high
+parasympathetic tone and by having a high parasympathetic
+tone they have lower heart rate, but they still have, at rest, a cardiac
+output of five liters per minute, and this means that the heart had
+to adjust the stroke volume. So, the stroke volume increases
+in a well trained athlete. And so that somebody who has a heart
+rate of 50 milliliters per minute, beats per minute, and has a cardiac
+output of 5 litters per minute will them have a stroke
+volume of 100 milliliters. The other way of thinking about
+the heart and its function, is to think about the ejection volume,
+or the ejection fraction. This is calculate by the stroke volume
+divided by the end diastolic volume, that is by the volume at the end of
+diastole when the ventricles are full. So this will give at times 100. This gives us the percentage
+of blood that's pumped from the filled ventricle per beat. [COUGH] Excuse me. Typically, when we have a normal heart, you can have an ejection fraction
+anywhere from 50 to maybe 70 or 75%. But in a weak heart, where the heart
+has gained in size but has not gained in strong, then those hearts will have
+an ejection fraction that's much lower. So let's look at what's happening. We can consider this by looking at
+our pressure volume loops, and so what we have here on the Y
+axis is pressure, and on the X axis is volume, and
+volume is increasing in this direction. We have one heart, and that's heart A, and that heart we're going to fill with
+more blood as it goes through diastole. So we're going to shift the first
+Heart A to Heart B by simply increasing the end diastolic volume, and
+that's what's here on the x axis. As we shift the heart, and this is the same heart, all we're doing is
+adding more volume to it, as we do that, you'll notice that it started with
+a systolic pressure of 100, but now a filled heart, a heart that has
+more blood within the ventricle, can generate up to a 100, is now
+generating 180 millimeters of mercury. So that by simply filling
+the same heart with more blood, we're able to get a better contraction, better force from that particular heart
+and we have a higher systolic pressure. So that's an advantage and
+that's why the heart will in fact, meet their increased demand by increasing volume within the system,
+and that is the filling of the heart. But in this particular case the stroke
+volume of the two loops that is A and B, we kept as 40 milliliters. So what if we calculate the ejection
+fraction form loop A, that is the heart at rest before we started to fill it
+with more blood, then what we find is that 40 divided by 90 will give us
+an ejection fraction which is about 44%. But what about the injection
+fraction from loop B. It's the same heart but we've added more
+volume, more blood to the ventricular and we've maintained the stroke volume at
+40 and what we see then is it's 40, divided by 140,
+which is its end diastolic volume. And so, now, that heart has only
+about 28% ejection fraction. So although it can give us more pressure,
+or can generate more pressure, the heart is, in fact,
+not as efficient at doing so. Now under normal conditions, [COUGH]
+excuse me, under normal conditions when the heart is filling with more volume,
+the stroke volume is also increasing and this is due to our
+Frank Starling relationship. Remember when we said that the heart is not able to recruit more muscle
+fibers such as the skeletal muscle, because as the heart is pumping
+it's using all of the fibers. They're all connected
+through gap junctions, and they're synchronously pumping. So we can't recruit more
+fibers to generate more power. But instead, when we stretch the heart and we stretch the myocytes,
+then they will give a better contraction. And this we said was due to the differences in the molecular
+arrangements within the fibers themselves. This is known as
+the Frank-Starling effect and effectively what it's saying is that the
+volume that's coming in to a normal heart is the volume that will be
+ejected by that normal heart. So let's consider this particular figure. On the x axis, there is the left
+ventricular and diastolic volume, or EDV. And on the y axis is the ejection volume
+and as you know, that's the stroke volume. So we have stroke volume then
+versus the end diastolic volume. And if we start our heart here at rest and it has an end diastolic volume of 100,
+then as we fill this normal heart, we fill it and move it to an End Diastolic
+Volume of a 150, notice that we now have moved the stroke volume has increased,
+the stroke volume has gotten bigger. So when the heart had an end
+diastolic volume of a 100, we have a stroke volume that was about 70. But at 150, that same heart, the end
+diastolic volume of 150 milliliters, that same heart will give us a stroke
+volume that's now at about 90. So, we can increase the stroke volume by
+filling the heart, and this filling of the heart is referred to as venous return,
+and it's also referred to as preload. Preload increases the ability
+of the heart to eject blood. It's increasing it's contraction and
+it's power. It's able to generate more force
+by stretching the ventricles. By filling the ventricles and
+this is called preload. Okay, so how does the body adjust preload? So there's several mechanisms by
+which preload can be increased and that's what's noted here. So the first is what's called
+the skeletal muscle pump. As an individual starts to run let's say, they are requiring more blood
+to be delivered to the muscles, to deliver more oxygen to
+the contracting muscles. The contraction of the muscle
+itself is squeezing against the veins that are within that tissue. And as it squeezes against the veins, it Is helping to propel the blood out of
+the tissue, and back towards the heart. And so that simply, the local effect, and
+it is called the skeletal muscle pump. The second way that we can increase
+the return of blood to the heart or increase venous return,
+is what's known as the respiratory pump. So again as we're running and
+we're taking bigger breaths, then the expansion of the thorax,
+as you're taking a larger breath, decreases the pressure
+that's around the heart. And that means that the heart can
+actually expand easier, and so the blood then can flow
+back into the heart faster. So this inspiration,
+that is taking in a big breath, like this, will lower the thoracic pressure. Fourth, and I'm gonna skip three, and
+we'll come back to it in a second, but fourth, we have what's
+called vasoconstriction. So this is, is that the skeletal muscle
+that's around the blood vessels on the arterial side, will constrict
+when we have a sympathetic drive. These are through the alpha
+one andrenergic receptors. As these cells constrict,
+they will force the blood then from the arterial side to the venous
+side of the circulation. And so this then,
+augments the return of blood to the heart. In addition, we have smooth muscle that's
+located along the long axis of the veins, and this smooth muscle also can contract
+and as it contracts due to the sympathetic drive, then we will again augment
+the flow of blood back to the heart. So vasoconstriction or sympathetic
+drive will increase venous return or it aids in the filling of the heart. Then what about this number three? This is called an increase in
+blood volume due to doping. Doping is a concept where
+an individual will take blood or donate blood, takes the blood
+from his own circulatory system. Let's say a half a liter,
+and he stores it. And then, just before a race, that
+blood is given back to the individual. The individual has five liters of
+blood within his circulation and he's getting back another half
+a liter to the circulation, so he now has onboard five and
+a half liter's of blood. This obviously increases
+his ability to carry oxygen because there's more red blood
+cells within the circulatory system, and it also is increasing the volume
+within the circulatory system. So we have more volume then that
+can be delivered to the heart. So this aids then in the delivery
+of blood to the tissues. It is illegal, and
+it is illegal partly because it gives an unfair advantage to these
+individuals in an athletic event. But most importantly that
+by giving this extra blood back to the individual we're
+increasing the viscosity of the blood. You're changing the pressure
+within the system. By giving more blood cells to the body, what happens is that as
+the individual dehydrates. So they lose fluid as the during the
+athletic event through sweating then this individual's blood actually becomes
+higher in the hematic increases. It has more blood cells per unit volume. And under those conditions
+the viscosity increases and this is actually harder on the heart. So it's more work for the heart to
+push through a more viscous blood and can be quite dangerous. And it is illegal. The last system that we're gonna
+consider is that the cardiac myocytes themselves are sensitive
+to certain chemicals. These chemicals are called ionotropic
+agents and an ionotropic agent is an agent that can increase
+the contractility of the muscle cells themselves, or
+the muscle fibers themselves. And that's what's shown here. So right here we have, again,
+our left ventricle end diastolic volume on the x axis, and our ejection volume,
+or stroke volume, is on the y axis. Under the resting state where
+we have normal Individual and all we've done is increase
+the volume to this individual. As we know, by increasing the volume,
+we will increase stroke volume. So if we increase end diastolic volume,
+deliver, preload to the heart, we increase stroke volume. But let's keep the end diastolic
+volume constant at 100. So, we're sitting here and now, we'll give
+an ionotropic agent to the individual. And ionotropic agents are things
+such as catecholamines. So norepinephrine and
+epinephrine are ionotropic agents. If we give a sympathetic discharge, or
+norepinephrine, to this individual, what happens is that the heart now at
+that exact same end diastolic volume, can give a better squeeze, and
+that means that it ejects more blood. So we move the stroke volume
+from something like 35 to 70. So we've greatly improved the ability
+of the heart then, to eject the blood, and that's by changing the contractility
+of the muscle cells themselves. These effects are multiple effects, they're occurring at the level
+of the myofibrils themselves and also sarcoplasmic reticulum as well
+as within the plasma membrane itself. So the entire cell becomes
+more sensitive to calcium. By doing so, we're able to have
+a faster off rate, on rate for the calcium and the contractual
+event is actually improved. So sympathetic stimulation then is
+a way the heart can effect not only venous return as we said it aids in
+the constriction of blood vessels and so by doing so we move the blood
+back to the heart faster, but it increases the contractility of
+the heart itself, the myocyte itself. The contraction of
+the myocyte is more forceful. And then lastly, as you know,
+it increases heart rate. So cardiac output, which is, cardiac
+output equals to stroke value times heart rate, the sympathetic nervous
+system not only increases heart rate, but it also can increase stroke volume,
+and therefore can increase cardiac output. Okay, so what's our key concepts then? So the general concepts are first,
+that the volume of the blood which is ejected with each beat
+is called the stroke volume and that the sum of the stroke volumes ejected
+in one minute is the cardiac output. Third, that the ejection fraction
+is the percentage of blood which is pumped from
+the heart in each beat. Fourth, cardiac output increases with
+increased filling of the ventricles, and this is referred to as venous return,
+and also as preload. And the cardiac output can increase
+with an increase in sympathetic stimulation or
+by giving an ionotophc agent to the heart. All right so see you next time.

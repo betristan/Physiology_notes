@@ -1,0 +1,284 @@
+Greetings! So today we're gonna talk
+about the heart as a pump, so we want to consider how
+it generates pressure and how by generating pressure it's able to
+move blood in a unidirectional manner. So it distributes blood to the lung and it can also distribute blood
+to the systemic circulation. To do this we'll first
+consider the structure and the function of the heart chambers and
+their associated valves. And then secondly, we want to talk about
+what's called systole and diastole. And systole is the time when
+the heart is contracting and generating pressure,
+an ejection of the blood. And diastole is when the heart muscle
+is relaxing that the valves open and the heart fills with blood. The third,
+we want to explain the cardiac cycle and that is the set you have one systole and
+one diastole. And that's one cardiac cycle and
+that's one heartbeat. And, we want talk about
+the associated heart sounds. And, those are those sounds that you heard
+from the stethoscope which is the lub dub. [SOUND] And then fourth we want to talk
+about what's known as the pressure volume loops, the stroke volume and
+the cardiac output and these are ways in which we can address
+how well the heart is functioning. So it gives us some assessment tools for
+seeing how well the heart is acting. So let's get started, so the first thing
+is as you recall the last time we met. We said that the heart has
+a right side and a left side and that on both sides, the right and
+the left, there are two chambers, the upper chamber is called an atrium and
+the lower chamber the ventricle. We have a right atrium and a right
+ventricle and we have a left atrium, which is shown here,
+and the left ventricle. And between the atria and the ventricles, at the base of the heart,
+we said there was the cardiac skeleton. And within this cardiac skeleton,
+there are valves. And there are four valves. We have two atrioventricular valves,
+one on the right, and one on the left. And then we have two other valves, one which is called the pulmonary valve,
+pulmonic valve. This pulmonic valve allows blood to be
+move from the right ventricle to the lung, through the pulmonary artery. And the other valve is
+called the aortic valve. And then the aortic valve allows
+blood to move from the left ventricle out to the aorta which is a large
+blood vessel which distributes blood to the rest of the body. So the things to remember then is
+that we have these two chambers. And that the two chambers are going
+to move in a concerted manner. So, we have blood moving in
+a unidirectional manner from one side, the right side, to the left side. And the amount of blood that moves
+from the right side to the lung. Is the amount of blood that returns
+from the lung into the left ventricle. So these two chambers then right in the
+left side of the heart are in series and so the amount that's ejected from
+the right has to be equal to the amount which is ejected from the left. The other thing that we should keep in
+mind and that is, is that on the right side, the walls of the heart are fairly
+thin relative to the left side and this is because on the right side of the heart,
+we are not generating as high pressures. Because the system that's downstream,
+that's into the lung, removing blood into the lung,
+does not have a high resistance. It's a low pressure system. So the right atrium generates about
+ten millimeters of mercury when it's contracting, and the right ventricle, 25
+millimeters of mercury when it contracts. The left atrium generates 15 millimeters
+of mercury when it contracts, and the left ventricle 120 millimeters
+of mercury when it contracts. So therefore, the left ventricle then is generating the
+most pressure within the entire system. And it has the thickest walls,
+it is the chamber with the thickest walls. One other point to remember, and that is, is that the blood is moving from
+the ventricles out through the valves, and the valves are located
+at the base of the heart. And so when the heart is contracting,
+the blood will move in this direction. So first, we have blood entering into
+the right chamber, into the right atrium. We'll move into the right ventricle, out through the pulmonic artery and
+into the lung. And it goes out through the pulmonary
+valve, or pulmonic valve. And then it returns from
+the lung to our left atrium. When it enters into the left atrium
+it moves through the AV valves, that's the atrioventricular valve,
+and into the left ventricle. And then from the left ventricle
+out through the aortic valve and into the aorta and
+out to the rest of the body. So unidirectional movement
+of blood through the system. The valves are interposed between
+the chambers to prevent back flow and this is what we see on this next slide. So we have the four cardiac valves and
+they're to prevent back flow so we want to always have movement of
+blood going from atria to ventricle. And from the right side of the heart
+going to the left side of the heart. The pulmonary and
+aortic valves prevent back flow from the arteries when the ventricles
+are relaxing and they have low pressure. The valves in general are going
+to open and close due to changes in pressure across the valves,
+and that's true for all of the valves. So when there's a pressure
+difference between the two chambers, say for instance, the atrium has a higher pressure than the
+ventricle, then the AV valve will open. When the ventricle has a higher pressure
+than the atrium, then the AV valve closes. Okay, and the same is true for the aortic
+valve and through the pulmonic valve. The AV valves are the ones which
+experience the highest pressure, so these are the valves which are closed
+when the ventricles are contracting. And so those valves have an unusual
+structure attached to them and these are chordae tendineae, and
+that's shown here on this diagram. They look like strings in
+this particular diagram. But they are tendons which
+are attaching those valves to the papillary muscles
+of the ventricles. And it's to prevent
+the valves from everting and allowing the blood to flow backwards
+from the ventricle into the atria as the ventricles are generating pressure. So unidirectional flow through the valves,
+and the valves close and open depending upon
+a change in pressure across the valves. All right so
+let's consider our cardiac cycle. So as I said to you, the cardiac
+cycle consists of two portions. One is called systole, and this would
+be when the heart is filled with blood, and it then starts to contract and will eject the increase Increases
+pressure and will eject blood. The second is called diastole, and
+diastole is when the heart is relaxing, the muscle is relaxing, and
+now the heart will fill with blood. Diastole is actually
+longer in a time period than systole in a given cardiac cycle. But one cardiac cycle has one systole and
+one diastole. So let's start the cardiac cycle
+where the ventricles are relaxed, the AV valves are open, and
+the ventricle is filling passively. This is passive filling
+because the pressure that's in the atrial is higher than
+the pressure in the ventricle. So blood is passively flowing into
+the ventricle, the ventricle is filling. We now have an electrical event
+occurring and that's our P-wave. So the P-wave simply is
+a depolarization of the atria and when that occurs the atria
+will contract and as the atria contract the pressure in
+the atria increase and that expels a last little bit of about 20 to 30% of
+the blood volume into the ventricle. The ventricle now has a higher pressure
+than the atria and the valve closes. So the atrioventricular valves will close. So the AV valve closes. At this point in time,
+we have a second electrical event, and that's called the QRS. The QRS, as you recall, the QRS complex,
+is when there is a depolarization of the ventricles and following
+depolarization of the ventricles, we'll have contraction of the ventricles. And as the ventricles contract, they will increase pressure because now
+all the valves are closed and so the blood that's within those chambers is isolated
+and as the chamber volume gets smaller, pressure will increase on the liquid or
+the blood that's within the chamber. So isovolumic contractions simply
+means all valves are closed and pressure is increasing. Pressure eventually increases to where the
+aortic valve and obviously the pulmonic valves will open, and once that occurs,
+then the ventricles continue to contract, pressure is continuing to increase and
+we have ejection of blood. Now as the the blood leaves the ventricle,
+the pressure within the ventricles drops, and as it drops then it becomes less
+than the pressure that's in the aorta or less than the pressure that's
+in the pulmonary artery. And at this point, the valves will close. So then we have all valves are closed,
+and this is where we have now, pressure is falling. And it is isovolumic,
+all the valves are closed and the volume that's within
+the heart chamber is isolated. On the electrocardiogram,
+we have the T wave occurring. The T wave indicates the relaxation or depolarization of the cardiac myocytes,
+and following depolarization, we have relaxation of the cardiac myocyte. And as they relax, the volume of
+the ventricle increases, pressure within the ventricle will decrease and eventually
+the pressure within the ventricles now will be less than the pressure in
+the atria and the AV valves will open. So during the time of isovolumic
+relaxation, all the valves are closed. The ventricle is relaxing,
+and the pressure is falling. There is a very complicated way
+of looking at the ECG changes, changes in the pressure within the left
+ventricle, and changes with volume within the left ventricle as well
+as the sounds that you hear. With the heart sounds that you hear and
+that's what's diagrammed on this particular chart and
+this chart is called the Wigger's diagram. So if you understand Wigger's diagram then
+you understand completely the cardiac cycle. So let's just go through
+it fairly rapidly and that is is that this is only
+pertains to the left ventricle. And then I'll go through
+it very quickly and then I'll allow you to sort of come
+back and look at this because, as I say, if you study this and understand this then
+you will understand everything that's happening in the heart
+during a cardiac cycle. So if you notice at the bottom we
+have our electrocardiogram and at the top we have
+the ventricular pressure. And that is the pressure which
+is in the left ventricle. So that's the blue line. So we're going to follow this blue line,
+which is pressure over time. So this is time. And the first thing that we
+notice is that we have a P-wave. And following the P-wave, the passive feeling that's occurring
+in the ventricle increases. And we have this sort of last little push,
+a last little pressure increase, and that causes closure of the AV valves. Once the AV valve closes, the heart now, all the chambers of
+the heart are isolated. And at this point, we have the QRS. The QRS occurs when you
+start to get contraction. And as you have contraction
+in an isovolumic condition, the pressure rises, and
+that's what's shown here. Until the pressure exceeds
+that of what's in the aorta. And that then causes the opening
+of the aortic valve and as the aortic valve opens,
+we have an ejection of blood. So the blood is now leaving the heart and
+entering into the aorta. Pressure continues to rise simply
+because we still have contraction of the ventricle, but
+eventually we have a T wave and when the T wave occurs that
+causes the ventricles to relax. So at that point pressure falls within the
+ventricle because enough blood has left. The aortic valve closes. A T wave occurs. We have relaxation of the muscle. And as we have relaxation of
+the ventricles, then the pressure falls. And this is an isovolumic relaxation. And that's what's shown here. The end of isovolumic relaxation,
+the pressure now is less than what's in the atria and the AV valve
+opens and we again start to fill. So if you notice,
+while we isovolumic contraction to isovolumic relaxation,
+this is called systole. So we have the isovolumic contraction and
+ejection, systole. And then when we start the isovolumic
+relaxation and eventually, filling, that's the diastole. So that's what's shown at
+the bottom of the plot. The other thing that's added to
+this plot are the heart sounds. So the first of the heart sounds is what's
+shown here, and the first heart sound occurs after you close the AV valves, and
+this is called the lub, of the lub dub. Lub dub. So, the lub is when you
+close all of the AV valves. And so now, all of the valves are shut,
+and that isolates the ventricles. By closing the AV valve, the blood
+which is moving into the ventricle, then sloshes back up against the valve. [SOUND] And you hear that
+slamming up against the valve. And that's what causes the first sound. So the first heart sound is closure of the
+AV valve, and the beginning of systole. The second heart sound occurs when you
+have closure of the aortic valve, and as you close the aortic valve, again, the
+blood can slosh back up against the valve. And you hear this [SOUND]
+sloshing against the valve. And that's the second sound. The first sound's lub,
+second sound is dub. So, you have lub dub lub dub. And that's one heartbeat or
+one cardiac cycle. So for every lub dub,
+that's one cardiac cycle. In a person at rest,
+you have 60 beats per minute, so you have 60 of these cardiac
+cycles occurring every minute. If you start running and
+your heart rate increases to 180, then you have 180 of these cardiac
+cycles occurring per minute. And there's another way of
+looking at the chances that occurring within the ventricles, and
+this is called the pressure volume loops. So we diagram the pressure on
+the y-axis versus the volume. And again,
+we're only looking at the left ventricle. Let's only consider the black circle or the black loop,
+which is the A, B, C, D loop. So if we start at A, and
+the left ventricle has 50 millilitres volume of blood in it. And as you go from A to B then
+the volume increases to 90 millilitres. So A, B is filling,
+passive filling, of the ventricle. At B, now the ventricle has enough
+pressure that it closes the valve and so once the valve closes we now have
+the end of diastole, the end of filling, and at that point, we would now have
+isovolumic contraction occurring. So isovolumic contraction is from B to C. And we're increasing pressure, but there's
+no change in volume within the ventricle. At C, the aortic valve opens because we've
+exceeded the pressure that's in the aorta. The aortic valve opens. We continue to have pressure building up
+within the ventricle because there's still contraction of the ventricle. And that causes ejection of the blood, which is a loss of volume
+within the left ventricle. And we proceed from C to D, so
+this is ejection of the blood. When we reach D, then the ventricle has
+less pressure than in the aorta and the aortic valve closes. Now we have isovolumic condition where all of the volume that's within
+the left ventricle is constant. And the ventricle relaxes. So between D to A,
+we have isovolumic relaxation and pressure falls but the volume does
+not change within the chamber. So a couple things to notice. So at B,
+B is called the end diastolic volume. And the end diastolic volume
+is the amount of volume that's present within the heart
+as it starts systoling. At D, this D is called the end systolic
+volume, and the end systolic volume, then, is the amount that's left within the heart
+after we've had an ejection of blood. So if you notice, the heart's never empty,
+there's not a vacuum within the heart. There's blood within the heart,
+and under this condition, there's 50 millilitres present at end
+diastolic volume, end systolic volume. The difference between end diastolic
+volume, that is the filled volume, and systolic volume, the volume after
+ejection, is called stroke volume, so that's the amount of blood that's
+been ejected from the heart. So end diastolic volume minus end systolic
+volume is equal to stroke volume, and in this case, it would be 90
+millilitres minus 50 millilitres, or 40 millilitres would
+be our stroke volume. So, we are interested in
+the end-diastolic volume because it tells us how much volume is present within
+the heart, how big the heart is. And we're gonna return to end-diastolic
+volume, stroke volume again and systolic volume again
+in the later lectures. But given today, we'll just say that
+the end-diastolic volume in each ventricle is normally about 125 milliliters and
+during one systole, the volume of blood that's ejected, or the stroke
+volume is usually about 70 millilitres. So since not all of the blood then
+is ejected from the ventricle, only part of the blood that's been
+filled into the ventricle is ejected, the volume that's remaining is
+that end-systolic volume and this is usually 55 millilitres and
+that's what's shown here so we have. So we have end the SV = EDV- ESV. Now the cardiac output is the amount
+of blood that the heart is giving to provide enough oxygen for all the tissues. And cardiac output has to vary depending
+upon the demands of the tissues of the body. The cardiac output is the volume
+which is pumped per minute and it depends on both the heart rate and
+on the stroke volume. So the cardiac output is equal to
+stroke volume times heart rate, and we said that the heart rate was
+typically about 72 beats per minute, and the stroke volume is about 70 beats,
+70 millimeters and so that means that the cardiac output
+is about five liters per minute. Now if you recall in our athlete, we said that the athlete could
+have a very low heart rate. This resting heart rate could be
+something like 35 or 50 beats per minute. But his cardiac output is about the same. His cardiac output is around 5 L/min. So how is he able to cope with having
+a cardiac output of 5 L/min and a heart rate that's only lets
+say 50 beats per minute. And the way that he copes is that the
+cardiac output is equal to stroke volume times heart rate. If the heart rate is 50, and
+the cardiac output is 5000 millileters per minute, this is 50 milliliters. Then the stroke volume is the cardiac
+output divided by heart rate. So in this particular case, then,
+we'd have 5,000 divided by 50. Or 100. So the stroke volume is equal to 100. And we said that a normal person and that the stroke volume is about
+70 milliliters per minutes but in the trained athlete who has a lower
+heart rate, he has a larger stroke volume. And what happens with training is
+that the heart becomes stronger, the walls of the heart become. Thicker and
+the chambers can become a little larger. The heart grows and becomes stronger
+because it has to meet the demands of whatever the athletic event is. So they compensate by having
+a larger stroke of volume but they have a lower heart rate. And this is an advantage. So that when they start, let's say 50
+beats per minute and they end up at 200 beats per minute, which is the maximum
+heart rate that the fellow can have. So that he's able to still fill the heart
+because of the heart rate is too fast, you're unable to fill
+the heart adequately. If it starts with a 50 beats per
+minute and a large stroke volume then you can move up to 200 beats per minute
+and be able to have a much larger ability to change, or to vary his
+heart rate, or his cardiac output. Then say I would, where I start with 80 beats per minute
+in a much smaller stroke volume. And again, I end up with 200 beats
+per minute as my maximum heart rate. But I have a shorter period for
+movement of my cardiac output. All right, so,
+what are the key concepts then? So, the heart consists
+of two separate pumps. Blood moves in a unidirectional manner
+from the right heart to the lung for gas exchange,
+then returns to the left heart from which it is pumped to the systemic
+circulation for delivery to tissues. Secondly, each beat of the heart
+that's our cardiac cycle starts with an electrical evacuation
+of the atria and then of the ventricle. And the sequence is the same on
+the right side of the heart as it is on the left heart. And thirdly,
+we have the ventricular contraction and ejection occurs during systole and
+beginning of systole coincides with the first heart sound and
+ends with the second heart sound. So the first heart sound, we're closing
+the AV valves, the heart is full. And the second heart sound where
+we are closing the aortic and pulmonic valve, because the heart
+now is starting to relax and pressure is lower than what's downstream. Fourth, the ventricles relax and
+fill during diastole. And diastole begins with that second heart
+sound and ends with the first heart sound. So diastole is when the muscle is
+relaxing, pressure is falling and we have passive filling with blood. Next we have the volume of
+blood that's ejected with each beat is called the stroke volume and that the sum of the stroke volume ejected
+in one minute is our cardiac output. Okay, so the next time you come
+in we're going to consider the cardiovascular system in more
+detail so I'll see you then.
