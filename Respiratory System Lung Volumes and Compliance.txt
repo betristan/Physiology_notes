@@ -1,0 +1,203 @@
+Hello, this is our second video that is
+going to focus a little bit more on lung volumes, on looking more closely at the
+air that we're bringing into our lungs. And then we're also gonna talk about lung
+compliance, which is the idea of how distensible the lung is, and
+what that means for lung function. So let's start off talking
+about lung volumes, where we've already talked
+about tidal volume. We said that is going to be how
+much air we're breathing in or out during a normal breath at rest. So we also said that was
+about a half a liter. So here is a graph of
+different lung volumes where, here at the beginning,
+the subject or patient is breathing normally with just normal tidal
+volume, up and down, air in and out. And so then at this point they
+are told to breathe in and then breathe in absolutely
+as much air as you can. So if you take a normal breath, you could even fill your lungs even more. And so that extra air that you
+can add to your lungs above your normal tidal volume is called
+the inspiratory reserve volume. And that's what's shown right here. And that's this portion of the curve. So most of these values can be measured
+just with a handheld spirometer. So it's very easy to measure these values. And these values are gonna
+be important for diseases. These values are gonna
+change with disease, and we'll be talking about that a fair amount. So you've got the amount you can inhale after you've already
+taken a normal breath. That's inspiratory reserve volume, and
+it helps to kinda try this out, I think, to get a sense of what I'm talking about. Then you can do a normal exhalation and
+then exhale even more. So in a similar way, this is gonna
+be expiratory reserve volume. Now once you've completely removed all the
+air from your lung that you can remove, so if you exhale completely,
+you still have air in your lung, otherwise your lung
+would complete collapse, which is very difficult to overcome
+because of the surface tension of water. So that air that's left in the lung,
+which is perfectly normal and very important,
+is called the residual volume. So we can put these numbers
+together to come up with some other capacities that are important for
+understanding the lung. So if you exhale a normal exhale and
+then completely fill up your lung, so that's adding the tidal volume and
+inspiratory reserve volume, you can call that inspiratory capacity. And a really important
+number is vital capacity. That is if you take a complete breath in
+so that your lungs are completely full and then you exhale all of that
+air as much as you can, that determines the vital capacity. So that is your capacity that you can use. It doesn't include residual volume, but you can't use residual volume to
+bring air in or out of the lung. So vital capacity is important. And then you can also
+determine total lung capacity, which would be vital capacity
+plus residual volume. As you can imagine, residual volume
+is gonna be difficult to measure. It's possible to measure it, but
+you can't measure it with just a small, handheld spirometer because the spirometer
+is measuring the air coming in and out of your lungs, and residual volume
+does not come out of your lungs. We can also look at
+functional residual capacity, which is basically the volume of the lung
+once you've exhaled a normal breath. So the next slide will give you
+the definitions of all these terms. But before we move on I just wanna
+point out that these values, as we've mentioned already, are gonna
+change with certain disease states. And one thing that you can look
+at is the residual volume, comparing it to total lung capacity. So what proportion of all
+the air that's in your lung can you not expel, the residual volume. And so there are going to be certain diseases called obstructive
+diseases where it's hard to exhale. And so, as you can imagine, in these diseases patients will tend
+to have an increase in residual volume. Since they have problems exhaling, then
+they end up having more air in their lungs once they've exhaled versus
+a restrictive disease, which we'll be talking about examples
+of these in a minute, where for some reason you can't open up your
+lungs the way a normal person can. And so in that case total lung
+capacity is going to decrease. So here's that slide I
+was mentioning where it lists these terms and their definitions,
+which I have just gone over. And now we're gonna switch
+to talking about these two types of lung diseases, obstructive
+diseases versus restrictive diseases. And we're gonna be referring to these
+throughout the rest of the video. So it's important to get an understanding
+of these because they really are helpful in understanding how
+the normal lung functions by comparing what happens in these diseases. So as I've mentioned, an obstructive
+disease means that it's hard to expire. And that often means that
+residual volume can increase. Examples of this would be in asthma, when you're gonna have inflammation and
+contraction of smooth muscle in the airways so
+that you're gonna increase resistance. Another example is going to be in COPD,
+Chronic Obstructive Pulmonary Disease, which comes kind of in two flavors,
+chronic bronchitis, which is where you're going to have
+a lot of mucus in the airways, and people can have also emphysema. Or they can have both forms of COPD,
+where the alveoli are destroyed, and often that's because of
+a lack of elastic tissue, which means that the long is
+very easy to open to fill, but then it doesn't have
+that recoil to exhale. And then you can also get
+collapse of small airways. So we're gonna be talking more about this. But it kind of is anti-intuitive that
+you'd have a disease where it's only hard to exhale when you think the same
+processes would also affect inhalation. But the important thing to keep in mind
+with that is that, when you're inhaling, you're opening everything up, you're stretching those airways
+even if they're collapsed. And so in that way, you can have these
+processes that don't really affect inhalation very much, but
+what they affect is exhalation and particularly exhalation when you're really
+having to squeeze out the air to get it out quickly because that's
+a compressing process. And so if you already have a problem with
+small diameter or with something that collapses easily, then exhaling is gonna
+be much worse and be much more difficult. The restrictive lung diseases
+are that the lungs can't expand for some reason and so
+total lung capacity has decreased. So one example of this that we'll be
+talking about are fibrotic diseases, which is when connective tissue is
+being added to the walls of the lung, connective tissue that doesn't stretch. And so then that elasticity
+of the lung has been removed, and so you just can't stretch it as
+much and total lung capacity decreases. And then there can also be conditions
+such as scoliosis, when you have a curvature of the spine that literally
+prevents the chest wall from expanding. But it's gonna have the same
+effect of preventing a large increase in volume and
+reducing total lung capacity. So we're going to use these diseases
+to look at what happens when we consider compliance of the lung,
+which is going to be defined by the change of lung volume that's
+going to occur when you change the transpulmonary pressure, so when you
+change the pressure across the lung. So you can think of it as,
+if you apply a certain amount of force, basically, to open the lung
+how much does it open? How much does the volume increase? So that's what's shown here where
+we got pressure on the x-axis and lung volume on the y-axis. So lets consider a normal lung,
+which is the blue line, where you apply a certain pressure, the
+lung opens, and that continues at a pretty linear fashion until you get up here
+where we're starting to get a plateau. So this It's gonna make sense,
+because here, you've got a very high lung volume,
+so your lung's already full. And so you can apply a lot of pressure,
+but it's not gonna get bigger, cuz it's full. So this is perfectly normal,
+and it makes sense. So this is kind of a normal
+amount of compliance, which you can also think as the
+distensibility, how easily it is opened. Now the thing to keep in mind with
+the lung is, as compliance increases, recoil is going to be
+inversely proportional. So if compliance increases, recoil, which is the amount that
+it's going to shrink, is going to be changed in
+the opposite direction. So that's what we're gonna talk about now,
+where in a normal long you've got kind of a medium amount of compliance and
+a medium amount of recoil. In a disease where you have increase
+compliance, which is this green curve, that is gonna mean that
+it's easy to open the lung. You can see we're applying a small amount of pressure and
+we're getting these huge lung volumes. So they've got increased compliance, but if you have increased compliance,
+that means recoil has gone down. So you can think of this as, In emphysema, when the elastic tissue has been
+destroyed, which means hey, you've got nothing that is trying to
+prevent you from opening the lung. So that means it's easy to fill it, but then the problem is you
+need that elastic tissue. You need that recoil to
+cause the air to come out. And so, you've made it easy to breathe but
+harder to exhale because you've increased the compliance, and
+you've decreased the recoil. So you could think of this,
+in a very extreme way, as if I had this paper bag,
+where I've got very high compliance. It's gonna be easy for me to put air in
+here and expand it, but then I'm gonna have low recoil, and so it's gonna
+be hard for the air to come out. [SOUND] Okay, so
+here I've filled the bag very easily, but then the air isn't really coming out of
+it because it's got basically no recoil. So this is increased compliance and
+low recoil. Let's talk about the other situation
+where we would have decreased compliance, which means we're applying
+lots of pressure or force, and our lung volumes
+are not increasing very much. So let's say we have connective tissue, which means that the lungs just aren't
+going to stretch the way that they should, and so it's taking more force,
+energy pressure, to get air into the lung. So we've decreased compliance, but
+that means that we've increased recoil so that it's gonna be easy
+to get the air out. And so an extreme example of
+that would be this balloon, where it's gonna take me
+a lot of pressure, and force to fill this balloon,
+especially compared to the paper bag. But then when I let go,
+air is gonna come rushing out, because it's got lots of recoil. [SOUND] Okay, so
+it's got low compliance and high recoil in the balloon. So obviously our lungs are gonna
+fall somewhere in between these two examples, but you need both. You need to be somewhat compliant, and you need to have a certain amount of
+recoil for the lungs to function properly. So what is so important and what are the properties of the lung
+that allow us to have this compliance? And we've already talked a little
+bit about elastic tissue, which is going to kind of
+make it harder to fill it but definitely provide that
+recoil of the lung. And so in emphysema we're
+destroying that elastic tissue, and so compliance is going to increase. And then in fibrosis, we're adding connective tissue that
+doesn't stretch to the lung, and so the lungs are not as distensible,
+and so compliance is going to decrease. the other factor in compliance of the lung
+is surfactant, which we only talked about because remember, type II cells of
+the alveoli are goinna make surfactant. They're going to actually make it in
+response to the lung being stretched. And surfactant is a detergent-like
+molecule, that's what's shown down here, where it's gonna have hydrophilic and
+hydrophobic portions of the molecule. And that's what's going to help it
+reduce the surface tension of water so that every time we breathe,
+since we're expanding the lung, we're having to fight or
+combat the surface tension of water. We're having to overcome that force. And so,
+surfactant reduces the surface tension so that it doesn't require as
+much force to open the lung. So this is most easily demonstrated
+in certain premature babies, who, because they are premature,
+are not yet making surfactant. Breathing, just normal breathing,
+requires a tremendous amount energy for these babies. They can die from exhaustion
+of trying to breathe. And so it's a very Illustrative example of how much force it takes if you don't
+have surfactant in your lungs. Luckily, babies can be
+treated with surfactant that can make their breathing normal until
+they start making surfactant themselves. Another side note is just that
+there are other surfactant molecule types that are important in lung defense. Another issue in the surface
+tension situation is that our alveoli in our lungs
+aren't gonna be exactly the same size. And so because of that,
+then you have to worry about what's happening with the pressure and if it's gonna be equal because
+of the law of LaPlace that says that the pressure in the alveoli
+is going to be equal to 2T/r. So since a radius is involved in
+the pressure in the alveolus and we can have alveoli that are different
+sizes, that means that if we have the same surface tension in
+two differently sized alveoli, we're gonna have a difference in pressure,
+which means that the smaller alveoli that have the smaller radius
+would have a higher pressure and that air would then flow from the small
+alveoli to the large alveoli, which is not the direction
+we want the air to flow. So the amazing thing about
+surfactant is that it preferentially lowers the surface tension
+in the smaller alveoli so that the small alveoli and
+the large alveoli have the same pressure. So that's what's shown here. It lowers the surface tension in
+the smaller alveoli more so that, even though they have a different radius, the
+pressure in alveoli #1 and 2 are the same. So that's another important
+aspect of surfactant, just based on its molecular properties,
+that it is able to do that. So we've talked about
+different lung volumes, how we can measure them, and how they
+can change a little bit in disease. We'll be talking about
+that more in the future. And then we also talked about compliance. So that's going to be
+a measure of distensibility. And if it's increased, then that means
+recoil is going to be decreased so that it's gonna be inversely
+proportional to one another. And we talked about how in
+a restrictive lung disease, the lung is gonna have low compliance,
+but it's gonna have high recoil. And in an obstructive lung disease, we're gonna have high compliance but
+then low recoil. And we'll be talking more about these two
+types of diseases in future sessions.

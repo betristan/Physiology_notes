@@ -1,0 +1,177 @@
+Welcome back. We're going to consider this time,
+some pulmonary function tests. So we're gonna look back again at some
+of the volumes that are flowing in and out of the lung and how this can change
+with diseases and then we're gonna start to consider more about the actual
+composition of the air in the alveoli. Cuz in the next session, we're gonna
+start talking about oxygen transport and talking about the pressure of oxygen and carbon dioxide in the alveoli
+versus the capillary and so we're gonna start moving in that
+direction during this session. So pulmonary function tests. So these are again, gonna be used
+in helping to diagnose patients with obstructive versus
+restrictive lung diseases and also monitoring their disease progression. And so one thing that can be measured is
+the vital capacity or more specifically, the forced vital capacity, which is really
+what we've talked about before where you're going to completely fill the lung
+and then see how much air you can get out. So that you get down to the only
+thing that's left is residual volume, then there's another thing
+that can be measured, which is how much you can
+expire in one second? So completely fill your lung and then see
+how quickly you can get the air out and how much of it gets out in a second? So if you take the ratio of these two
+numbers, how much can you get out in a second versus how much you can get
+out over an unlimited period of time? That should for a normal person be 80%. You should be able to get 80% of
+the air out of your lung in one second, of the air that you are going to
+be able to get out of your lung. This is gonna exclude residual volume. So in our two types of disease states,
+then these numbers are going to change. And this should be somewhat
+predictable that someone with an obstructive lung disease,
+they have a problem getting their air out, then this ratio is going
+to be less than 80%. They're gonna get less than 80% of their
+air out of their lung in one second. Their vital capacity, their forced
+vital capacity is gonna be normal. They have a normal lung capacity. In a restrictive lung disease where
+they have a problem getting the air in, they have no problem getting it out. So their FEV1 to FVC
+ratio should be normal, they should be able to get 80% of
+their error out in one second. However, it's the actual numbers for
+those two capacities that should be different, because
+their vital capacity is smaller and then that means the actual number,
+the volume for their FEV1 will also be smaller even
+though their ratio should be normal. And we're gonna see that
+in this next slide, where Y is going to be this pulmonary
+function test for a normal person. Where here at the beginning, you can
+see they're taking a normal breath. It's about a half a liter. So they're breathing in,
+breathing out normally. And then they're told, okay,
+inhale as much as you can and that's where they are right here. And then they're told, okay, breathe out. Push out that air as fast as you can and
+all of your air. And so that's when they exhale, do that
+force expiratory volume for one second. And you can see here after one second,
+they've gotten 80% of their forced vital capacity exhaled and
+they have just a little bit left. So their forced vital
+capacity is of course, normal and the FEV1 is normal. Now, we can consider someone with
+an obstructive lung disease. Let's say, like emphysema, which is
+this X curve where here in this example, they're breathing with their
+lung being more inflated, which is probably going to be a good
+compensation to help them exhale. So they take a normal breath and
+then they're told. Fill up your lung and then their told,
+okay, exhale as quickly as you can and that's when their pushing and
+pushing at the air. But you can see after one second,
+they've all only gotten a small portion of their
+forced vital capacity out and it takes many, many seconds for
+them to get to that 80% point. So that's gonna be typical of
+an obstructive lung disease. In a restrictive lung
+disease is at curve Z, then you can see that when
+they do their inhaling, it's a much smaller volume
+that they're able to bring in. So for instance,
+they may have scoliosis and they just cannot expand their chest
+wall anymore to let in any more air. But then when it's time for
+them to exhale, it's no problem. They can get the air the out and so they're still gonna get the vast
+majority of their air out, but you can see that their forced vital
+capacity is about two liters here and their FFVC should be at about 80% of that. And so if you look at the actual
+volumes that are being measured, they're much smaller even though the ratio
+of the two numbers is still 80%. So we're gonna really switch gears now and start to consider what is the composition
+of the air in the alveoli. This is an important thing to keep in
+mind is that when we're breathing, we are not completely replacing
+the air in our lung not even close. So that's what this is supposed to
+point out, we're gonna have our conducting volume and our respiratory
+volume about 150 mLs versus 3 liters. And let's say, here we have a total
+volume of 450 mLs, pretty typical. We're gonna bring that into
+the respiratory system and the last 150 mLs, however is
+gonna fill the conducting volume, which means that only 300 mLs
+of that 450 is actually reaching the respiratory potion that can
+actually exchange with the blood. So by taking in a normal breath, we have only replaced the about
+10% of the air in our lung. So that's an important thing to keep in
+mind that we're only replacing a small portion of our air when we're breathing
+in, in a normal breathing like this and that a lot of what we're doing is
+filling the conducting volume. That means that we have to
+really consider how much that conducting volume is
+which is also the same thing that we're gonna
+refer to as dead space. So we already talked about
+what minute ventilation is. That's going to be how much air
+you're bringing into the respiratory system each minute. So we're gonna calculate using the tidal
+volume multiplied by the respiratory rate. So we've got three
+different scenarios here. All three have the same minute
+ventilation multiplying the respiratory rate
+times the tidal volume. However, we know now that we really
+need to consider alveolar ventilation. That's what we care about is how much
+fresh air is getting to the alveoli. So to calculate that,
+we're going to take the tidal volume and subtract the volume of the dead space. Which in this case, we're gonna assume
+is just the same as the conducting space volume of 150 mL and then we're going
+to multiply it by the respiratory rate. And so if we do that for scenario one,
+we're seeing this person is basically breathing 50 times a minute, but
+only bringing in 100 milliliters. So, it's basically like they're panting. [SOUND] And so in that case,
+they're only bringing in 100 mLs, they're not even filling their
+conducting space or their dead space of this air is zero liters of this
+air is getting into the alveoli. So the alveolar ventilation is zero. If we have someone that has really
+a normal breathing pattern of 10 breaths a minute of 500 mLs, then their
+alveolar ventilation 500 minus 150, which is 350 times 10 is
+gonna be 3,500 milliliters. And then if we have someone that is
+breathing only five times a minute, but taking deeper breaths,
+then we'll subtract 150 from 1,000 and multiple by 5 and
+til we have actually a greater alveolar ventilation if where taking
+deeper less frequent breaths. So that we can have the same
+minute ventilation, but yet have radically different
+alveolar ventilation. So it's important to keep
+that in mind that minute ventilation does not
+necessarily mean all that much, that alveolar ventilation is
+also very important to consider. So now that we know the volume of the air
+that is getting into the lungs or getting into the respiratory portion of
+the lungs, then what does that mean for the actual pressure of the different
+gasses that are in there? So that's what we're gonna start
+considering, where we know that most of the air we breathe is gonna be
+nitrogen and only 21% oxygen and that in the air we breathe
+carbon dioxide is very low. We also know that the total
+pressure is gonna be made up of the sum of the partial
+pressures of the gases. And that means that the pressure of oxygen
+is going to be equal to the fraction of inspired air that's oxygen
+times the atmospheric pressure. So since oxygen's 21%
+of the atmosphere and the atmosphere pressure is 760, that means in the normal
+air that we are breathing, the pressure of oxygen is
+160 millimeters of mercury. Remember that I said
+that one of the roles of the conducting system was
+to moisturize air and so that means that we're adding
+the vapor form of air. And so vapor form of water and so that is going to be
+the vapor pressure of water is 47 millimeters of mercury. And so that has got to be
+subtracted from 760 millimeters of the pressure of
+atmospheric air to calculate now what the new pressure
+of oxygen is going to be an inspired air 150
+millimeters of mercury. So that's the number, the pressure of
+oxygen in the air once it's entered into the respiratory system before
+it's been diluted by the air that's already in there and
+that's what we're gonna start considering. So this is what we've just calculated. We're gonna say that we know the pressure
+of oxygen in the atmosphere is 160. Once it gets humidified, it's gonna
+become 150 millimeters of mercury. We've already said, the pressure of
+CO2 in the atmosphere is very low. Once we get to the alveoli
+that we've got this P big A, the pressure of oxygen is going to be
+much lower and that's going to be. Because remember,
+we said that fresh air's gonna be diluted. We're not gonna completely
+replace the air in the lungs. So, it's gonna get diluted by old air and the old air is having the oxygen taken
+out of it continually by the blood. So that's why the pressure of oxygen
+is gonna be lower in alveoli. For CO2,
+we are going to have a different issue. Where CO2 is constantly being
+diffusing into the lungs and so that means that the pressure
+of CO2 in alveoli is gonna be much greater than the almost negligible
+pressure of the air that's coming in. Then once we look at
+the pressure of oxygen that's dissolved in the artery or
+in the arterial blood, that's gonna be P little a or
+not capitalized. So that's gonna be our symbol for
+arterial blood is Pa. P little a. So that's something to keep in mind, because I'm going to be referring to
+these abbreviations a fair amount. So you can see that the pressure
+in the arteries is basically matching almost exactly
+the pressure in the alveoli. And that's true for oxygen and
+CO2, so we're getting basically complete equilibration between
+the alveoli and the arteries. And so that means that
+the pressure of gas in the alveoli is going to be what is gonna
+determine the pressure of oxygen in the blood and
+that's what is important. So then that arterial blood is
+gonna be taken to the organs and the organs are going to take
+the oxygen and dump CO2. And so you'll see that the pressure
+in veins of oxygen has now gone down to 40 millimeters in mercury. So, a lot of it's been dumped and
+that now our pressure of CO2 in the veins has increased from 40
+to 46 milliliters of mercury and we'll be talking much more
+about these pressures and about how these gases are carried
+in the blood in future sessions. So we've talked about Ventilation,
+we've talked about minute ventilation, but now we've also considered
+alveolar ventilation. How much fresh air is getting to
+the alveoli, cuz that's what matters. We've also talked about how
+that means you're gonna have to consider dead space where we've
+got anatomical dead space, which is the only kind of dead
+space we've considered so far, which is just the conducting
+zone of the respiratory tract. Later, we'll consider a little bit
+areas of the lungs that are not well ventilated or perfused, which is also
+gonna be included when we talk about physiologic dead space and that's
+gonna occur in just even normal lungs where we don't have perfect ventilation or
+perfusion in different areas.

@@ -1,0 +1,182 @@
+Welcome back. We're going to be talking now about
+pressure changes and resistance. So we're gonna talk more specifically
+about the changes in pressure that occur when we're gonna breathe. And then we're also gonna factor
+in resistance of the airways and how that's gonna affect the amount
+of air that we get into our lungs. So to start off we need to go back to the
+anatomy of the respiratory system again, where we said that we're gonna have
+our lungs in the chest cavity. And we've been talking about how, if the chest wall expands,
+the lungs are going to expand, as well. And so this is the explanation for that,
+and it's because we have the pleural sac, where the inner layer of the pleural
+sac is attached to the lung. So that's right here. And then the outer layer is
+attached to the chest wall. And in between, we have fluid, so that whatever happens to the chest wall,
+the lungs are gonna follow. You can think of this like an example, if you have two glass slides,
+or two glass plates. And you know if you put
+water in between them, you're going to be able to slide
+them along each other very easily. But to pry them apart
+gets really difficult, again because of the surface
+tension of water. And so that's how this fluid in
+the pleural sac functions, to allow for there to be no friction between
+the lungs and the chest wall, but yet to keep the lungs next to the chest wall. So that's the function of the pleural sac. So now that we've talked about that, we can consider the pressure
+in the pleural sac. So we've got a few things marked here,
+where we've got the pressure, atmospheric pressure. Which we're going to just assume is zero. We know it's really equal to 760
+millimeters of Mercury, but for ease of computations we're gonna just
+call it zero millimeters of Mercury. And we've already talked about
+the pressure in the alveoli, which is gonna be P capital A, P big A. So we're just kind of considering
+the pressure in the lungs in general in this diagram. And then we've got the chest wall and
+the intrapleural fluid. That that fluid in the plural
+sac between the lungs and the chest wall,
+which we're gonna call PIP. Remember even at rest,
+we've got two opposing forces. We know we've got the recoil of the lung. That's what's represented right here. And then the chest wall
+also has its own recoil, so that it wants to expand. So that means that on this pleural space,
+we have two opposing forces, that in this diagram, both have
+a pressure of zero, and so, that's going to mean that the Intrapleural pressure is
+going to be negative in this situation. Because it's got two forces pulling
+on it in opposite directions. So that we can say, that the difference
+in the alveolar pressure and the intrapleural pressure is
+gonna be what determines lung volume. And we'll see that in just a minute. The important thing, too,
+is that for the lung to stay open, the intrapleural pressure needs to
+be less than the alveolar pressure. It could be, even if it becomes equal,
+you're gonna have an issue. And this is what happens in pneumothorax,
+for instance if you get stabbed or
+somehow poked, so that you allow air to
+enter that pleural sac, which then makes this intrapleural
+pressure equal to zero, which means that it's equal
+to alveolar pressure. And so, that's called a Pneumothorax. You've got air in that plural sac and then
+that's what causes the lung to collapse, when the Intrapleural pressure
+equals the alveolar pressure. And so, not only will the lung collapse
+but then the chest wall will also expand, because you've also removed it from
+being held into the pleural sac. So you'll have both a lung collapse and
+the chest wall expand, if you make this pressure
+equal to alveolar pressure. So let's talk about then what's gonna
+happen through the ventilation cycle. We're gonna start at
+the end of expiration. Where we've just exhaled. And so now we've got the scenario
+that we just talked about, where the chest wall wants to expand,
+the lung wants to contract, and so we've got a normal Intrapleural
+pressure of negative three. As we inspire,
+just when we are starting to inspire, we are going to increase the force that the chest wall is
+exerting on the system. It;s expanding. And that's gonna stretch the lung, so
+it's gonna have greater recoil, and so that the intrapleural pressure
+will now be even more negative. [SOUND] Since it's more negative and
+we said that the difference between the alveolar pressure and
+the intrapleural pressure is gonna be determined the lung size, then that's
+going to cause the lung to expand. As the lung expands it's gonna be
+a greater volume with the same amount of air. And so, according to Boyles Law that means
+now we're gonna have a negative pressure in the alveoli. The intrapleural pressure is still more
+negative, but now we have a negative pressure in the alveoli which
+means we're gonna have airflow in, because the difference in
+the alveoli pressure and the atmospheric pressure
+determines air flow. In this next step,
+at the end of expiration, now we have made the chest wall even greater, so
+our intrapleural pressure is even more negative, our recoil of our lungs
+is even greater, cuz it's larger. And so now we've had our increase even more in
+the volume of the lung. And at the end of expiration, after
+just a split second, then we will have equilibrated between the albular
+pressure and the atmospheric pressure. So in between breaths,
+the pressure will equilibrate, between the alvuli and
+the atmospheric pressure. Then we're gonna start to expire, to
+exhale, we're gonna relax the diaphragm. So that means that our force that
+the chest wall is producing to expand has now greatly reduced. And so, our intrapleural pressure
+is going to be less negative. Our alveolar,
+our lung is gonna be smaller now. And since we've got the same
+amount of air in a smaller space. The pressure has increased in the alveoli,
+which means air is gonna flow out. That's going to continue to happen
+till we get to the end of expiration. Where now we're back to
+where we started from. Our intrapleural pressure is negative,
+but not that negative so our lungs size is not that large. And we've had time for equilibration so
+that our alveolar pressure is zero. This is what I call the plastic lung and it's going to demonstrate a lot of the
+principles that we've been talking about, in terms of the pressures that are
+occurring and changing during breathing. So, the black balloon is going
+to represent the lung, and the air in the canister is going to
+represent the Intrapleural space. And then if I pull on
+this latex at the bottom, then I'm going to make the volume
+inside the canister larger. Which is going to decrease the pressure
+in the intrapleural space, which is gonna occur during inhalation,
+and it's going to expand the lungs. So, as I make the air chamber larger,
+which means the pressure's gonna go down. Then the lung is gonna follow. That's what we talked about,
+of the difference between the pressure inside the alveoli
+versus the intrapleural pressure is gonna determine the size of the lung,
+and that's what's happening here. Decrease the intrapleural pressure,
+the lung is going to expand. Increase it by making the chamber smaller,
+and the lung contracts. Then remember we also talked about how
+it's important that the intrapleural pressure always be less than
+the pressure in the lung. That if not you're gonna have the lung
+collapse, which is a newmathorax, which happens to people if they have fluid
+or air enter the intrapleural space. And so when I remove this stopper,
+which is gonna let the chamber equalize with the atmospheric
+pressure which is the same pressure inside the balloon,
+you'll see how the balloon collapses. [NOISE] And we now have a collapsed lung. So now we're going to consider
+resistance in the airways, what influences resistance, and
+then how that's going to effect airflow. So again, we're gonna have this same,
+equation that we use in the cardiovascular system, where the difference
+in the alveolar pressure, and the atmospheric pressure is
+what's gonna determine flow, and that we're gonna have a large
+contribution from resistance. So we know that one of the most
+important things in resistance of these tubes is gonna be the diameter. The smaller the diameter,
+the greater the resistance in the tube. And so flow will decrease. And the lung,
+the farther you go into the lung, the more tubes you have,
+the more cross sectional area you have. So the resistance is gonna get lower,
+as you enter the lung. And then we've also talked a little
+bit about how lung volume is going to affect the diameter of the airways, so that when your lung is full,
+everything's stretched. And so the airways are not as compressed,
+and so resistance is gonna be decreased. And this can actually be used as
+a compensation for lung a disease. So if it's hard to exhale,
+as in an obstructive lung disease, then you can kind of breathe
+sometimes at a greater lung capacity, so that your lungs are more
+inflated even when you're exhaling. It can be a compensation for
+certain lung diseases. As with the circulatory system,
+we're going to be able to control the diameter, particularly of
+bronchioles with all that smooth muscle. To be able to control flow. And this is gonna be in contrast
+to the circulatory system, where sympathetic stimulation is gonna
+cause relaxation in the bronchioles. This makes sense if you're doing flight or
+fright. You're gonna want to be able
+to open up your airways, so that you can get air into the lungs,
+and so you're gonna want relaxation. In contrast to when you have
+parasympathetic stimulation, you can have that smooth muscle
+constricted and contracted. And then we've talked
+about this a little bit, but we're gonna talk about
+it a little bit more where, the elastic recoil of the airways
+is gonna be important. So in diseases such as emphysema,
+where we have the reduced elastic tissue, which means we have increased compliance. But decreased recoil that can affect,
+since you've got less recoil by the lung, that means that the intrapleural
+pressure is gonna be less negative. You've got less of one of those forces,
+that is making it negative, and so the airway diameter can be smaller,
+and the resistance can be higher. So, if you don't have that recoil,
+then that can affect the airways, and that's what we're gonna
+be talking about right now. This is gonna be
+particularly prominent when your really trying to
+force the air out quickly. So for instance,
+if you're trying to exercise so that you can get the air out quickly,
+and then quickly inhale. And so you want to do a forced exhalation. Force the air out quickly. In a normal person, that will be
+that the Intrapleural pressure can become positive, cuz you're really
+squeezing that pleural sac, however, it's still less than the ovular pressure,
+so we're not gonna collapse the lung. We've got that good lung recoil,
+so we're going to. The lung is gonna really contract or get smaller, which is gonna
+make that pressure increase. And then as it moves out
+of the respiratory system, the pressure will drop because
+of the resistance of the tubes. The thing that would be worrisome is
+you want to make sure that the pressure in these tubes is at least equal,
+or less or greater, sorry,
+than the intrapleural pressure. Otherwise, it will collapse. And so here when the pressure finally
+does get below the intrapleural pressure, it's okay because it's in
+a structure like a bronchus, or the trachea where there's cartilage. So it's not gonna collapse. This is in contrast to
+an obstructive lung disease, like emphysema,
+where we've lost some of our recoil, so that even though we have
+a high intrapleural pressure, because the lung is recoiling less,
+and it's getting smaller, less efficiently, we've produced
+a smaller alveolar pressure. It's closer to the intrapleural pressure. And then, we often are gonna also have
+an increased resistance in the airways, so that we can also have a more
+rapid drop in pressure. So, in this case, what we're seeing
+is we have this spot right here where we've got a pressure inside the airway that
+is less than intrapleural pressure. And it happens to be in a portion of the
+system that doesn't have cartilage, and so what that means is we're gonna have
+compression at that spot if not collapse. And so we'll get this state where
+we'll have dynamic compression, where the pressure will build up and
+open it, but then it'll fall again and we'll have this dynamic process
+of it opening and closing. Because of all these factors
+of less recoil on the lung, and higher resistance in the airways, that makes the pressure drop more quickly
+into areas where there isn't cartilage. So, we've talked about the differences
+in pressure that are gonna determine airflow and lung size. And then we've talked about how airway
+resistance is going to increase even in a normal person during expiration. But during forced expiration,
+if your your intrapleural pressures are going to become positive,
+small airways can become compressed, especially in diseased states, and
+then they could even collapse.
